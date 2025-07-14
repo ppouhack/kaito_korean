@@ -1,1624 +1,1711 @@
 {
-  "project_records": {
+  "projects": {
     "UXLINK": {
-      "project_info": {
-        "name": "UXLINK",
-        "icon": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FUXLINK%252FUXLINK.jpg/w=64&q=90"
-      },
-      "records_7d": [
-        {
-          "username": "@Junoweb_3",
-          "rank": "1"
-        },
-        {
-          "username": "@medo_NFP",
-          "rank": "2"
-        },
-        {
-          "username": "@cukyn1812",
-          "rank": "3"
-        },
-        {
-          "username": "@gala_nft2",
-          "rank": "4"
-        },
-        {
-          "username": "@0xKingsKuan",
-          "rank": "5"
-        },
-        {
-          "username": "@Kaiweb30",
-          "rank": "6"
-        },
-        {
-          "username": "@colu_farmer",
-          "rank": "7"
-        },
-        {
-          "username": "@museowunsaram",
-          "rank": "8"
-        },
-        {
-          "username": "@Hope_web3_",
-          "rank": "9"
-        },
-        {
-          "username": "@PJ777PJ",
-          "rank": "10"
-        },
-        {
-          "username": "@ken_w3b3",
-          "rank": "11"
-        },
-        {
-          "username": "@Xrtrashbin",
-          "rank": "12"
-        },
-        {
-          "username": "@Naback222",
-          "rank": "13"
-        },
-        {
-          "username": "@hojjatx1",
-          "rank": "14"
-        },
-        {
-          "username": "@_kaieth",
-          "rank": "15"
-        },
-        {
-          "username": "@cryptopiazi",
-          "rank": "16"
-        },
-        {
-          "username": "@0xCrocy",
-          "rank": "17"
-        },
-        {
-          "username": "@congge918",
-          "rank": "18"
-        },
-        {
-          "username": "@guiguziben",
-          "rank": "19"
-        },
-        {
-          "username": "@syk233",
-          "rank": "20"
-        },
-        {
-          "username": "@dnfpkwang888",
-          "rank": "21"
-        },
-        {
-          "username": "@imseong04369433",
-          "rank": "22"
-        },
-        {
-          "username": "@oldman_cek",
-          "rank": "23"
-        },
-        {
-          "username": "@Beccca007",
-          "rank": "24"
-        },
-        {
-          "username": "@in961122",
-          "rank": "25"
-        },
-        {
-          "username": "@Greentea_bear",
-          "rank": "26"
-        },
-        {
-          "username": "@2ewbie",
-          "rank": "27"
-        },
-        {
-          "username": "@Airdropified",
-          "rank": "28"
-        },
-        {
-          "username": "@EJseong95",
-          "rank": "29"
-        },
-        {
-          "username": "@0x10Me",
-          "rank": "30"
-        },
-        {
-          "username": "@leonZR4",
-          "rank": "31"
-        },
-        {
-          "username": "@alex_crypto98",
-          "rank": "32"
-        },
-        {
-          "username": "@CalligramReboot",
-          "rank": "33"
-        },
-        {
-          "username": "@Zevweb3",
-          "rank": "34"
-        },
-        {
-          "username": "@Pchild_NFT",
-          "rank": "35"
-        },
-        {
-          "username": "@0xBANDAL",
-          "rank": "36"
-        },
-        {
-          "username": "@KOO_YH",
-          "rank": "37"
-        },
-        {
-          "username": "@eolas45",
-          "rank": "38"
-        },
-        {
-          "username": "@kralairdros",
-          "rank": "39"
-        },
-        {
-          "username": "@kozei",
-          "rank": "40"
-        },
-        {
-          "username": "@Parsa_Nftt",
-          "rank": "41"
-        },
-        {
-          "username": "@SuzzyDefi",
-          "rank": "42"
-        },
-        {
-          "username": "@tgd_duu",
-          "rank": "43"
-        },
-        {
-          "username": "@dudrms606",
-          "rank": "44"
-        },
-        {
-          "username": "@Whitecube72",
-          "rank": "45"
-        },
-        {
-          "username": "@reto_crypto",
-          "rank": "46"
-        },
-        {
-          "username": "@miaomiao_eth",
-          "rank": "47"
-        },
-        {
-          "username": "@ifechukwu_eth",
-          "rank": "48"
-        },
-        {
-          "username": "@pinenut777",
-          "rank": "49"
-        },
-        {
-          "username": "@BarlowLi",
-          "rank": "50"
-        },
-        {
-          "username": "@r2Jamong",
-          "rank": "51"
-        },
-        {
-          "username": "@ank129048",
-          "rank": "52"
-        },
-        {
-          "username": "@pandateemo88",
-          "rank": "53"
-        },
-        {
-          "username": "@Skdnjsqo",
-          "rank": "54"
-        },
-        {
-          "username": "@0xnimdal",
-          "rank": "55"
-        },
-        {
-          "username": "@redmatstraw",
-          "rank": "56"
-        },
-        {
-          "username": "@dodokim5766",
-          "rank": "57"
-        },
-        {
-          "username": "@Tiastel777",
-          "rank": "58"
-        },
-        {
-          "username": "@sontanidonghei",
-          "rank": "59"
-        },
-        {
-          "username": "@NalyMetaX",
-          "rank": "60"
-        },
-        {
-          "username": "@gangyebobb",
-          "rank": "61"
-        },
-        {
-          "username": "@arr_kr",
-          "rank": "62"
-        },
-        {
-          "username": "@koodpll",
-          "rank": "63"
-        },
-        {
-          "username": "@HM010169",
-          "rank": "64"
-        },
-        {
-          "username": "@Jacksonweb_3",
-          "rank": "65"
-        },
-        {
-          "username": "@a359king00",
-          "rank": "66"
-        },
-        {
-          "username": "@totory_1",
-          "rank": "67"
-        },
-        {
-          "username": "@MustavoMM",
-          "rank": "68"
-        },
-        {
-          "username": "@OOPS_NFT",
-          "rank": "69"
-        },
-        {
-          "username": "@yunjae44024216",
-          "rank": "70"
-        },
-        {
-          "username": "@SiriOfficialX",
-          "rank": "71"
-        },
-        {
-          "username": "@HodlethKR",
-          "rank": "72"
-        },
-        {
-          "username": "@Trueidbvlgari",
-          "rank": "73"
-        },
-        {
-          "username": "@yonmin1600",
-          "rank": "74"
-        },
-        {
-          "username": "@philippphaa",
-          "rank": "75"
-        },
-        {
-          "username": "@ppougod",
-          "rank": "76"
-        },
-        {
-          "username": "@bug4what",
-          "rank": "77"
-        },
-        {
-          "username": "@baeko_02",
-          "rank": "78"
-        },
-        {
-          "username": "@Kook_jongwook",
-          "rank": "79"
-        },
-        {
-          "username": "@0xRmkNFT",
-          "rank": "80"
-        },
-        {
-          "username": "@promiz_eth",
-          "rank": "81"
-        },
-        {
-          "username": "@0x36366",
-          "rank": "82"
-        },
-        {
-          "username": "@rapperr111",
-          "rank": "83"
-        },
-        {
-          "username": "@NotLazy36",
-          "rank": "84"
-        },
-        {
-          "username": "@leegs0020",
-          "rank": "85"
-        },
-        {
-          "username": "@kss4319",
-          "rank": "86"
-        },
-        {
-          "username": "@OG_Mavrickks",
-          "rank": "87"
-        },
-        {
-          "username": "@cryptok64440829",
-          "rank": "88"
-        },
-        {
-          "username": "@jundeu00",
-          "rank": "89"
-        },
-        {
-          "username": "@5fty3_",
-          "rank": "90"
-        },
-        {
-          "username": "@sarang3372",
-          "rank": "91"
-        },
-        {
-          "username": "@dmte00",
-          "rank": "92"
-        },
-        {
-          "username": "@see4pex",
-          "rank": "93"
-        },
-        {
-          "username": "@jjang8411",
-          "rank": "94"
-        },
-        {
-          "username": "@ricemonkeyy",
-          "rank": "95"
-        },
-        {
-          "username": "@AGeullo",
-          "rank": "96"
-        },
-        {
-          "username": "@0xPicoCrypto",
-          "rank": "97"
-        },
-        {
-          "username": "@AlphaMike001",
-          "rank": "98"
-        },
-        {
-          "username": "@fistman50",
-          "rank": "99"
-        },
-        {
-          "username": "@shahrianazim6",
-          "rank": "100"
-        }
-      ],
-      "records_30d": [
-        {
-          "username": "@medo_NFP",
-          "rank": "1"
-        },
-        {
-          "username": "@Junoweb_3",
-          "rank": "2"
-        },
-        {
-          "username": "@0xnimdal",
-          "rank": "3"
-        },
-        {
-          "username": "@kralairdros",
-          "rank": "4"
-        },
-        {
-          "username": "@oldman_cek",
-          "rank": "5"
-        },
-        {
-          "username": "@baeko_02",
-          "rank": "6"
-        },
-        {
-          "username": "@cukyn1812",
-          "rank": "7"
-        },
-        {
-          "username": "@0xKingsKuan",
-          "rank": "8"
-        },
-        {
-          "username": "@_Joshiker",
-          "rank": "9"
-        },
-        {
-          "username": "@Kaiweb30",
-          "rank": "10"
-        },
-        {
-          "username": "@ken_w3b3",
-          "rank": "11"
-        },
-        {
-          "username": "@Zevweb3",
-          "rank": "12"
-        },
-        {
-          "username": "@colu_farmer",
-          "rank": "13"
-        },
-        {
-          "username": "@eolas45",
-          "rank": "14"
-        },
-        {
-          "username": "@totory_1",
-          "rank": "15"
-        },
-        {
-          "username": "@in961122",
-          "rank": "16"
-        },
-        {
-          "username": "@gala_nft2",
-          "rank": "17"
-        },
-        {
-          "username": "@museowunsaram",
-          "rank": "18"
-        },
-        {
-          "username": "@syk233",
-          "rank": "19"
-        },
-        {
-          "username": "@tgd_duu",
-          "rank": "20"
-        },
-        {
-          "username": "@web_block3",
-          "rank": "21"
-        },
-        {
-          "username": "@JBAmelia1",
-          "rank": "22"
-        },
-        {
-          "username": "@_kaieth",
-          "rank": "23"
-        },
-        {
-          "username": "@SeonsiKing",
-          "rank": "24"
-        },
-        {
-          "username": "@Hope_web3_",
-          "rank": "25"
-        },
-        {
-          "username": "@SSsarisari",
-          "rank": "26"
-        },
-        {
-          "username": "@dmte00",
-          "rank": "27"
-        },
-        {
-          "username": "@auz2or",
-          "rank": "28"
-        },
-        {
-          "username": "@HM010169",
-          "rank": "29"
-        },
-        {
-          "username": "@hedacool",
-          "rank": "30"
-        },
-        {
-          "username": "@Xrtrashbin",
-          "rank": "31"
-        },
-        {
-          "username": "@imseong04369433",
-          "rank": "32"
-        },
-        {
-          "username": "@Naback222",
-          "rank": "33"
-        },
-        {
-          "username": "@2ewbie",
-          "rank": "34"
-        },
-        {
-          "username": "@PJ777PJ",
-          "rank": "35"
-        },
-        {
-          "username": "@r2Jamong",
-          "rank": "36"
-        },
-        {
-          "username": "@0xCrocy",
-          "rank": "37"
-        },
-        {
-          "username": "@NalyMetaX",
-          "rank": "38"
-        },
-        {
-          "username": "@sontanidonghei",
-          "rank": "39"
-        },
-        {
-          "username": "@rhoppon",
-          "rank": "40"
-        },
-        {
-          "username": "@eksoo_kys",
-          "rank": "41"
-        },
-        {
-          "username": "@SuzzyDefi",
-          "rank": "42"
-        },
-        {
-          "username": "@ank129048",
-          "rank": "43"
-        },
-        {
-          "username": "@leegs0020",
-          "rank": "44"
-        },
-        {
-          "username": "@Airdropified",
-          "rank": "45"
-        },
-        {
-          "username": "@ffiml2358763210",
-          "rank": "46"
-        },
-        {
-          "username": "@gangyebobb",
-          "rank": "47"
-        },
-        {
-          "username": "@pinenut777",
-          "rank": "48"
-        },
-        {
-          "username": "@yunjae44024216",
-          "rank": "49"
-        },
-        {
-          "username": "@congge918",
-          "rank": "50"
-        },
-        {
-          "username": "@alex_crypto98",
-          "rank": "51"
-        },
-        {
-          "username": "@jundeu00",
-          "rank": "52"
-        },
-        {
-          "username": "@guiguziben",
-          "rank": "53"
-        },
-        {
-          "username": "@cryptopiazi",
-          "rank": "54"
-        },
-        {
-          "username": "@0xBANDAL",
-          "rank": "55"
-        },
-        {
-          "username": "@Boheon_UXLINK",
-          "rank": "56"
-        },
-        {
-          "username": "@Kook_jongwook",
-          "rank": "57"
-        },
-        {
-          "username": "@Hoon11221",
-          "rank": "58"
-        },
-        {
-          "username": "@Lucast168",
-          "rank": "59"
-        },
-        {
-          "username": "@Albbaninano",
-          "rank": "60"
-        },
-        {
-          "username": "@jjang8411",
-          "rank": "61"
-        },
-        {
-          "username": "@a359king00",
-          "rank": "62"
-        },
-        {
-          "username": "@Whitecube72",
-          "rank": "63"
-        },
-        {
-          "username": "@hojjatx1",
-          "rank": "64"
-        },
-        {
-          "username": "@pingsh1011",
-          "rank": "65"
-        },
-        {
-          "username": "@humph_bamsTAKER",
-          "rank": "66"
-        },
-        {
-          "username": "@Greentea_bear",
-          "rank": "67"
-        },
-        {
-          "username": "@bug4what",
-          "rank": "68"
-        },
-        {
-          "username": "@ricemonkeyy",
-          "rank": "69"
-        },
-        {
-          "username": "@B_DNN_",
-          "rank": "70"
-        },
-        {
-          "username": "@yonmin1600",
-          "rank": "71"
-        },
-        {
-          "username": "@kss4319",
-          "rank": "72"
-        },
-        {
-          "username": "@Bounty_ATM",
-          "rank": "73"
-        },
-        {
-          "username": "@0x10Me",
-          "rank": "74"
-        },
-        {
-          "username": "@HodlethKR",
-          "rank": "75"
-        },
-        {
-          "username": "@Pchild_NFT",
-          "rank": "76"
-        },
-        {
-          "username": "@AGeullo",
-          "rank": "77"
-        },
-        {
-          "username": "@chad3866",
-          "rank": "78"
-        },
-        {
-          "username": "@rapperr111",
-          "rank": "79"
-        },
-        {
-          "username": "@MustavoMM",
-          "rank": "80"
-        },
-        {
-          "username": "@CalligramReboot",
-          "rank": "81"
-        },
-        {
-          "username": "@ppougod",
-          "rank": "82"
-        },
-        {
-          "username": "@EungsuSon28275",
-          "rank": "83"
-        },
-        {
-          "username": "@reto_crypto",
-          "rank": "84"
-        },
-        {
-          "username": "@dnfpkwang888",
-          "rank": "85"
-        },
-        {
-          "username": "@Pixy7Crypto",
-          "rank": "86"
-        },
-        {
-          "username": "@hyeok8911",
-          "rank": "87"
-        },
-        {
-          "username": "@MAAAN_GO",
-          "rank": "88"
-        },
-        {
-          "username": "@Trust_mit",
-          "rank": "89"
-        },
-        {
-          "username": "@kongkou_",
-          "rank": "90"
-        },
-        {
-          "username": "@Cryptomadch",
-          "rank": "91"
-        },
-        {
-          "username": "@Tiastel777",
-          "rank": "92"
-        },
-        {
-          "username": "@dudrms606",
-          "rank": "93"
-        },
-        {
-          "username": "@Beccca007",
-          "rank": "94"
-        },
-        {
-          "username": "@Wagdog6",
-          "rank": "95"
-        },
-        {
-          "username": "@KOO_YH",
-          "rank": "96"
-        },
-        {
-          "username": "@EJseong95",
-          "rank": "97"
-        },
-        {
-          "username": "@hyenee3782",
-          "rank": "98"
-        },
-        {
-          "username": "@kangmurphy",
-          "rank": "99"
-        },
-        {
-          "username": "@darbyt_crypt",
-          "rank": "100"
-        }
-      ]
+      "icon": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FUXLINK%252FUXLINK.jpg/w=64&q=90"
     },
-    "Kaito": {
-      "project_info": {
-        "name": "Kaito",
-        "icon": "https://img.kaito.ai/v1/https%253A%252F%252Fwww.kaito.ai%252Fhead_pic-dark.png/w=64&q=90"
-      },
-      "records_7d": [
-        {
-          "username": "@MaraCakeHotSale",
-          "rank": "1"
-        },
-        {
-          "username": "@Punk9277",
-          "rank": "2"
-        },
-        {
-          "username": "@0xhantengri",
-          "rank": "3"
-        },
-        {
-          "username": "@JayLovesPotato",
-          "rank": "4"
-        },
-        {
-          "username": "@sandraaleow",
-          "rank": "5"
-        },
-        {
-          "username": "@Deebs_DeFi",
-          "rank": "6"
-        },
-        {
-          "username": "@one_snowball",
-          "rank": "7"
-        },
-        {
-          "username": "@TimHaldorsson",
-          "rank": "8"
-        },
-        {
-          "username": "@0xAndrewMoh",
-          "rank": "9"
-        },
-        {
-          "username": "@0x_xifeng",
-          "rank": "10"
-        },
-        {
-          "username": "@sjdedic",
-          "rank": "11"
-        },
-        {
-          "username": "@AndreCronjeTech",
-          "rank": "12"
-        },
-        {
-          "username": "@LoshmiOnChain",
-          "rank": "13"
-        },
-        {
-          "username": "@splinter0n",
-          "rank": "14"
-        },
-        {
-          "username": "@0xjunkim",
-          "rank": "15"
-        },
-        {
-          "username": "@LeotheHorseman",
-          "rank": "16"
-        },
-        {
-          "username": "@LukeAlwaysAwake",
-          "rank": "17"
-        },
-        {
-          "username": "@0xKevin00",
-          "rank": "18"
-        },
-        {
-          "username": "@Monica_xiaoM",
-          "rank": "19"
-        },
-        {
-          "username": "@wals_eth",
-          "rank": "20"
-        },
-        {
-          "username": "@DoggfatherCrew",
-          "rank": "21"
-        },
-        {
-          "username": "@kenodnb",
-          "rank": "22"
-        },
-        {
-          "username": "@gala_nft2",
-          "rank": "23"
-        },
-        {
-          "username": "@seeksahib",
-          "rank": "24"
-        },
-        {
-          "username": "@BroLeonAus",
-          "rank": "25"
-        },
-        {
-          "username": "@vohvohh",
-          "rank": "26"
-        },
-        {
-          "username": "@FFVV1211",
-          "rank": "27"
-        },
-        {
-          "username": "@Jackhaldorsson",
-          "rank": "28"
-        },
-        {
-          "username": "@Seymirel",
-          "rank": "29"
-        },
-        {
-          "username": "@wang_xiaolou",
-          "rank": "30"
-        },
-        {
-          "username": "@0xfs7",
-          "rank": "31"
-        },
-        {
-          "username": "@TheDeFinvestor",
-          "rank": "32"
-        },
-        {
-          "username": "@0xWenMoon",
-          "rank": "33"
-        },
-        {
-          "username": "@EmmarkGadgets",
-          "rank": "34"
-        },
-        {
-          "username": "@Guomin184935",
-          "rank": "35"
-        },
-        {
-          "username": "@0xMistBlade",
-          "rank": "36"
-        },
-        {
-          "username": "@youfadedwealth",
-          "rank": "37"
-        },
-        {
-          "username": "@y_cryptoanalyst",
-          "rank": "38"
-        },
-        {
-          "username": "@0xakylles",
-          "rank": "39"
-        },
-        {
-          "username": "@shannholmberg",
-          "rank": "40"
-        },
-        {
-          "username": "@ripchillpill",
-          "rank": "41"
-        },
-        {
-          "username": "@xingpt",
-          "rank": "42"
-        },
-        {
-          "username": "@xerocooleth",
-          "rank": "43"
-        },
-        {
-          "username": "@Alucard_eth",
-          "rank": "44"
-        },
-        {
-          "username": "@SkylineETH",
-          "rank": "45"
-        },
-        {
-          "username": "@crypto_linn",
-          "rank": "46"
-        },
-        {
-          "username": "@zohanlin",
-          "rank": "47"
-        },
-        {
-          "username": "@Smokey_titan",
-          "rank": "48"
-        },
-        {
-          "username": "@FourVork",
-          "rank": "49"
-        },
-        {
-          "username": "@R2D2zen",
-          "rank": "50"
-        },
-        {
-          "username": "@DRbitcoin36",
-          "rank": "51"
-        },
-        {
-          "username": "@Crouserrr",
-          "rank": "52"
-        },
-        {
-          "username": "@aadvark89",
-          "rank": "53"
-        },
-        {
-          "username": "@xingxingjun8888",
-          "rank": "54"
-        },
-        {
-          "username": "@xiaoyubtc",
-          "rank": "55"
-        },
-        {
-          "username": "@0xNathanWalk",
-          "rank": "56"
-        },
-        {
-          "username": "@bishengkegs",
-          "rank": "57"
-        },
-        {
-          "username": "@katexbt",
-          "rank": "58"
-        },
-        {
-          "username": "@cryptobraveHQ",
-          "rank": "59"
-        },
-        {
-          "username": "@BR4ted",
-          "rank": "60"
-        },
-        {
-          "username": "@0xsexybanana",
-          "rank": "61"
-        },
-        {
-          "username": "@CryptoPainter_X",
-          "rank": "62"
-        },
-        {
-          "username": "@Baisircrypto",
-          "rank": "63"
-        },
-        {
-          "username": "@Param_eth",
-          "rank": "64"
-        },
-        {
-          "username": "@AlexOnchain",
-          "rank": "65"
-        },
-        {
-          "username": "@beast_ico",
-          "rank": "66"
-        },
-        {
-          "username": "@solashenone",
-          "rank": "67"
-        },
-        {
-          "username": "@starzqeth",
-          "rank": "68"
-        },
-        {
-          "username": "@ilodiwow",
-          "rank": "69"
-        },
-        {
-          "username": "@0xFrisk",
-          "rank": "70"
-        },
-        {
-          "username": "@anymose96",
-          "rank": "71"
-        },
-        {
-          "username": "@MBXXVV",
-          "rank": "72"
-        },
-        {
-          "username": "@what3verman",
-          "rank": "73"
-        },
-        {
-          "username": "@zacxbt",
-          "rank": "74"
-        },
-        {
-          "username": "@0xlaiyuen",
-          "rank": "75"
-        },
-        {
-          "username": "@aibra",
-          "rank": "76"
-        },
-        {
-          "username": "@hoidya_",
-          "rank": "77"
-        },
-        {
-          "username": "@Cryptowushi",
-          "rank": "78"
-        },
-        {
-          "username": "@FabiusDefi",
-          "rank": "79"
-        },
-        {
-          "username": "@0xAbhiP",
-          "rank": "80"
-        },
-        {
-          "username": "@grebbycrypto",
-          "rank": "81"
-        },
-        {
-          "username": "@jiwoo_jun",
-          "rank": "82"
-        },
-        {
-          "username": "@Alvin0617",
-          "rank": "83"
-        },
-        {
-          "username": "@AnonVee_",
-          "rank": "84"
-        },
-        {
-          "username": "@0x_ultra",
-          "rank": "85"
-        },
-        {
-          "username": "@0xNarb",
-          "rank": "86"
-        },
-        {
-          "username": "@museowunsaram",
-          "rank": "87"
-        },
-        {
-          "username": "@73lV_",
-          "rank": "88"
-        },
-        {
-          "username": "@SanjayWeb3",
-          "rank": "89"
-        },
-        {
-          "username": "@r2Jamong",
-          "rank": "90"
-        },
-        {
-          "username": "@Defi_Warhol",
-          "rank": "91"
-        },
-        {
-          "username": "@Mimoo1201",
-          "rank": "92"
-        },
-        {
-          "username": "@0xxNathan",
-          "rank": "93"
-        },
-        {
-          "username": "@munchPRMR",
-          "rank": "94"
-        },
-        {
-          "username": "@DrEinstein9999",
-          "rank": "95"
-        },
-        {
-          "username": "@IbraTheDabra",
-          "rank": "96"
-        },
-        {
-          "username": "@colu_farmer",
-          "rank": "97"
-        },
-        {
-          "username": "@theunipcs",
-          "rank": "98"
-        },
-        {
-          "username": "@bingo_eth",
-          "rank": "99"
-        },
-        {
-          "username": "@vvickym2",
-          "rank": "100"
-        }
-      ],
-      "records_30d": [
-        {
-          "username": "@ripchillpill",
-          "rank": "1"
-        },
-        {
-          "username": "@R2D2zen",
-          "rank": "2"
-        },
-        {
-          "username": "@Punk9277",
-          "rank": "3"
-        },
-        {
-          "username": "@TimHaldorsson",
-          "rank": "4"
-        },
-        {
-          "username": "@beast_ico",
-          "rank": "5"
-        },
-        {
-          "username": "@73lV_",
-          "rank": "6"
-        },
-        {
-          "username": "@MaraCakeHotSale",
-          "rank": "7"
-        },
-        {
-          "username": "@xerocooleth",
-          "rank": "8"
-        },
-        {
-          "username": "@banditxbt",
-          "rank": "9"
-        },
-        {
-          "username": "@sandraaleow",
-          "rank": "10"
-        },
-        {
-          "username": "@Xeer",
-          "rank": "11"
-        },
-        {
-          "username": "@CryptoPainter_X",
-          "rank": "12"
-        },
-        {
-          "username": "@Metabape",
-          "rank": "13"
-        },
-        {
-          "username": "@Guomin184935",
-          "rank": "14"
-        },
-        {
-          "username": "@youfadedwealth",
-          "rank": "15"
-        },
-        {
-          "username": "@zaimiriQ",
-          "rank": "16"
-        },
-        {
-          "username": "@Deebs_DeFi",
-          "rank": "17"
-        },
-        {
-          "username": "@0xWenMoon",
-          "rank": "18"
-        },
-        {
-          "username": "@sjdedic",
-          "rank": "19"
-        },
-        {
-          "username": "@0xhantengri",
-          "rank": "20"
-        },
-        {
-          "username": "@JayLovesPotato",
-          "rank": "21"
-        },
-        {
-          "username": "@one_snowball",
-          "rank": "22"
-        },
-        {
-          "username": "@heycape_",
-          "rank": "23"
-        },
-        {
-          "username": "@RiddlerNFT",
-          "rank": "24"
-        },
-        {
-          "username": "@wals_eth",
-          "rank": "25"
-        },
-        {
-          "username": "@what3verman",
-          "rank": "26"
-        },
-        {
-          "username": "@splinter0n",
-          "rank": "27"
-        },
-        {
-          "username": "@Jampzey",
-          "rank": "28"
-        },
-        {
-          "username": "@0xjunkim",
-          "rank": "29"
-        },
-        {
-          "username": "@sky_gpt",
-          "rank": "30"
-        },
-        {
-          "username": "@StarPlatinumSOL",
-          "rank": "31"
-        },
-        {
-          "username": "@emilios_eth",
-          "rank": "32"
-        },
-        {
-          "username": "@crazino87",
-          "rank": "33"
-        },
-        {
-          "username": "@LeotheHorseman",
-          "rank": "34"
-        },
-        {
-          "username": "@wang_xiaolou",
-          "rank": "35"
-        },
-        {
-          "username": "@0xfs7",
-          "rank": "36"
-        },
-        {
-          "username": "@DRbitcoin36",
-          "rank": "37"
-        },
-        {
-          "username": "@0xAndrewMoh",
-          "rank": "38"
-        },
-        {
-          "username": "@0x_xifeng",
-          "rank": "39"
-        },
-        {
-          "username": "@0xxNathan",
-          "rank": "40"
-        },
-        {
-          "username": "@cryptobraveHQ",
-          "rank": "41"
-        },
-        {
-          "username": "@vohvohh",
-          "rank": "42"
-        },
-        {
-          "username": "@Smokey_titan",
-          "rank": "43"
-        },
-        {
-          "username": "@0xakylles",
-          "rank": "44"
-        },
-        {
-          "username": "@LoshmiOnChain",
-          "rank": "45"
-        },
-        {
-          "username": "@waleswoosh",
-          "rank": "46"
-        },
-        {
-          "username": "@0x_ultra",
-          "rank": "47"
-        },
-        {
-          "username": "@Hantao",
-          "rank": "48"
-        },
-        {
-          "username": "@SonicAssistant",
-          "rank": "49"
-        },
-        {
-          "username": "@EmmarkGadgets",
-          "rank": "50"
-        },
-        {
-          "username": "@0xAbhiP",
-          "rank": "51"
-        },
-        {
-          "username": "@0xKevin00",
-          "rank": "52"
-        },
-        {
-          "username": "@ProofOfTravis",
-          "rank": "53"
-        },
-        {
-          "username": "@tobific",
-          "rank": "54"
-        },
-        {
-          "username": "@yueya_eth",
-          "rank": "55"
-        },
-        {
-          "username": "@LukeAlwaysAwake",
-          "rank": "56"
-        },
-        {
-          "username": "@0xVanxyrus",
-          "rank": "57"
-        },
-        {
-          "username": "@shannholmberg",
-          "rank": "58"
-        },
-        {
-          "username": "@SteveKBark",
-          "rank": "59"
-        },
-        {
-          "username": "@0xMistBlade",
-          "rank": "60"
-        },
-        {
-          "username": "@zohanlin",
-          "rank": "61"
-        },
-        {
-          "username": "@TheDeFinvestor",
-          "rank": "62"
-        },
-        {
-          "username": "@FourVork",
-          "rank": "63"
-        },
-        {
-          "username": "@Alvin0617",
-          "rank": "64"
-        },
-        {
-          "username": "@colu_farmer",
-          "rank": "65"
-        },
-        {
-          "username": "@BroLeonAus",
-          "rank": "66"
-        },
-        {
-          "username": "@itskkoma",
-          "rank": "67"
-        },
-        {
-          "username": "@TheOG_General",
-          "rank": "68"
-        },
-        {
-          "username": "@bishengkegs",
-          "rank": "69"
-        },
-        {
-          "username": "@DoggfatherCrew",
-          "rank": "70"
-        },
-        {
-          "username": "@zacxbt",
-          "rank": "71"
-        },
-        {
-          "username": "@FFVV1211",
-          "rank": "72"
-        },
-        {
-          "username": "@onchainmo",
-          "rank": "73"
-        },
-        {
-          "username": "@Super__dandan",
-          "rank": "74"
-        },
-        {
-          "username": "@Jtsong2",
-          "rank": "75"
-        },
-        {
-          "username": "@blockTVBee",
-          "rank": "76"
-        },
-        {
-          "username": "@anda765",
-          "rank": "77"
-        },
-        {
-          "username": "@r2Jamong",
-          "rank": "78"
-        },
-        {
-          "username": "@zkgoudan",
-          "rank": "79"
-        },
-        {
-          "username": "@Seymirel",
-          "rank": "80"
-        },
-        {
-          "username": "@aixbt_agent",
-          "rank": "81"
-        },
-        {
-          "username": "@Jackhaldorsson",
-          "rank": "82"
-        },
-        {
-          "username": "@gomtu_xyz",
-          "rank": "83"
-        },
-        {
-          "username": "@wanghebbf",
-          "rank": "84"
-        },
-        {
-          "username": "@AndreCronjeTech",
-          "rank": "85"
-        },
-        {
-          "username": "@brave_raf",
-          "rank": "86"
-        },
-        {
-          "username": "@starzqeth",
-          "rank": "87"
-        },
-        {
-          "username": "@Monica_xiaoM",
-          "rank": "88"
-        },
-        {
-          "username": "@10000BRC",
-          "rank": "89"
-        },
-        {
-          "username": "@kashviETH",
-          "rank": "90"
-        },
-        {
-          "username": "@kenodnb",
-          "rank": "91"
-        },
-        {
-          "username": "@ZF_lab",
-          "rank": "92"
-        },
-        {
-          "username": "@FabiusDefi",
-          "rank": "93"
-        },
-        {
-          "username": "@VaderResearch",
-          "rank": "94"
-        },
-        {
-          "username": "@wenxue600",
-          "rank": "95"
-        },
-        {
-          "username": "@MadVincent666",
-          "rank": "96"
-        },
-        {
-          "username": "@katexbt",
-          "rank": "97"
-        },
-        {
-          "username": "@y_cryptoanalyst",
-          "rank": "98"
-        },
-        {
-          "username": "@beingRich2000",
-          "rank": "99"
-        },
-        {
-          "username": "@Crypto_Zh0u",
-          "rank": "100"
-        }
-      ]
+    "ANOMA": {
+      "icon": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FANOMA%252FANOMA.jpg/w=64&q=90"
     }
+  },
+  "user_index": {
+    "@Junoweb_3": [
+      {
+        "project": "UXLINK",
+        "7D": "1",
+        "30D": "2"
+      }
+    ],
+    "@medo_NFP": [
+      {
+        "project": "UXLINK",
+        "7D": "2",
+        "30D": "1"
+      },
+      {
+        "project": "ANOMA",
+        "30D": "89"
+      }
+    ],
+    "@cukyn1812": [
+      {
+        "project": "UXLINK",
+        "7D": "3",
+        "30D": "7"
+      }
+    ],
+    "@gala_nft2": [
+      {
+        "project": "UXLINK",
+        "7D": "4",
+        "30D": "17"
+      }
+    ],
+    "@0xKingsKuan": [
+      {
+        "project": "UXLINK",
+        "7D": "5",
+        "30D": "8"
+      }
+    ],
+    "@Kaiweb30": [
+      {
+        "project": "UXLINK",
+        "7D": "6",
+        "30D": "10"
+      }
+    ],
+    "@colu_farmer": [
+      {
+        "project": "UXLINK",
+        "7D": "7",
+        "30D": "13"
+      },
+      {
+        "project": "ANOMA",
+        "7D": "56",
+        "30D": "8"
+      }
+    ],
+    "@museowunsaram": [
+      {
+        "project": "UXLINK",
+        "7D": "8",
+        "30D": "18"
+      },
+      {
+        "project": "ANOMA",
+        "30D": "85"
+      }
+    ],
+    "@Hope_web3_": [
+      {
+        "project": "UXLINK",
+        "7D": "9",
+        "30D": "25"
+      }
+    ],
+    "@PJ777PJ": [
+      {
+        "project": "UXLINK",
+        "7D": "10",
+        "30D": "35"
+      }
+    ],
+    "@ken_w3b3": [
+      {
+        "project": "UXLINK",
+        "7D": "11",
+        "30D": "11"
+      },
+      {
+        "project": "ANOMA",
+        "7D": "99"
+      }
+    ],
+    "@Xrtrashbin": [
+      {
+        "project": "UXLINK",
+        "7D": "12",
+        "30D": "31"
+      }
+    ],
+    "@Naback222": [
+      {
+        "project": "UXLINK",
+        "7D": "13",
+        "30D": "33"
+      }
+    ],
+    "@hojjatx1": [
+      {
+        "project": "UXLINK",
+        "7D": "14",
+        "30D": "64"
+      }
+    ],
+    "@_kaieth": [
+      {
+        "project": "UXLINK",
+        "7D": "15",
+        "30D": "23"
+      }
+    ],
+    "@cryptopiazi": [
+      {
+        "project": "UXLINK",
+        "7D": "16",
+        "30D": "54"
+      }
+    ],
+    "@0xCrocy": [
+      {
+        "project": "UXLINK",
+        "7D": "17",
+        "30D": "37"
+      }
+    ],
+    "@congge918": [
+      {
+        "project": "UXLINK",
+        "7D": "18",
+        "30D": "50"
+      }
+    ],
+    "@guiguziben": [
+      {
+        "project": "UXLINK",
+        "7D": "19",
+        "30D": "53"
+      },
+      {
+        "project": "ANOMA",
+        "7D": "91"
+      }
+    ],
+    "@syk233": [
+      {
+        "project": "UXLINK",
+        "7D": "20",
+        "30D": "19"
+      }
+    ],
+    "@dnfpkwang888": [
+      {
+        "project": "UXLINK",
+        "7D": "21",
+        "30D": "85"
+      }
+    ],
+    "@imseong04369433": [
+      {
+        "project": "UXLINK",
+        "7D": "22",
+        "30D": "32"
+      }
+    ],
+    "@oldman_cek": [
+      {
+        "project": "UXLINK",
+        "7D": "23",
+        "30D": "5"
+      },
+      {
+        "project": "ANOMA",
+        "30D": "15"
+      }
+    ],
+    "@Beccca007": [
+      {
+        "project": "UXLINK",
+        "7D": "24",
+        "30D": "94"
+      }
+    ],
+    "@in961122": [
+      {
+        "project": "UXLINK",
+        "7D": "25",
+        "30D": "16"
+      }
+    ],
+    "@Greentea_bear": [
+      {
+        "project": "UXLINK",
+        "7D": "26",
+        "30D": "67"
+      }
+    ],
+    "@2ewbie": [
+      {
+        "project": "UXLINK",
+        "7D": "27",
+        "30D": "34"
+      }
+    ],
+    "@Airdropified": [
+      {
+        "project": "UXLINK",
+        "7D": "28",
+        "30D": "45"
+      }
+    ],
+    "@EJseong95": [
+      {
+        "project": "UXLINK",
+        "7D": "29",
+        "30D": "97"
+      }
+    ],
+    "@0x10Me": [
+      {
+        "project": "UXLINK",
+        "7D": "30",
+        "30D": "74"
+      }
+    ],
+    "@leonZR4": [
+      {
+        "project": "UXLINK",
+        "7D": "31"
+      }
+    ],
+    "@alex_crypto98": [
+      {
+        "project": "UXLINK",
+        "7D": "32",
+        "30D": "51"
+      }
+    ],
+    "@CalligramReboot": [
+      {
+        "project": "UXLINK",
+        "7D": "33",
+        "30D": "81"
+      }
+    ],
+    "@Zevweb3": [
+      {
+        "project": "UXLINK",
+        "7D": "34",
+        "30D": "12"
+      }
+    ],
+    "@Pchild_NFT": [
+      {
+        "project": "UXLINK",
+        "7D": "35",
+        "30D": "76"
+      }
+    ],
+    "@0xBANDAL": [
+      {
+        "project": "UXLINK",
+        "7D": "36",
+        "30D": "55"
+      }
+    ],
+    "@KOO_YH": [
+      {
+        "project": "UXLINK",
+        "7D": "37",
+        "30D": "96"
+      }
+    ],
+    "@eolas45": [
+      {
+        "project": "UXLINK",
+        "7D": "38",
+        "30D": "14"
+      }
+    ],
+    "@kralairdros": [
+      {
+        "project": "UXLINK",
+        "7D": "39",
+        "30D": "4"
+      }
+    ],
+    "@kozei": [
+      {
+        "project": "UXLINK",
+        "7D": "40"
+      }
+    ],
+    "@Parsa_Nftt": [
+      {
+        "project": "UXLINK",
+        "7D": "41"
+      }
+    ],
+    "@SuzzyDefi": [
+      {
+        "project": "UXLINK",
+        "7D": "42",
+        "30D": "42"
+      }
+    ],
+    "@tgd_duu": [
+      {
+        "project": "UXLINK",
+        "7D": "43",
+        "30D": "20"
+      },
+      {
+        "project": "ANOMA",
+        "7D": "39",
+        "30D": "84"
+      }
+    ],
+    "@dudrms606": [
+      {
+        "project": "UXLINK",
+        "7D": "44",
+        "30D": "93"
+      }
+    ],
+    "@Whitecube72": [
+      {
+        "project": "UXLINK",
+        "7D": "45",
+        "30D": "63"
+      }
+    ],
+    "@reto_crypto": [
+      {
+        "project": "UXLINK",
+        "7D": "46",
+        "30D": "84"
+      }
+    ],
+    "@miaomiao_eth": [
+      {
+        "project": "UXLINK",
+        "7D": "47"
+      }
+    ],
+    "@ifechukwu_eth": [
+      {
+        "project": "UXLINK",
+        "7D": "48"
+      }
+    ],
+    "@pinenut777": [
+      {
+        "project": "UXLINK",
+        "7D": "49",
+        "30D": "48"
+      }
+    ],
+    "@BarlowLi": [
+      {
+        "project": "UXLINK",
+        "7D": "50"
+      }
+    ],
+    "@r2Jamong": [
+      {
+        "project": "UXLINK",
+        "7D": "51",
+        "30D": "36"
+      },
+      {
+        "project": "ANOMA",
+        "30D": "79"
+      }
+    ],
+    "@ank129048": [
+      {
+        "project": "UXLINK",
+        "7D": "52",
+        "30D": "43"
+      }
+    ],
+    "@pandateemo88": [
+      {
+        "project": "UXLINK",
+        "7D": "53"
+      }
+    ],
+    "@Skdnjsqo": [
+      {
+        "project": "UXLINK",
+        "7D": "54"
+      }
+    ],
+    "@0xnimdal": [
+      {
+        "project": "UXLINK",
+        "7D": "55",
+        "30D": "3"
+      }
+    ],
+    "@redmatstraw": [
+      {
+        "project": "UXLINK",
+        "7D": "56"
+      }
+    ],
+    "@dodokim5766": [
+      {
+        "project": "UXLINK",
+        "7D": "57"
+      }
+    ],
+    "@Tiastel777": [
+      {
+        "project": "UXLINK",
+        "7D": "58",
+        "30D": "92"
+      }
+    ],
+    "@sontanidonghei": [
+      {
+        "project": "UXLINK",
+        "7D": "59",
+        "30D": "39"
+      }
+    ],
+    "@NalyMetaX": [
+      {
+        "project": "UXLINK",
+        "7D": "60",
+        "30D": "38"
+      }
+    ],
+    "@gangyebobb": [
+      {
+        "project": "UXLINK",
+        "7D": "61",
+        "30D": "47"
+      }
+    ],
+    "@arr_kr": [
+      {
+        "project": "UXLINK",
+        "7D": "62"
+      }
+    ],
+    "@koodpll": [
+      {
+        "project": "UXLINK",
+        "7D": "63"
+      }
+    ],
+    "@HM010169": [
+      {
+        "project": "UXLINK",
+        "7D": "64",
+        "30D": "29"
+      },
+      {
+        "project": "ANOMA",
+        "30D": "91"
+      }
+    ],
+    "@Jacksonweb_3": [
+      {
+        "project": "UXLINK",
+        "7D": "65"
+      }
+    ],
+    "@a359king00": [
+      {
+        "project": "UXLINK",
+        "7D": "66",
+        "30D": "62"
+      }
+    ],
+    "@totory_1": [
+      {
+        "project": "UXLINK",
+        "7D": "67",
+        "30D": "15"
+      },
+      {
+        "project": "ANOMA",
+        "30D": "63"
+      }
+    ],
+    "@MustavoMM": [
+      {
+        "project": "UXLINK",
+        "7D": "68",
+        "30D": "80"
+      }
+    ],
+    "@OOPS_NFT": [
+      {
+        "project": "UXLINK",
+        "7D": "69"
+      }
+    ],
+    "@yunjae44024216": [
+      {
+        "project": "UXLINK",
+        "7D": "70",
+        "30D": "49"
+      }
+    ],
+    "@SiriOfficialX": [
+      {
+        "project": "UXLINK",
+        "7D": "71"
+      }
+    ],
+    "@HodlethKR": [
+      {
+        "project": "UXLINK",
+        "7D": "72",
+        "30D": "75"
+      }
+    ],
+    "@Trueidbvlgari": [
+      {
+        "project": "UXLINK",
+        "7D": "73"
+      }
+    ],
+    "@yonmin1600": [
+      {
+        "project": "UXLINK",
+        "7D": "74",
+        "30D": "71"
+      }
+    ],
+    "@philippphaa": [
+      {
+        "project": "UXLINK",
+        "7D": "75"
+      }
+    ],
+    "@ppougod": [
+      {
+        "project": "UXLINK",
+        "7D": "76",
+        "30D": "82"
+      },
+      {
+        "project": "ANOMA",
+        "30D": "88"
+      }
+    ],
+    "@bug4what": [
+      {
+        "project": "UXLINK",
+        "7D": "77",
+        "30D": "68"
+      }
+    ],
+    "@baeko_02": [
+      {
+        "project": "UXLINK",
+        "7D": "78",
+        "30D": "6"
+      }
+    ],
+    "@Kook_jongwook": [
+      {
+        "project": "UXLINK",
+        "7D": "79",
+        "30D": "57"
+      }
+    ],
+    "@0xRmkNFT": [
+      {
+        "project": "UXLINK",
+        "7D": "80"
+      }
+    ],
+    "@promiz_eth": [
+      {
+        "project": "UXLINK",
+        "7D": "81"
+      }
+    ],
+    "@0x36366": [
+      {
+        "project": "UXLINK",
+        "7D": "82"
+      }
+    ],
+    "@rapperr111": [
+      {
+        "project": "UXLINK",
+        "7D": "83",
+        "30D": "79"
+      },
+      {
+        "project": "ANOMA",
+        "30D": "78"
+      }
+    ],
+    "@NotLazy36": [
+      {
+        "project": "UXLINK",
+        "7D": "84"
+      }
+    ],
+    "@leegs0020": [
+      {
+        "project": "UXLINK",
+        "7D": "85",
+        "30D": "44"
+      }
+    ],
+    "@kss4319": [
+      {
+        "project": "UXLINK",
+        "7D": "86",
+        "30D": "72"
+      }
+    ],
+    "@OG_Mavrickks": [
+      {
+        "project": "UXLINK",
+        "7D": "87"
+      }
+    ],
+    "@cryptok64440829": [
+      {
+        "project": "UXLINK",
+        "7D": "88"
+      }
+    ],
+    "@jundeu00": [
+      {
+        "project": "UXLINK",
+        "7D": "89",
+        "30D": "52"
+      }
+    ],
+    "@5fty3_": [
+      {
+        "project": "UXLINK",
+        "7D": "90"
+      }
+    ],
+    "@sarang3372": [
+      {
+        "project": "UXLINK",
+        "7D": "91"
+      }
+    ],
+    "@dmte00": [
+      {
+        "project": "UXLINK",
+        "7D": "92",
+        "30D": "27"
+      }
+    ],
+    "@see4pex": [
+      {
+        "project": "UXLINK",
+        "7D": "93"
+      }
+    ],
+    "@jjang8411": [
+      {
+        "project": "UXLINK",
+        "7D": "94",
+        "30D": "61"
+      }
+    ],
+    "@ricemonkeyy": [
+      {
+        "project": "UXLINK",
+        "7D": "95",
+        "30D": "69"
+      }
+    ],
+    "@AGeullo": [
+      {
+        "project": "UXLINK",
+        "7D": "96",
+        "30D": "77"
+      }
+    ],
+    "@0xPicoCrypto": [
+      {
+        "project": "UXLINK",
+        "7D": "97"
+      }
+    ],
+    "@AlphaMike001": [
+      {
+        "project": "UXLINK",
+        "7D": "98"
+      }
+    ],
+    "@fistman50": [
+      {
+        "project": "UXLINK",
+        "7D": "99"
+      }
+    ],
+    "@shahrianazim6": [
+      {
+        "project": "UXLINK",
+        "7D": "100"
+      }
+    ],
+    "@_Joshiker": [
+      {
+        "project": "UXLINK",
+        "30D": "9"
+      }
+    ],
+    "@web_block3": [
+      {
+        "project": "UXLINK",
+        "30D": "21"
+      }
+    ],
+    "@JBAmelia1": [
+      {
+        "project": "UXLINK",
+        "30D": "22"
+      }
+    ],
+    "@SeonsiKing": [
+      {
+        "project": "UXLINK",
+        "30D": "24"
+      }
+    ],
+    "@SSsarisari": [
+      {
+        "project": "UXLINK",
+        "30D": "26"
+      }
+    ],
+    "@auz2or": [
+      {
+        "project": "UXLINK",
+        "30D": "28"
+      }
+    ],
+    "@hedacool": [
+      {
+        "project": "UXLINK",
+        "30D": "30"
+      }
+    ],
+    "@rhoppon": [
+      {
+        "project": "UXLINK",
+        "30D": "40"
+      }
+    ],
+    "@eksoo_kys": [
+      {
+        "project": "UXLINK",
+        "30D": "41"
+      }
+    ],
+    "@ffiml2358763210": [
+      {
+        "project": "UXLINK",
+        "30D": "46"
+      }
+    ],
+    "@Boheon_UXLINK": [
+      {
+        "project": "UXLINK",
+        "30D": "56"
+      }
+    ],
+    "@Hoon11221": [
+      {
+        "project": "UXLINK",
+        "30D": "58"
+      }
+    ],
+    "@Lucast168": [
+      {
+        "project": "UXLINK",
+        "30D": "59"
+      }
+    ],
+    "@Albbaninano": [
+      {
+        "project": "UXLINK",
+        "30D": "60"
+      }
+    ],
+    "@pingsh1011": [
+      {
+        "project": "UXLINK",
+        "30D": "65"
+      }
+    ],
+    "@humph_bamsTAKER": [
+      {
+        "project": "UXLINK",
+        "30D": "66"
+      }
+    ],
+    "@B_DNN_": [
+      {
+        "project": "UXLINK",
+        "30D": "70"
+      }
+    ],
+    "@Bounty_ATM": [
+      {
+        "project": "UXLINK",
+        "30D": "73"
+      }
+    ],
+    "@chad3866": [
+      {
+        "project": "UXLINK",
+        "30D": "78"
+      }
+    ],
+    "@EungsuSon28275": [
+      {
+        "project": "UXLINK",
+        "30D": "83"
+      }
+    ],
+    "@Pixy7Crypto": [
+      {
+        "project": "UXLINK",
+        "30D": "86"
+      }
+    ],
+    "@hyeok8911": [
+      {
+        "project": "UXLINK",
+        "30D": "87"
+      },
+      {
+        "project": "ANOMA",
+        "30D": "90"
+      }
+    ],
+    "@MAAAN_GO": [
+      {
+        "project": "UXLINK",
+        "30D": "88"
+      }
+    ],
+    "@Trust_mit": [
+      {
+        "project": "UXLINK",
+        "30D": "89"
+      }
+    ],
+    "@kongkou_": [
+      {
+        "project": "UXLINK",
+        "30D": "90"
+      }
+    ],
+    "@Cryptomadch": [
+      {
+        "project": "UXLINK",
+        "30D": "91"
+      }
+    ],
+    "@Wagdog6": [
+      {
+        "project": "UXLINK",
+        "30D": "95"
+      }
+    ],
+    "@hyenee3782": [
+      {
+        "project": "UXLINK",
+        "30D": "98"
+      }
+    ],
+    "@kangmurphy": [
+      {
+        "project": "UXLINK",
+        "30D": "99"
+      }
+    ],
+    "@darbyt_crypt": [
+      {
+        "project": "UXLINK",
+        "30D": "100"
+      }
+    ],
+    "@adrianbrink": [
+      {
+        "project": "ANOMA",
+        "7D": "1",
+        "30D": "1"
+      }
+    ],
+    "@xerocooleth": [
+      {
+        "project": "ANOMA",
+        "7D": "2",
+        "30D": "21"
+      }
+    ],
+    "@0xbigm7": [
+      {
+        "project": "ANOMA",
+        "7D": "3",
+        "30D": "9"
+      }
+    ],
+    "@Guomin184935": [
+      {
+        "project": "ANOMA",
+        "7D": "4",
+        "30D": "19"
+      }
+    ],
+    "@Cyber_Warriorr": [
+      {
+        "project": "ANOMA",
+        "7D": "5",
+        "30D": "23"
+      }
+    ],
+    "@langeriuseth": [
+      {
+        "project": "ANOMA",
+        "7D": "6",
+        "30D": "29"
+      }
+    ],
+    "@PenguinWeb3": [
+      {
+        "project": "ANOMA",
+        "7D": "7",
+        "30D": "30"
+      }
+    ],
+    "@apriori0x": [
+      {
+        "project": "ANOMA",
+        "7D": "8",
+        "30D": "2"
+      }
+    ],
+    "@holly_web3": [
+      {
+        "project": "ANOMA",
+        "7D": "9",
+        "30D": "36"
+      }
+    ],
+    "@Hercules_Defi": [
+      {
+        "project": "ANOMA",
+        "7D": "10",
+        "30D": "17"
+      }
+    ],
+    "@SkylineETH": [
+      {
+        "project": "ANOMA",
+        "7D": "11",
+        "30D": "25"
+      }
+    ],
+    "@teddi_speaks": [
+      {
+        "project": "ANOMA",
+        "7D": "12",
+        "30D": "12"
+      }
+    ],
+    "@10000BRC": [
+      {
+        "project": "ANOMA",
+        "7D": "13",
+        "30D": "10"
+      }
+    ],
+    "@TimHaldorsson": [
+      {
+        "project": "ANOMA",
+        "7D": "14",
+        "30D": "18"
+      }
+    ],
+    "@BitmanTW": [
+      {
+        "project": "ANOMA",
+        "7D": "15",
+        "30D": "65"
+      }
+    ],
+    "@katexbt": [
+      {
+        "project": "ANOMA",
+        "7D": "16",
+        "30D": "81"
+      }
+    ],
+    "@blueerush": [
+      {
+        "project": "ANOMA",
+        "7D": "17",
+        "30D": "69"
+      }
+    ],
+    "@InfluencerDee": [
+      {
+        "project": "ANOMA",
+        "7D": "18",
+        "30D": "67"
+      }
+    ],
+    "@bingo_eth": [
+      {
+        "project": "ANOMA",
+        "7D": "19",
+        "30D": "49"
+      }
+    ],
+    "@eli5_defi": [
+      {
+        "project": "ANOMA",
+        "7D": "20",
+        "30D": "31"
+      }
+    ],
+    "@endlessq1": [
+      {
+        "project": "ANOMA",
+        "7D": "21",
+        "30D": "54"
+      }
+    ],
+    "@0xFastLife": [
+      {
+        "project": "ANOMA",
+        "7D": "22"
+      }
+    ],
+    "@qklxsqf": [
+      {
+        "project": "ANOMA",
+        "7D": "23",
+        "30D": "95"
+      }
+    ],
+    "@KriptoLisa": [
+      {
+        "project": "ANOMA",
+        "7D": "24",
+        "30D": "73"
+      }
+    ],
+    "@FeratMDS": [
+      {
+        "project": "ANOMA",
+        "7D": "25",
+        "30D": "47"
+      }
+    ],
+    "@jexybtc": [
+      {
+        "project": "ANOMA",
+        "7D": "26",
+        "30D": "100"
+      }
+    ],
+    "@Telloo55": [
+      {
+        "project": "ANOMA",
+        "7D": "27",
+        "30D": "74"
+      }
+    ],
+    "@pipsandbills": [
+      {
+        "project": "ANOMA",
+        "7D": "28",
+        "30D": "13"
+      }
+    ],
+    "@0xfs7": [
+      {
+        "project": "ANOMA",
+        "7D": "29",
+        "30D": "27"
+      }
+    ],
+    "@OrtegasCrypto": [
+      {
+        "project": "ANOMA",
+        "7D": "30",
+        "30D": "51"
+      }
+    ],
+    "@AlegeOfficial": [
+      {
+        "project": "ANOMA",
+        "7D": "31"
+      }
+    ],
+    "@Supers6061": [
+      {
+        "project": "ANOMA",
+        "7D": "32",
+        "30D": "28"
+      }
+    ],
+    "@BuzzMalx": [
+      {
+        "project": "ANOMA",
+        "7D": "33",
+        "30D": "37"
+      }
+    ],
+    "@Merit_Dao": [
+      {
+        "project": "ANOMA",
+        "7D": "34",
+        "30D": "57"
+      }
+    ],
+    "@gn_zebraleyuan": [
+      {
+        "project": "ANOMA",
+        "7D": "35",
+        "30D": "55"
+      }
+    ],
+    "@nftmufettisi": [
+      {
+        "project": "ANOMA",
+        "7D": "36",
+        "30D": "46"
+      }
+    ],
+    "@lenioneall": [
+      {
+        "project": "ANOMA",
+        "7D": "37"
+      }
+    ],
+    "@MtroX207": [
+      {
+        "project": "ANOMA",
+        "7D": "38",
+        "30D": "60"
+      }
+    ],
+    "@liuxiaoling933": [
+      {
+        "project": "ANOMA",
+        "7D": "40",
+        "30D": "93"
+      }
+    ],
+    "@0xastronomica": [
+      {
+        "project": "ANOMA",
+        "7D": "41",
+        "30D": "48"
+      }
+    ],
+    "@DAXIAGUA1": [
+      {
+        "project": "ANOMA",
+        "7D": "42",
+        "30D": "14"
+      }
+    ],
+    "@Jackhaldorsson": [
+      {
+        "project": "ANOMA",
+        "7D": "43",
+        "30D": "80"
+      }
+    ],
+    "@biscuitweb3": [
+      {
+        "project": "ANOMA",
+        "7D": "44",
+        "30D": "53"
+      }
+    ],
+    "@zenerbabax": [
+      {
+        "project": "ANOMA",
+        "7D": "45",
+        "30D": "32"
+      }
+    ],
+    "@0xlowadka": [
+      {
+        "project": "ANOMA",
+        "7D": "46"
+      }
+    ],
+    "@splinter0n": [
+      {
+        "project": "ANOMA",
+        "7D": "47",
+        "30D": "62"
+      }
+    ],
+    "@0xfrigg": [
+      {
+        "project": "ANOMA",
+        "7D": "48"
+      }
+    ],
+    "@ripchillpill": [
+      {
+        "project": "ANOMA",
+        "7D": "49",
+        "30D": "40"
+      }
+    ],
+    "@OVGNFT": [
+      {
+        "project": "ANOMA",
+        "7D": "50"
+      }
+    ],
+    "@ledoraeth": [
+      {
+        "project": "ANOMA",
+        "7D": "51"
+      }
+    ],
+    "@maxpsyop": [
+      {
+        "project": "ANOMA",
+        "7D": "52",
+        "30D": "64"
+      }
+    ],
+    "@momochenming": [
+      {
+        "project": "ANOMA",
+        "7D": "53",
+        "30D": "16"
+      }
+    ],
+    "@kkocality": [
+      {
+        "project": "ANOMA",
+        "7D": "54"
+      }
+    ],
+    "@0xGiwax": [
+      {
+        "project": "ANOMA",
+        "7D": "55",
+        "30D": "56"
+      }
+    ],
+    "@0xDarya_": [
+      {
+        "project": "ANOMA",
+        "7D": "57"
+      }
+    ],
+    "@0xyigido_": [
+      {
+        "project": "ANOMA",
+        "7D": "58"
+      }
+    ],
+    "@uniquesingh__": [
+      {
+        "project": "ANOMA",
+        "7D": "59"
+      }
+    ],
+    "@beingRich2000": [
+      {
+        "project": "ANOMA",
+        "7D": "60",
+        "30D": "11"
+      }
+    ],
+    "@TUGE8888": [
+      {
+        "project": "ANOMA",
+        "7D": "61",
+        "30D": "50"
+      }
+    ],
+    "@HottieBabeGem": [
+      {
+        "project": "ANOMA",
+        "7D": "62",
+        "30D": "92"
+      }
+    ],
+    "@erequendiweb3": [
+      {
+        "project": "ANOMA",
+        "7D": "63",
+        "30D": "35"
+      }
+    ],
+    "@nftchains": [
+      {
+        "project": "ANOMA",
+        "7D": "64"
+      }
+    ],
+    "@0xALTF4": [
+      {
+        "project": "ANOMA",
+        "7D": "65",
+        "30D": "38"
+      }
+    ],
+    "@jgonzalezferrer": [
+      {
+        "project": "ANOMA",
+        "7D": "66",
+        "30D": "75"
+      }
+    ],
+    "@Jessicalevi13": [
+      {
+        "project": "ANOMA",
+        "7D": "67"
+      }
+    ],
+    "@LittleJoker9999": [
+      {
+        "project": "ANOMA",
+        "7D": "68"
+      }
+    ],
+    "@baofuliu": [
+      {
+        "project": "ANOMA",
+        "7D": "69"
+      }
+    ],
+    "@Rest4ndRelax": [
+      {
+        "project": "ANOMA",
+        "7D": "70"
+      }
+    ],
+    "@stelladaily_": [
+      {
+        "project": "ANOMA",
+        "7D": "71"
+      }
+    ],
+    "@DavyCryptoJones": [
+      {
+        "project": "ANOMA",
+        "7D": "72",
+        "30D": "43"
+      }
+    ],
+    "@bullish_bunt": [
+      {
+        "project": "ANOMA",
+        "7D": "73",
+        "30D": "26"
+      }
+    ],
+    "@Yaki_fomoArt": [
+      {
+        "project": "ANOMA",
+        "7D": "74"
+      }
+    ],
+    "@_Kriptopia": [
+      {
+        "project": "ANOMA",
+        "7D": "75",
+        "30D": "94"
+      }
+    ],
+    "@btc28k": [
+      {
+        "project": "ANOMA",
+        "7D": "76"
+      }
+    ],
+    "@Bdigital17": [
+      {
+        "project": "ANOMA",
+        "7D": "77"
+      }
+    ],
+    "@GemBooster": [
+      {
+        "project": "ANOMA",
+        "7D": "78"
+      }
+    ],
+    "@ix_wilson": [
+      {
+        "project": "ANOMA",
+        "7D": "79"
+      }
+    ],
+    "@youfadedwealth": [
+      {
+        "project": "ANOMA",
+        "7D": "80"
+      }
+    ],
+    "@dessa_kr": [
+      {
+        "project": "ANOMA",
+        "7D": "81"
+      }
+    ],
+    "@allen_mojekwu": [
+      {
+        "project": "ANOMA",
+        "7D": "82",
+        "30D": "97"
+      }
+    ],
+    "@theHaneth": [
+      {
+        "project": "ANOMA",
+        "7D": "83",
+        "30D": "76"
+      }
+    ],
+    "@Seymirel": [
+      {
+        "project": "ANOMA",
+        "7D": "84",
+        "30D": "52"
+      }
+    ],
+    "@prxfecy0x": [
+      {
+        "project": "ANOMA",
+        "7D": "85"
+      }
+    ],
+    "@Jizhengguang": [
+      {
+        "project": "ANOMA",
+        "7D": "86",
+        "30D": "83"
+      }
+    ],
+    "@Web3Pikachu": [
+      {
+        "project": "ANOMA",
+        "7D": "87"
+      }
+    ],
+    "@rtk17025": [
+      {
+        "project": "ANOMA",
+        "7D": "88",
+        "30D": "71"
+      }
+    ],
+    "@btcohmann": [
+      {
+        "project": "ANOMA",
+        "7D": "89",
+        "30D": "99"
+      }
+    ],
+    "@Xiaomohh": [
+      {
+        "project": "ANOMA",
+        "7D": "90"
+      }
+    ],
+    "@charles48011843": [
+      {
+        "project": "ANOMA",
+        "7D": "92"
+      }
+    ],
+    "@Ayotomilow0": [
+      {
+        "project": "ANOMA",
+        "7D": "93"
+      }
+    ],
+    "@what3verman": [
+      {
+        "project": "ANOMA",
+        "7D": "94",
+        "30D": "66"
+      }
+    ],
+    "@FerreWeb3": [
+      {
+        "project": "ANOMA",
+        "7D": "95",
+        "30D": "77"
+      }
+    ],
+    "@CandyDAO_leaf": [
+      {
+        "project": "ANOMA",
+        "7D": "96"
+      }
+    ],
+    "@imprint_0x": [
+      {
+        "project": "ANOMA",
+        "7D": "97"
+      }
+    ],
+    "@DL_W59": [
+      {
+        "project": "ANOMA",
+        "7D": "98"
+      }
+    ],
+    "@loffydotsol": [
+      {
+        "project": "ANOMA",
+        "7D": "100"
+      }
+    ],
+    "@cwgoes": [
+      {
+        "project": "ANOMA",
+        "30D": "3"
+      }
+    ],
+    "@ml_sudo": [
+      {
+        "project": "ANOMA",
+        "30D": "4"
+      }
+    ],
+    "@99holders": [
+      {
+        "project": "ANOMA",
+        "30D": "5"
+      }
+    ],
+    "@Louround_": [
+      {
+        "project": "ANOMA",
+        "30D": "6"
+      }
+    ],
+    "@co_cobling": [
+      {
+        "project": "ANOMA",
+        "30D": "7"
+      }
+    ],
+    "@MauriceWbr": [
+      {
+        "project": "ANOMA",
+        "30D": "20"
+      }
+    ],
+    "@zhuanfgghjnb": [
+      {
+        "project": "ANOMA",
+        "30D": "22"
+      }
+    ],
+    "@DeRonin_": [
+      {
+        "project": "ANOMA",
+        "30D": "24"
+      }
+    ],
+    "@jazzckoff": [
+      {
+        "project": "ANOMA",
+        "30D": "33"
+      }
+    ],
+    "@Blockchainrese6": [
+      {
+        "project": "ANOMA",
+        "30D": "34"
+      }
+    ],
+    "@gomtu_xyz": [
+      {
+        "project": "ANOMA",
+        "30D": "39"
+      }
+    ],
+    "@twindoges": [
+      {
+        "project": "ANOMA",
+        "30D": "41"
+      }
+    ],
+    "@NozraZK": [
+      {
+        "project": "ANOMA",
+        "30D": "42"
+      }
+    ],
+    "@MJk9656": [
+      {
+        "project": "ANOMA",
+        "30D": "44"
+      }
+    ],
+    "@qmmmike": [
+      {
+        "project": "ANOMA",
+        "30D": "45"
+      }
+    ],
+    "@zerokn0wledge_": [
+      {
+        "project": "ANOMA",
+        "30D": "58"
+      }
+    ],
+    "@insomniac_ac": [
+      {
+        "project": "ANOMA",
+        "30D": "59"
+      }
+    ],
+    "@baek_project": [
+      {
+        "project": "ANOMA",
+        "30D": "61"
+      }
+    ],
+    "@Traderibo123": [
+      {
+        "project": "ANOMA",
+        "30D": "68"
+      }
+    ],
+    "@thekerukeion": [
+      {
+        "project": "ANOMA",
+        "30D": "70"
+      }
+    ],
+    "@alacheng": [
+      {
+        "project": "ANOMA",
+        "30D": "72"
+      }
+    ],
+    "@Faycytw": [
+      {
+        "project": "ANOMA",
+        "30D": "82"
+      }
+    ],
+    "@IPALAU1": [
+      {
+        "project": "ANOMA",
+        "30D": "86"
+      }
+    ],
+    "@hunkarbeyiniz": [
+      {
+        "project": "ANOMA",
+        "30D": "87"
+      }
+    ],
+    "@bongbongcrypto": [
+      {
+        "project": "ANOMA",
+        "30D": "96"
+      }
+    ],
+    "@jmhuolongguo": [
+      {
+        "project": "ANOMA",
+        "30D": "98"
+      }
+    ]
   }
 }
