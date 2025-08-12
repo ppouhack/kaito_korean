@@ -52,8 +52,8 @@
       {
         "project": "ANOMA",
         "7D": "6",
-        "30D": "28",
-        "3M": "37"
+        "30D": "27",
+        "3M": "36"
       }
     ],
     "@ZF_lab": [
@@ -128,8 +128,8 @@
       {
         "project": "ANOMA",
         "7D": "14",
-        "30D": "40",
-        "3M": "60"
+        "30D": "39",
+        "3M": "59"
       }
     ],
     "@syk233": [
@@ -166,7 +166,7 @@
       {
         "project": "ANOMA",
         "7D": "18",
-        "30D": "22",
+        "30D": "21",
         "3M": "26"
       },
       {
@@ -320,7 +320,7 @@
         "project": "ANOMA",
         "7D": "33",
         "30D": "58",
-        "3M": "76"
+        "3M": "75"
       },
       {
         "project": "Inner Circle"
@@ -386,6 +386,7 @@
       {
         "project": "ANOMA",
         "7D": "40",
+        "30D": "100",
         "3M": "2"
       }
     ],
@@ -622,8 +623,8 @@
       {
         "project": "ANOMA",
         "7D": "68",
-        "30D": "27",
-        "3M": "36"
+        "30D": "28",
+        "3M": "37"
       }
     ],
     "@KriptoLisa": [
@@ -736,7 +737,7 @@
         "project": "ANOMA",
         "7D": "81",
         "30D": "57",
-        "3M": "59"
+        "3M": "60"
       },
       {
         "project": "Anoma Secret Syndicate"
@@ -799,7 +800,7 @@
       {
         "project": "ANOMA",
         "7D": "88",
-        "3M": "75"
+        "3M": "76"
       }
     ],
     "@amit0xic": [
@@ -894,7 +895,7 @@
       {
         "project": "ANOMA",
         "7D": "100",
-        "30D": "21",
+        "30D": "22",
         "3M": "28"
       }
     ],
@@ -1372,12 +1373,6 @@
         "7D": "tier2"
       }
     ],
-    "@Defi_Scribbler": [
-      {
-        "project": "ANOMA",
-        "7D": "tier2"
-      }
-    ],
     "@Crypto_Pranjal": [
       {
         "project": "ANOMA",
@@ -1385,12 +1380,6 @@
       }
     ],
     "@DigiTektrades": [
-      {
-        "project": "ANOMA",
-        "7D": "tier2"
-      }
-    ],
-    "@_thespacebyte": [
       {
         "project": "ANOMA",
         "7D": "tier2"
@@ -1716,6 +1705,20 @@
         "3M": "tier2"
       }
     ],
+    "@0xfrigg": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@Okpara081": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      }
+    ],
     "@awasunyin": [
       {
         "project": "ANOMA",
@@ -1733,7 +1736,7 @@
     "@katexbt": [
       {
         "project": "ANOMA",
-        "30D": "39",
+        "30D": "40",
         "3M": "40"
       }
     ],
@@ -1949,16 +1952,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@0xfs7": [
-      {
-        "project": "ANOMA",
-        "30D": "100",
-        "3M": "50"
-      },
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
     "@Lexibtceth": [
       {
         "project": "ANOMA",
@@ -1984,13 +1977,6 @@
       }
     ],
     "@0xBreyn": [
-      {
-        "project": "ANOMA",
-        "30D": "tier2",
-        "3M": "tier2"
-      }
-    ],
-    "@0xfrigg": [
       {
         "project": "ANOMA",
         "30D": "tier2",
@@ -2190,6 +2176,15 @@
       {
         "project": "ANOMA",
         "3M": "5"
+      }
+    ],
+    "@0xfs7": [
+      {
+        "project": "ANOMA",
+        "3M": "50"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
       }
     ],
     "@twindoges": [
