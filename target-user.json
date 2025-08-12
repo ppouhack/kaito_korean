@@ -275,6 +275,9 @@
     },
     "Falcon": {
       "icon": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FFALCON%252FFALCON.png/w=64&q=90"
+    },
+    "Walus": {
+      "icon": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FWAL%252FWAL.png/w=64&q=90"
     }
   },
   "user_index": {
@@ -2644,6 +2647,10 @@
         "7D": "19",
         "30D": "32",
         "3M": "11"
+      },
+      {
+        "project": "Walus",
+        "3M": "44"
       }
     ],
     "@wals_eth": [
@@ -3088,6 +3095,11 @@
         "7D": "13",
         "30D": "22",
         "3M": "54"
+      },
+      {
+        "project": "Walus",
+        "7D": "50",
+        "30D": "90"
       }
     ],
     "@Jonasoeth": [
@@ -3877,6 +3889,11 @@
         "7D": "7",
         "30D": "21",
         "3M": "37"
+      },
+      {
+        "project": "Walus",
+        "7D": "61",
+        "30D": "100"
       },
       {
         "project": "Anoma Secret Syndicate"
@@ -6156,6 +6173,10 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "3M": "76"
       }
     ],
     "@xiaoyubtc": [
@@ -6703,6 +6724,11 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "30D": "26",
+        "3M": "56"
       }
     ],
     "@RealmissNFT": [
@@ -8532,6 +8558,11 @@
         "7D": "36",
         "30D": "32",
         "3M": "41"
+      },
+      {
+        "project": "Walus",
+        "7D": "22",
+        "30D": "41"
       }
     ],
     "@kaisun55704098": [
@@ -10031,6 +10062,12 @@
         "30D": "88"
       },
       {
+        "project": "Walus",
+        "7D": "12",
+        "30D": "35",
+        "3M": "82"
+      },
+      {
         "project": "Anoma Secret Syndicate"
       },
       {
@@ -10192,6 +10229,10 @@
         "project": "Bluefin",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "30D": "45"
       }
     ],
     "@co_cobling": [
@@ -12369,6 +12410,11 @@
         "30D": "tier2"
       },
       {
+        "project": "Walus",
+        "7D": "48",
+        "30D": "88"
+      },
+      {
         "project": "Inner Circle"
       }
     ],
@@ -13021,6 +13067,10 @@
       {
         "project": "YEET",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2"
       }
     ],
     "@WWTLitee": [
@@ -13865,6 +13915,11 @@
       {
         "project": "WAYFINDER",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "3M": "tier2"
       }
     ],
     "@0xdavid55": [
@@ -14605,6 +14660,11 @@
       {
         "project": "APT",
         "7D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2"
       }
     ],
     "@Michigan409": [
@@ -15143,6 +15203,10 @@
       {
         "project": "YEET",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "30D": "tier2"
       }
     ],
     "@Beatriz_Ape": [
@@ -15725,6 +15789,10 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "73"
       }
     ],
     "@criptofxpro": [
@@ -16571,6 +16639,11 @@
         "project": "MOMENTUM",
         "7D": "tier2",
         "30D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "52",
+        "30D": "93"
       }
     ],
     "@syk233": [
@@ -17157,6 +17230,10 @@
       {
         "project": "KAIA",
         "3M": "17"
+      },
+      {
+        "project": "Walus",
+        "3M": "94"
       }
     ],
     "@BringMeCoins": [
@@ -17961,6 +18038,10 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "64"
       }
     ],
     "@Krystal_Eth": [
@@ -18160,6 +18241,11 @@
       {
         "project": "BYBIT",
         "30D": "50"
+      },
+      {
+        "project": "Walus",
+        "30D": "9",
+        "3M": "20"
       }
     ],
     "@R2D2zen": [
@@ -19844,6 +19930,12 @@
       {
         "project": "Billions Network",
         "3M": "53"
+      },
+      {
+        "project": "Walus",
+        "7D": "1",
+        "30D": "6",
+        "3M": "9"
       }
     ],
     "@PendleIntern": [
@@ -20364,6 +20456,10 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2"
       }
     ],
     "@Tipwotip": [
@@ -20395,6 +20491,10 @@
       },
       {
         "project": "APT",
+        "7D": "tier2"
+      },
+      {
+        "project": "Walus",
         "7D": "tier2"
       }
     ],
@@ -20657,6 +20757,11 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "42",
+        "30D": "69"
       }
     ],
     "@smqclaske": [
@@ -20865,6 +20970,12 @@
       {
         "project": "KAIA",
         "3M": "33"
+      },
+      {
+        "project": "Walus",
+        "7D": "17",
+        "30D": "11",
+        "3M": "16"
       }
     ],
     "@EricCLFung": [
@@ -22311,6 +22422,11 @@
       {
         "project": "Falcon",
         "7D": "83"
+      },
+      {
+        "project": "Walus",
+        "7D": "38",
+        "30D": "75"
       }
     ],
     "@museowunsaram": [
@@ -22870,6 +22986,10 @@
       {
         "project": "Falcon",
         "3M": "97"
+      },
+      {
+        "project": "Walus",
+        "7D": "74"
       }
     ],
     "@jayplayco": [
@@ -23346,6 +23466,10 @@
         "project": "Falcon",
         "30D": "76",
         "3M": "61"
+      },
+      {
+        "project": "Walus",
+        "7D": "67"
       }
     ],
     "@ripchillpill": [
@@ -24256,6 +24380,10 @@
       {
         "project": "Bluefin",
         "3M": "39"
+      },
+      {
+        "project": "Walus",
+        "3M": "75"
       }
     ],
     "@eliz883": [
@@ -24918,6 +25046,11 @@
         "3M": "59"
       },
       {
+        "project": "Walus",
+        "7D": "47",
+        "30D": "87"
+      },
+      {
         "project": "Inner Circle"
       }
     ],
@@ -25206,6 +25339,10 @@
         "7D": "18",
         "30D": "20",
         "3M": "31"
+      },
+      {
+        "project": "Walus",
+        "3M": "77"
       }
     ],
     "@r2Jamong": [
@@ -25752,6 +25889,10 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "3M": "86"
       }
     ],
     "@nocoffeenobrain": [
@@ -26971,6 +27112,11 @@
         "30D": "tier2"
       },
       {
+        "project": "Walus",
+        "7D": "29",
+        "30D": "57"
+      },
+      {
         "project": "Anoma Secret Syndicate"
       }
     ],
@@ -27284,6 +27430,10 @@
         "project": "Falcon",
         "7D": "tier2",
         "30D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "3M": "97"
       }
     ],
     "@DeFiOracle_": [
@@ -27442,6 +27592,12 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "20",
+        "30D": "30",
+        "3M": "43"
       }
     ],
     "@peterwkang": [
@@ -28035,6 +28191,10 @@
         "project": "Bluefin",
         "7D": "tier2",
         "30D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "78"
       }
     ],
     "@EricLBH": [
@@ -28225,6 +28385,10 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "68"
       },
       {
         "project": "Inner Circle"
@@ -29030,6 +29194,10 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "3M": "85"
       }
     ],
     "@The_Wooo": [
@@ -30753,6 +30921,12 @@
         "project": "MOMENTUM",
         "30D": "49",
         "3M": "4"
+      },
+      {
+        "project": "Walus",
+        "7D": "33",
+        "30D": "21",
+        "3M": "38"
       }
     ],
     "@PlaceholderKey": [
@@ -30788,6 +30962,11 @@
         "project": "Bluefin",
         "30D": "21",
         "3M": "27"
+      },
+      {
+        "project": "Walus",
+        "30D": "43",
+        "3M": "92"
       }
     ],
     "@flb_xyz": [
@@ -31665,6 +31844,10 @@
         "3M": "32"
       },
       {
+        "project": "Walus",
+        "3M": "53"
+      },
+      {
         "project": "Inner Circle"
       }
     ],
@@ -32104,6 +32287,11 @@
         "30D": "tier2"
       },
       {
+        "project": "Walus",
+        "7D": "26",
+        "30D": "52"
+      },
+      {
         "project": "Inner Circle"
       }
     ],
@@ -32210,6 +32398,11 @@
         "project": "ZEC",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "40",
+        "30D": "77"
       },
       {
         "project": "Anoma Secret Syndicate"
@@ -32423,6 +32616,11 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "60",
+        "30D": "99"
       }
     ],
     "@lovestern83": [
@@ -33228,6 +33426,11 @@
         "project": "Billions Network",
         "7D": "tier2",
         "30D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "57",
+        "30D": "92"
       }
     ],
     "@John_ACW": [
@@ -33821,6 +34024,10 @@
         "3M": "34"
       },
       {
+        "project": "Walus",
+        "3M": "14"
+      },
+      {
         "project": "Inner Circle"
       }
     ],
@@ -34204,6 +34411,10 @@
         "7D": "31",
         "30D": "32",
         "3M": "32"
+      },
+      {
+        "project": "Walus",
+        "3M": "58"
       }
     ],
     "@DeFi_Made_Here": [
@@ -34780,6 +34991,11 @@
         "project": "SYMPHONY",
         "30D": "48",
         "3M": "93"
+      },
+      {
+        "project": "Walus",
+        "7D": "49",
+        "30D": "89"
       }
     ],
     "@nottjmiller": [
@@ -35799,6 +36015,11 @@
       {
         "project": "PUFFPAW",
         "30D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "46",
+        "30D": "85"
       }
     ],
     "@hyeon__dev": [
@@ -36730,6 +36951,12 @@
         "7D": "18",
         "30D": "46",
         "3M": "54"
+      },
+      {
+        "project": "Walus",
+        "7D": "6",
+        "30D": "17",
+        "3M": "42"
       }
     ],
     "@Bum_cryptotiger": [
@@ -37542,6 +37769,10 @@
         "7D": "22",
         "30D": "21",
         "3M": "19"
+      },
+      {
+        "project": "Walus",
+        "30D": "42"
       }
     ],
     "@alacheng": [
@@ -37995,6 +38226,10 @@
         "project": "MEGAETH",
         "7D": "tier2",
         "30D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "3M": "96"
       }
     ],
     "@Joensmoon": [
@@ -38797,6 +39032,11 @@
         "3M": "92"
       },
       {
+        "project": "Walus",
+        "7D": "37",
+        "30D": "74"
+      },
+      {
         "project": "Anoma Secret Syndicate"
       }
     ],
@@ -38971,6 +39211,10 @@
         "project": "Falcon",
         "7D": "tier2",
         "30D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "71"
       }
     ],
     "@BTW0205": [
@@ -39332,6 +39576,10 @@
       {
         "project": "Billions Network",
         "7D": "97"
+      },
+      {
+        "project": "Walus",
+        "30D": "46"
       }
     ],
     "@phill76815": [
@@ -39438,6 +39686,10 @@
         "7D": "21",
         "30D": "34",
         "3M": "61"
+      },
+      {
+        "project": "Walus",
+        "7D": "63"
       }
     ],
     "@IPALAU1": [
@@ -40003,6 +40255,11 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "54",
+        "30D": "53"
       }
     ],
     "@havelaw11": [
@@ -41112,6 +41369,10 @@
       {
         "project": "APT",
         "7D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "3M": "tier2"
       }
     ],
     "@Its_Dammydee": [
@@ -43854,6 +44115,11 @@
         "3M": "16"
       },
       {
+        "project": "Walus",
+        "30D": "25",
+        "3M": "62"
+      },
+      {
         "project": "Inner Circle"
       }
     ],
@@ -44016,6 +44282,10 @@
       {
         "project": "Falcon",
         "3M": "87"
+      },
+      {
+        "project": "Walus",
+        "3M": "64"
       }
     ],
     "@impalementd": [
@@ -44612,6 +44882,10 @@
       {
         "project": "UNION",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "3M": "tier2"
       }
     ],
     "@MaransCrypto": [
@@ -44961,6 +45235,10 @@
         "project": "Kaito",
         "7D": "tier2",
         "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "Walus",
         "3M": "tier2"
       }
     ],
@@ -46494,6 +46772,10 @@
         "project": "Bluefin",
         "30D": "15",
         "3M": "32"
+      },
+      {
+        "project": "Walus",
+        "3M": "26"
       }
     ],
     "@_HeyZing": [
@@ -46939,6 +47221,10 @@
       {
         "project": "Bluefin",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "3M": "100"
       }
     ],
     "@salvonchain": [
@@ -47215,6 +47501,10 @@
       {
         "project": "Bluefin",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "30D": "71"
       }
     ],
     "@thegreatola": [
@@ -47334,6 +47624,11 @@
         "7D": "2",
         "30D": "2",
         "3M": "1"
+      },
+      {
+        "project": "Walus",
+        "7D": "65",
+        "3M": "95"
       },
       {
         "project": "Inner Circle"
@@ -47821,6 +48116,11 @@
         "7D": "32",
         "30D": "30",
         "3M": "17"
+      },
+      {
+        "project": "Walus",
+        "7D": "44",
+        "30D": "84"
       },
       {
         "project": "Anoma Secret Syndicate"
@@ -48943,6 +49243,11 @@
       {
         "project": "Billions Network",
         "3M": "17"
+      },
+      {
+        "project": "Walus",
+        "7D": "36",
+        "30D": "70"
       }
     ],
     "@dorami404": [
@@ -49226,6 +49531,10 @@
         "project": "Billions Network",
         "7D": "tier2",
         "30D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "30D": "64"
       }
     ],
     "@0xbigm7": [
@@ -49385,6 +49694,12 @@
       {
         "project": "Warden Protocol",
         "7D": "96"
+      },
+      {
+        "project": "Walus",
+        "7D": "31",
+        "30D": "63",
+        "3M": "98"
       }
     ],
     "@HodlethKR": [
@@ -49518,6 +49833,11 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "25",
+        "30D": "49"
       }
     ],
     "@erequendiweb3": [
@@ -49872,6 +50192,10 @@
         "7D": "5",
         "30D": "14",
         "3M": "26"
+      },
+      {
+        "project": "Walus",
+        "3M": "87"
       }
     ],
     "@jaypolaris7": [
@@ -49937,6 +50261,11 @@
       {
         "project": "QUAI",
         "3M": "61"
+      },
+      {
+        "project": "Walus",
+        "7D": "43",
+        "30D": "80"
       }
     ],
     "@Telloo55": [
@@ -50348,6 +50677,10 @@
       {
         "project": "IRYS",
         "7D": "94"
+      },
+      {
+        "project": "Walus",
+        "30D": "72"
       }
     ],
     "@Telcier": [
@@ -50746,6 +51079,10 @@
       {
         "project": "HANA",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2"
       }
     ],
     "@Finiola4": [
@@ -51197,6 +51534,10 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "3M": "tier2"
       }
     ],
     "@mfardecrouz": [
@@ -51427,6 +51768,10 @@
         "3M": "tier2"
       },
       {
+        "project": "Walus",
+        "7D": "tier2"
+      },
+      {
         "project": "Anoma Secret Syndicate"
       }
     ],
@@ -51515,6 +51860,10 @@
         "project": "IRYS",
         "7D": "tier2",
         "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "Walus",
         "3M": "tier2"
       }
     ],
@@ -51765,6 +52114,10 @@
         "project": "IRYS",
         "7D": "tier2",
         "30D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2"
       }
     ],
     "@Benncrypt": [
@@ -51800,6 +52153,10 @@
         "project": "IRYS",
         "30D": "18",
         "3M": "7"
+      },
+      {
+        "project": "Walus",
+        "3M": "45"
       }
     ],
     "@danjablonski_": [
@@ -51943,6 +52300,12 @@
       {
         "project": "Bluefin",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "16",
+        "30D": "24",
+        "3M": "61"
       }
     ],
     "@CryptoHindiO": [
@@ -52243,6 +52606,10 @@
         "project": "IRYS",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "3M": "tier2"
       }
     ],
     "@0xyuvo": [
@@ -52320,6 +52687,12 @@
         "project": "IRYS",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
       }
     ],
     "@anki2654312": [
@@ -52340,6 +52713,10 @@
       {
         "project": "IRYS",
         "30D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2"
       }
     ],
     "@Korgonxx": [
@@ -52378,6 +52755,10 @@
       {
         "project": "IRYS",
         "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "Walus",
         "3M": "tier2"
       }
     ],
@@ -52470,6 +52851,11 @@
       {
         "project": "Polygon",
         "30D": "70"
+      },
+      {
+        "project": "Walus",
+        "30D": "61",
+        "3M": "5"
       },
       {
         "project": "Inner Circle"
@@ -52702,6 +53088,10 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "3M": "90"
       }
     ],
     "@0xagarwal": [
@@ -52722,6 +53112,10 @@
         "project": "Polygon",
         "30D": "88",
         "3M": "84"
+      },
+      {
+        "project": "Walus",
+        "3M": "41"
       },
       {
         "project": "Inner Circle"
@@ -53173,6 +53567,11 @@
       {
         "project": "IRYS",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2"
       }
     ],
     "@yo565678": [
@@ -53314,6 +53713,11 @@
         "7D": "40",
         "30D": "65",
         "3M": "85"
+      },
+      {
+        "project": "Walus",
+        "7D": "27",
+        "30D": "55"
       },
       {
         "project": "Anoma Secret Syndicate"
@@ -53506,6 +53910,11 @@
         "3M": "37"
       },
       {
+        "project": "Walus",
+        "7D": "51",
+        "30D": "91"
+      },
+      {
         "project": "Inner Circle"
       }
     ],
@@ -53616,6 +54025,10 @@
         "project": "Falcon",
         "30D": "40",
         "3M": "6"
+      },
+      {
+        "project": "Walus",
+        "3M": "52"
       }
     ],
     "@colu_farmer": [
@@ -54091,6 +54504,11 @@
         "3M": "26"
       },
       {
+        "project": "Walus",
+        "7D": "56",
+        "30D": "95"
+      },
+      {
         "project": "Inner Circle"
       }
     ],
@@ -54340,6 +54758,10 @@
         "project": "Bluefin",
         "7D": "63",
         "30D": "82"
+      },
+      {
+        "project": "Walus",
+        "7D": "62"
       }
     ],
     "@cryptobraveHQ": [
@@ -54379,6 +54801,10 @@
       {
         "project": "Bluefin",
         "3M": "38"
+      },
+      {
+        "project": "Walus",
+        "3M": "80"
       },
       {
         "project": "Inner Circle"
@@ -54837,6 +55263,11 @@
         "project": "Bluefin",
         "7D": "41",
         "30D": "57"
+      },
+      {
+        "project": "Walus",
+        "7D": "58",
+        "30D": "96"
       }
     ],
     "@0xVanxyrus": [
@@ -55130,6 +55561,11 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "59",
+        "30D": "98"
       }
     ],
     "@GemsScope": [
@@ -55480,6 +55916,11 @@
         "project": "Falcon",
         "7D": "66",
         "30D": "97"
+      },
+      {
+        "project": "Walus",
+        "7D": "34",
+        "30D": "65"
       },
       {
         "project": "Inner Circle"
@@ -55904,6 +56345,11 @@
         "project": "Billions Network",
         "7D": "tier2",
         "30D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "55",
+        "30D": "94"
       }
     ],
     "@jonBeoGazua": [
@@ -56228,6 +56674,10 @@
       },
       {
         "project": "ORDERLYNETWORK",
+        "7D": "tier2"
+      },
+      {
+        "project": "Walus",
         "7D": "tier2"
       }
     ],
@@ -56659,6 +57109,11 @@
         "7D": "75",
         "30D": "34",
         "3M": "39"
+      },
+      {
+        "project": "Walus",
+        "30D": "51",
+        "3M": "79"
       }
     ],
     "@0xNathanWalk": [
@@ -57920,6 +58375,10 @@
       {
         "project": "SUCCINCT",
         "7D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "3M": "tier2"
       }
     ],
     "@AvengerAli": [
@@ -58279,6 +58738,10 @@
       },
       {
         "project": "ZEC",
+        "30D": "tier2"
+      },
+      {
+        "project": "Walus",
         "30D": "tier2"
       }
     ],
@@ -59521,6 +59984,10 @@
         "project": "Bluefin",
         "7D": "tier2",
         "30D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "75"
       }
     ],
     "@Smartecio": [
@@ -59677,6 +60144,10 @@
         "7D": "10",
         "30D": "14",
         "3M": "14"
+      },
+      {
+        "project": "Walus",
+        "30D": "59"
       }
     ],
     "@lhordkrane": [
@@ -61028,6 +61499,10 @@
         "3M": "tier2"
       },
       {
+        "project": "Walus",
+        "3M": "tier2"
+      },
+      {
         "project": "Anoma Secret Syndicate"
       }
     ],
@@ -61953,6 +62428,10 @@
       {
         "project": "YEET",
         "30D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2"
       }
     ],
     "@ConnyConny253": [
@@ -62330,6 +62809,10 @@
         "project": "MOMENTUM",
         "7D": "tier2",
         "30D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "30D": "66"
       }
     ],
     "@kekspawn": [
@@ -63645,6 +64128,10 @@
       {
         "project": "Bluefin",
         "3M": "71"
+      },
+      {
+        "project": "Walus",
+        "3M": "48"
       }
     ],
     "@nics_off": [
@@ -64402,6 +64889,10 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "66"
       }
     ],
     "@GianTheRios": [
@@ -64516,6 +65007,10 @@
       {
         "project": "Falcon",
         "7D": "68"
+      },
+      {
+        "project": "Walus",
+        "3M": "55"
       },
       {
         "project": "Inner Circle"
@@ -66209,6 +66704,12 @@
         "3M": "2"
       },
       {
+        "project": "Walus",
+        "7D": "8",
+        "30D": "12",
+        "3M": "8"
+      },
+      {
         "project": "Inner Circle"
       }
     ],
@@ -66317,6 +66818,10 @@
       {
         "project": "Kaito",
         "30D": "90"
+      },
+      {
+        "project": "Walus",
+        "3M": "11"
       }
     ],
     "@ExpectedValue_": [
@@ -75136,6 +75641,10 @@
       {
         "project": "WAYFINDER",
         "30D": "30"
+      },
+      {
+        "project": "Walus",
+        "30D": "83"
       }
     ],
     "@jackvi810": [
@@ -77563,6 +78072,10 @@
         "project": "APT",
         "7D": "tier2",
         "30D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2"
       }
     ],
     "@iN4dgo1tmd3f2x7": [
@@ -77746,6 +78259,10 @@
         "7D": "73",
         "30D": "73",
         "3M": "99"
+      },
+      {
+        "project": "Walus",
+        "3M": "47"
       }
     ],
     "@0xfs7": [
@@ -78773,6 +79290,12 @@
         "project": "Thrive",
         "7D": "tier2",
         "30D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
       }
     ],
     "@jay2positive": [
@@ -78915,6 +79438,11 @@
       },
       {
         "project": "Humanity",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Walus",
         "7D": "tier2",
         "30D": "tier2"
       }
@@ -79801,6 +80329,12 @@
         "project": "BYBIT",
         "30D": "86",
         "3M": "69"
+      },
+      {
+        "project": "Walus",
+        "7D": "7",
+        "30D": "13",
+        "3M": "27"
       }
     ],
     "@0xGeeGee": [
@@ -80281,6 +80815,11 @@
       {
         "project": "Soul",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2"
       }
     ],
     "@SerCryptoMuse": [
@@ -80616,6 +81155,11 @@
         "project": "Bluefin",
         "7D": "35",
         "30D": "60"
+      },
+      {
+        "project": "Walus",
+        "7D": "45",
+        "30D": "82"
       }
     ],
     "@_SirJoey": [
@@ -82176,6 +82720,12 @@
       {
         "project": "Bluefin",
         "3M": "17"
+      },
+      {
+        "project": "Walus",
+        "7D": "11",
+        "30D": "1",
+        "3M": "1"
       }
     ],
     "@DidiTrading": [
@@ -82289,6 +82839,10 @@
         "3M": "37"
       },
       {
+        "project": "Walus",
+        "3M": "91"
+      },
+      {
         "project": "Inner Circle"
       }
     ],
@@ -82377,6 +82931,10 @@
       {
         "project": "Falcon",
         "30D": "89"
+      },
+      {
+        "project": "Walus",
+        "3M": "19"
       }
     ],
     "@damskotrades": [
@@ -83092,6 +83650,12 @@
         "project": "Bluefin",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "18",
+        "30D": "23",
+        "3M": "49"
       }
     ],
     "@loffydotsol": [
@@ -83197,6 +83761,12 @@
         "7D": "25",
         "30D": "22",
         "3M": "2"
+      },
+      {
+        "project": "Walus",
+        "7D": "72",
+        "30D": "36",
+        "3M": "84"
       }
     ],
     "@PhenVentures": [
@@ -83331,6 +83901,12 @@
         "7D": "3",
         "30D": "8",
         "3M": "6"
+      },
+      {
+        "project": "Walus",
+        "7D": "2",
+        "30D": "7",
+        "3M": "13"
       }
     ],
     "@rektonomist_": [
@@ -84385,6 +84961,10 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2"
       }
     ],
     "@0xdareh": [
@@ -84546,6 +85126,10 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "30D": "56"
       }
     ],
     "@0xfortizo": [
@@ -86337,6 +86921,10 @@
       {
         "project": "FOGO",
         "3M": "39"
+      },
+      {
+        "project": "Walus",
+        "3M": "54"
       }
     ],
     "@ToTheDemon": [
@@ -86842,6 +87430,10 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "3M": "88"
       }
     ],
     "@SamSteffanina": [
@@ -87052,6 +87644,12 @@
       {
         "project": "SOPHON",
         "3M": "12"
+      },
+      {
+        "project": "Walus",
+        "7D": "10",
+        "30D": "22",
+        "3M": "7"
       }
     ],
     "@Gem3a": [
@@ -87196,6 +87794,11 @@
     "@Old_SpicyGinger": [
       {
         "project": "MapleStory",
+        "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "30D": "tier2",
         "3M": "tier2"
       }
     ],
@@ -87584,6 +88187,10 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "77"
       }
     ],
     "@andypiggie": [
@@ -89036,6 +89643,10 @@
       {
         "project": "OpenLedger",
         "7D": "80"
+      },
+      {
+        "project": "Walus",
+        "3M": "69"
       }
     ],
     "@ssh_nkar": [
@@ -89377,6 +89988,10 @@
         "project": "Bluefin",
         "30D": "4",
         "3M": "1"
+      },
+      {
+        "project": "Walus",
+        "3M": "60"
       }
     ],
     "@BiteyeCN": [
@@ -89956,6 +90571,11 @@
         "7D": "57",
         "30D": "72",
         "3M": "90"
+      },
+      {
+        "project": "Walus",
+        "7D": "35",
+        "30D": "68"
       }
     ],
     "@Defi_Maestro": [
@@ -90652,6 +91272,10 @@
       {
         "project": "MOMENTUM",
         "30D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "30D": "62"
       }
     ],
     "@PaoloRebuffo": [
@@ -90772,6 +91396,11 @@
       {
         "project": "TURTLECLUB",
         "3M": "67"
+      },
+      {
+        "project": "Walus",
+        "30D": "27",
+        "3M": "68"
       }
     ],
     "@thedefiedge": [
@@ -91860,6 +92489,12 @@
       {
         "project": "APT",
         "7D": "89"
+      },
+      {
+        "project": "Walus",
+        "7D": "5",
+        "30D": "2",
+        "3M": "3"
       }
     ],
     "@JonHook": [
@@ -92370,6 +93005,12 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "4",
+        "30D": "10",
+        "3M": "12"
       }
     ],
     "@thegolden_eel": [
@@ -92686,6 +93327,10 @@
         "project": "APT",
         "30D": "88",
         "3M": "89"
+      },
+      {
+        "project": "Walus",
+        "3M": "57"
       }
     ],
     "@Only1temmy": [
@@ -92852,6 +93497,11 @@
         "project": "SEI",
         "30D": "63",
         "3M": "91"
+      },
+      {
+        "project": "Walus",
+        "30D": "28",
+        "3M": "63"
       }
     ],
     "@sharvilmalik": [
@@ -92993,6 +93643,12 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "19",
+        "30D": "38",
+        "3M": "34"
       }
     ],
     "@SterFonseca": [
@@ -93650,6 +94306,10 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2"
       }
     ],
     "@DavodRah": [
@@ -93859,6 +94519,11 @@
       },
       {
         "project": "HANA",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Walus",
         "7D": "tier2",
         "30D": "tier2"
       }
@@ -94219,6 +94884,11 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2"
       }
     ],
     "@BeomBeom222": [
@@ -94381,6 +95051,11 @@
         "project": "noya",
         "7D": "tier2",
         "30D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2"
       }
     ],
     "@jerrybossZz": [
@@ -94535,6 +95210,11 @@
       {
         "project": "S",
         "30D": "70"
+      },
+      {
+        "project": "Walus",
+        "7D": "30",
+        "30D": "48"
       },
       {
         "project": "Anoma Secret Syndicate"
@@ -95949,6 +96629,10 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2"
       }
     ],
     "@Digital_Liam_": [
@@ -96545,6 +97229,10 @@
         "project": "OM",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "30D": "tier2"
       }
     ],
     "@Wade_6060": [
@@ -96958,6 +97646,10 @@
       },
       {
         "project": "STORYPROTOCOL",
+        "3M": "tier2"
+      },
+      {
+        "project": "Walus",
         "3M": "tier2"
       }
     ],
@@ -97897,6 +98589,11 @@
         "7D": "37",
         "30D": "55",
         "3M": "79"
+      },
+      {
+        "project": "Walus",
+        "7D": "39",
+        "30D": "76"
       }
     ],
     "@RaAr3s": [
@@ -98898,6 +99595,10 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "3M": "tier2"
       }
     ],
     "@smolgeeek": [
@@ -99465,6 +100166,10 @@
         "7D": "33",
         "30D": "31",
         "3M": "12"
+      },
+      {
+        "project": "Walus",
+        "3M": "10"
       }
     ],
     "@RobertSagurton": [
@@ -99796,6 +100501,12 @@
         "project": "Bluefin",
         "30D": "36",
         "3M": "79"
+      },
+      {
+        "project": "Walus",
+        "7D": "23",
+        "30D": "18",
+        "3M": "51"
       }
     ],
     "@ranger_finance": [
@@ -100097,6 +100808,10 @@
       {
         "project": "APT",
         "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "Walus",
         "3M": "tier2"
       }
     ],
@@ -100435,6 +101150,10 @@
       {
         "project": "APT",
         "3M": "15"
+      },
+      {
+        "project": "Walus",
+        "7D": "69"
       }
     ],
     "@BrandonFerrick": [
@@ -101324,6 +102043,12 @@
         "project": "SatLayer",
         "7D": "tier2",
         "30D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
       }
     ],
     "@oooh_aria": [
@@ -101337,6 +102062,12 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "14",
+        "30D": "29",
+        "3M": "73"
       }
     ],
     "@Nifaribs": [
@@ -101479,6 +102210,10 @@
         "project": "ECLIPSE",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "30D": "tier2"
       }
     ],
     "@Q_amirat": [
@@ -101564,6 +102299,10 @@
         "project": "UNION",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "30D": "tier2"
       }
     ],
     "@web3filthy": [
@@ -101615,6 +102354,10 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "3M": "83"
       }
     ],
     "@ravidecode": [
@@ -102116,6 +102859,12 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
       }
     ],
     "@defigner_": [
@@ -102392,6 +103141,10 @@
         "project": "Soul",
         "7D": "tier2",
         "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "Walus",
         "3M": "tier2"
       }
     ],
@@ -102896,6 +103649,11 @@
         "project": "HANA",
         "7D": "tier2",
         "30D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "30D": "tier2",
+        "3M": "tier2"
       }
     ],
     "@Cindy_vibez": [
@@ -103286,6 +104044,11 @@
       },
       {
         "project": "HANA",
+        "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "30D": "tier2",
         "3M": "tier2"
       }
     ],
@@ -103683,6 +104446,10 @@
         "7D": "31",
         "30D": "44",
         "3M": "47"
+      },
+      {
+        "project": "Walus",
+        "30D": "73"
       },
       {
         "project": "Anoma Secret Syndicate"
@@ -104579,6 +105346,10 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "30D": "tier2"
       }
     ],
     "@wardenintern": [
@@ -105178,6 +105949,12 @@
       {
         "project": "BYBIT",
         "3M": "23"
+      },
+      {
+        "project": "Walus",
+        "7D": "13",
+        "30D": "33",
+        "3M": "18"
       }
     ],
     "@drjasper_eth": [
@@ -105867,6 +106644,10 @@
       {
         "project": "dYdX",
         "30D": "51"
+      },
+      {
+        "project": "Walus",
+        "30D": "67"
       }
     ],
     "@jonjonclark": [
@@ -106495,6 +107276,10 @@
       {
         "project": "Falcon",
         "3M": "13"
+      },
+      {
+        "project": "Walus",
+        "3M": "70"
       }
     ],
     "@Mo_Ezz14": [
@@ -107072,6 +107857,10 @@
       {
         "project": "SOPHON",
         "30D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2"
       }
     ],
     "@CyberFiness": [
@@ -107999,6 +108788,11 @@
         "7D": "7",
         "30D": "2",
         "3M": "5"
+      },
+      {
+        "project": "Walus",
+        "30D": "16",
+        "3M": "40"
       }
     ],
     "@fomomofosol": [
@@ -108550,6 +109344,10 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "30D": "81"
       }
     ],
     "@BagCalls": [
@@ -109643,6 +110441,11 @@
         "7D": "5",
         "30D": "2",
         "3M": "2"
+      },
+      {
+        "project": "Walus",
+        "30D": "15",
+        "3M": "35"
       }
     ],
     "@ChrisJourdan": [
@@ -109952,6 +110755,10 @@
         "7D": "2",
         "30D": "5",
         "3M": "2"
+      },
+      {
+        "project": "Walus",
+        "3M": "32"
       }
     ],
     "@0xkyle__": [
@@ -110913,6 +111720,10 @@
       {
         "project": "CORN",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2"
       }
     ],
     "@DefiPrince88": [
@@ -111114,6 +111925,12 @@
         "7D": "87",
         "30D": "57",
         "3M": "34"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
       }
     ],
     "@Freddipee": [
@@ -111358,6 +112175,11 @@
       {
         "project": "GOATNETWORK",
         "3M": "98"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2"
       }
     ],
     "@UxGsol": [
@@ -111550,6 +112372,10 @@
         "project": "HANA",
         "7D": "tier2",
         "30D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "3M": "tier2"
       }
     ],
     "@raxthealpha": [
@@ -111757,6 +112583,10 @@
         "project": "QUAI",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2"
       }
     ],
     "@Justfly192": [
@@ -112089,6 +112919,10 @@
       {
         "project": "SOON",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "3M": "tier2"
       }
     ],
     "@Im_SMD1": [
@@ -112190,6 +113024,11 @@
         "7D": "8",
         "30D": "24",
         "3M": "65"
+      },
+      {
+        "project": "Walus",
+        "7D": "53",
+        "30D": "86"
       }
     ],
     "@lilykuma_S2_": [
@@ -112251,6 +113090,10 @@
       {
         "project": "KINTO",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2"
       }
     ],
     "@MahboubAyman": [
@@ -112488,6 +113331,10 @@
       {
         "project": "Bluefin",
         "3M": "46"
+      },
+      {
+        "project": "Walus",
+        "3M": "23"
       }
     ],
     "@prxfecy0x": [
@@ -112570,6 +113417,10 @@
       {
         "project": "Humanity",
         "30D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "3M": "tier2"
       }
     ],
     "@Neelamchowdary": [
@@ -112670,6 +113521,12 @@
       {
         "project": "SOON",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
       }
     ],
     "@0xZ4n": [
@@ -112714,6 +113571,10 @@
       {
         "project": "SKATE",
         "30D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2"
       }
     ],
     "@Versemayne": [
@@ -112963,6 +113824,10 @@
       },
       {
         "project": "CORN",
+        "3M": "tier2"
+      },
+      {
+        "project": "Walus",
         "3M": "tier2"
       }
     ],
@@ -116535,6 +117400,10 @@
       {
         "project": "QUAI",
         "3M": "19"
+      },
+      {
+        "project": "Walus",
+        "3M": "28"
       }
     ],
     "@aycasels": [
@@ -117261,6 +118130,10 @@
         "project": "KINTO",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2"
       }
     ],
     "@Darkweb3yagami": [
@@ -117359,6 +118232,10 @@
       {
         "project": "FUEL",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "30D": "tier2"
       }
     ],
     "@Delightpro_": [
@@ -117565,6 +118442,11 @@
       {
         "project": "CORN",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "30D": "tier2",
+        "3M": "tier2"
       }
     ],
     "@i_am_ajo": [
@@ -117582,6 +118464,10 @@
         "project": "KINTO",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2"
       }
     ],
     "@liquidityXBT": [
@@ -118259,6 +119145,10 @@
       {
         "project": "CREATORBID",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "3M": "59"
       }
     ],
     "@degenrsc": [
@@ -120036,6 +120926,12 @@
       {
         "project": "TURTLECLUB",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
       }
     ],
     "@Aaker__x": [
@@ -121198,6 +122094,11 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "30D": "tier2",
+        "3M": "tier2"
       }
     ],
     "@mattyTokenomics": [
@@ -121752,6 +122653,10 @@
       {
         "project": "FUEL",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2"
       }
     ],
     "@cryptomendo": [
@@ -122800,6 +123705,12 @@
         "3M": "21"
       },
       {
+        "project": "Walus",
+        "7D": "24",
+        "30D": "14",
+        "3M": "21"
+      },
+      {
         "project": "Inner Circle"
       }
     ],
@@ -123311,6 +124222,10 @@
       {
         "project": "IQ",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2"
       }
     ],
     "@Mido_riya5": [
@@ -124347,6 +125262,10 @@
       {
         "project": "KINTO",
         "30D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "30D": "tier2"
       }
     ],
     "@PhDAyor": [
@@ -124576,6 +125495,11 @@
       {
         "project": "KINTO",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2"
       }
     ],
     "@Captain_snowboy": [
@@ -124713,6 +125637,10 @@
       {
         "project": "QUAI",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2"
       }
     ],
     "@BlockNedu": [
@@ -125225,6 +126153,10 @@
         "7D": "11",
         "30D": "25",
         "3M": "30"
+      },
+      {
+        "project": "Walus",
+        "3M": "81"
       },
       {
         "project": "Inner Circle"
@@ -126759,6 +127691,10 @@
         "project": "MOVEMENT",
         "7D": "tier2",
         "30D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2"
       }
     ],
     "@CryptoCharmer": [
@@ -127183,6 +128119,10 @@
         "project": "APT",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "3M": "78"
       }
     ],
     "@JackyGekko": [
@@ -127396,6 +128336,11 @@
     "@5phutcrypto_": [
       {
         "project": "MOVEMENT",
+        "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "30D": "tier2",
         "3M": "tier2"
       }
     ],
@@ -129523,6 +130468,10 @@
       {
         "project": "PENGU",
         "7D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "3M": "tier2"
       }
     ],
     "@eddyout_": [
@@ -130978,6 +131927,10 @@
       {
         "project": "QUAI",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2"
       }
     ],
     "@SakataYasha": [
@@ -131025,6 +131978,10 @@
     "@xixi_0010": [
       {
         "project": "QUAI",
+        "3M": "tier2"
+      },
+      {
+        "project": "Walus",
         "3M": "tier2"
       }
     ],
@@ -132168,6 +133125,10 @@
         "3M": "72"
       },
       {
+        "project": "Walus",
+        "3M": "29"
+      },
+      {
         "project": "Inner Circle"
       }
     ],
@@ -132624,6 +133585,12 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "70",
+        "30D": "32",
+        "3M": "67"
       }
     ],
     "@BTCGM1911": [
@@ -132917,6 +133884,11 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2"
       }
     ],
     "@Mortezabihzadeh": [
@@ -132933,6 +133905,11 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2"
       }
     ],
     "@sseonu4": [
@@ -132997,6 +133974,12 @@
     "@Node_Park": [
       {
         "project": "SKATE",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
       }
@@ -133077,6 +134060,10 @@
         "project": "SKATE",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2"
       }
     ],
     "@chubby1756": [
@@ -133396,6 +134383,11 @@
         "project": "SOON",
         "7D": "tier2",
         "30D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2"
       }
     ],
     "@lola_mewu": [
@@ -133457,6 +134449,11 @@
     "@dopamine_crypto": [
       {
         "project": "SOON",
+        "30D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2",
         "30D": "tier2"
       }
     ],
@@ -133597,6 +134594,10 @@
       {
         "project": "SOON",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "30D": "tier2"
       }
     ],
     "@PaulNext": [
@@ -133747,6 +134748,12 @@
       {
         "project": "SOON",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
       }
     ],
     "@JhiNResH": [
@@ -133771,6 +134778,10 @@
       {
         "project": "SOON",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "tier2"
       }
     ],
     "@soooooolate": [
@@ -133899,6 +134910,12 @@
         "7D": "9",
         "30D": "18",
         "3M": "43"
+      },
+      {
+        "project": "Walus",
+        "7D": "3",
+        "30D": "5",
+        "3M": "4"
       }
     ],
     "@oskaritem": [
@@ -136888,6 +137905,10 @@
       {
         "project": "WAYFINDER",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "30D": "tier2"
       }
     ],
     "@0xgt_27": [
@@ -137041,6 +138062,10 @@
         "7D": "61",
         "30D": "10",
         "3M": "15"
+      },
+      {
+        "project": "Walus",
+        "3M": "36"
       }
     ],
     "@RayRaspberry1": [
@@ -137502,6 +138527,10 @@
         "project": "ZEC",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "30D": "tier2"
       }
     ],
     "@Arp_it1": [
@@ -138813,6 +139842,10 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "3M": "tier2"
       }
     ],
     "@subaashgautam": [
@@ -139816,6 +140849,12 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "28",
+        "30D": "50",
+        "3M": "31"
       }
     ],
     "@MrBreadSmith": [
@@ -139829,6 +140868,11 @@
         "project": "Bluefin",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "30D": "40",
+        "3M": "65"
       }
     ],
     "@Orange0rangutan": [
@@ -139904,6 +140948,11 @@
       {
         "project": "MOMENTUM",
         "7D": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "41",
+        "30D": "78"
       }
     ],
     "@0xrooter": [
@@ -139946,6 +140995,12 @@
         "7D": "18",
         "30D": "23",
         "3M": "4"
+      },
+      {
+        "project": "Walus",
+        "7D": "32",
+        "30D": "4",
+        "3M": "2"
       }
     ],
     "@playmatejaylene": [
@@ -139962,6 +141017,11 @@
       {
         "project": "Bluefin",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "30D": "20",
+        "3M": "24"
       }
     ],
     "@hippo_cto": [
@@ -139974,6 +141034,11 @@
       {
         "project": "MOMENTUM",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "30D": "58",
+        "3M": "33"
       }
     ],
     "@GBousis": [
@@ -140013,6 +141078,12 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "7D": "9",
+        "30D": "8",
+        "3M": "22"
       }
     ],
     "@EvanDeKim": [
@@ -140101,6 +141172,10 @@
       {
         "project": "Bluefin",
         "3M": "tier2"
+      },
+      {
+        "project": "Walus",
+        "3M": "46"
       }
     ],
     "@unceenc": [
@@ -140522,6 +141597,859 @@
         "3M": "tier2"
       }
     ],
+    "@BL0CKRUNNER": [
+      {
+        "project": "Walus",
+        "7D": "15",
+        "30D": "31",
+        "3M": "66"
+      }
+    ],
+    "@_smbrian": [
+      {
+        "project": "Walus",
+        "7D": "21",
+        "30D": "39",
+        "3M": "15"
+      }
+    ],
+    "@d3h3d_": [
+      {
+        "project": "Walus",
+        "7D": "76",
+        "3M": "72"
+      }
+    ],
+    "@Ossybadman": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@GrootKkw": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@CzimbackA": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@Philosedotsui": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@_smcosmonaut": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@bitcoinmalaya": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@ZibahTheCreator": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@Runexbt": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@_smkotaro": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@MinhTranQuang10": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@zachpumpit": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@KSW_crypto": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@crypt0crypt0___": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@aliciapeas": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@fahmifarda22": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@EvaHung1223": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@itscryptobytes": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@anthonymous01": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@MaxLensherr": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@Yuanzhuo_labs": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@matte0btc": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@jackieeboy17": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@syke0x": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@KIMBTC_": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@StoopShed": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@puppyhugs114": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@flyesstflyie742": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@ZBti13": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@VikramR062": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@pandateemo88": [
+      {
+        "project": "Walus",
+        "7D": "tier2"
+      }
+    ],
+    "@jungsama1101": [
+      {
+        "project": "Walus",
+        "7D": "tier2"
+      }
+    ],
+    "@ffiml2358763210": [
+      {
+        "project": "Walus",
+        "7D": "tier2"
+      }
+    ],
+    "@SaintLee04": [
+      {
+        "project": "Walus",
+        "7D": "tier2"
+      }
+    ],
+    "@lakshaysuiiiiii": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@renksieth": [
+      {
+        "project": "Walus",
+        "7D": "tier2"
+      }
+    ],
+    "@_temioflagos": [
+      {
+        "project": "Walus",
+        "7D": "tier2"
+      }
+    ],
+    "@Atenov_D": [
+      {
+        "project": "Walus",
+        "7D": "tier2"
+      }
+    ],
+    "@OviMusk": [
+      {
+        "project": "Walus",
+        "7D": "tier2"
+      }
+    ],
+    "@0xgogogo": [
+      {
+        "project": "Walus",
+        "7D": "tier2"
+      }
+    ],
+    "@Don_YE_": [
+      {
+        "project": "Walus",
+        "7D": "tier2"
+      }
+    ],
+    "@sukywin": [
+      {
+        "project": "Walus",
+        "7D": "tier2"
+      }
+    ],
+    "@defi_funds1": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@CaliBTC_": [
+      {
+        "project": "Walus",
+        "7D": "tier2"
+      }
+    ],
+    "@rinne_sui": [
+      {
+        "project": "Walus",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@Inaari16": [
+      {
+        "project": "Walus",
+        "7D": "tier2"
+      }
+    ],
+    "@DukeD_Defi": [
+      {
+        "project": "Walus",
+        "7D": "tier2"
+      }
+    ],
+    "@Naumoski_ace": [
+      {
+        "project": "Walus",
+        "7D": "tier2"
+      }
+    ],
+    "@grandpa_layne": [
+      {
+        "project": "Walus",
+        "7D": "tier2"
+      }
+    ],
+    "@545Mansa": [
+      {
+        "project": "Walus",
+        "7D": "tier2"
+      }
+    ],
+    "@Gidie_hills": [
+      {
+        "project": "Walus",
+        "7D": "tier2"
+      }
+    ],
+    "@GDanezis": [
+      {
+        "project": "Walus",
+        "30D": "3",
+        "3M": "6"
+      }
+    ],
+    "@CryptoBullet1": [
+      {
+        "project": "Walus",
+        "30D": "19",
+        "3M": "50"
+      }
+    ],
+    "@SoorajKSaju": [
+      {
+        "project": "Walus",
+        "30D": "34",
+        "3M": "25"
+      }
+    ],
+    "@b1ackd0g": [
+      {
+        "project": "Walus",
+        "30D": "37",
+        "3M": "39"
+      }
+    ],
+    "@AllanCassis": [
+      {
+        "project": "Walus",
+        "30D": "44"
+      }
+    ],
+    "@NotCryptoBro": [
+      {
+        "project": "Walus",
+        "30D": "47",
+        "3M": "37"
+      }
+    ],
+    "@0x_ZHUANG": [
+      {
+        "project": "Walus",
+        "30D": "54"
+      }
+    ],
+    "@djchrisssssss": [
+      {
+        "project": "Walus",
+        "30D": "60"
+      }
+    ],
+    "@Crypto__Goku": [
+      {
+        "project": "Walus",
+        "30D": "79"
+      }
+    ],
+    "@web3_analyst": [
+      {
+        "project": "Walus",
+        "30D": "97",
+        "3M": "30"
+      }
+    ],
+    "@Reset_sui": [
+      {
+        "project": "Walus",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@WenZis7414": [
+      {
+        "project": "Walus",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@polinochkaoops": [
+      {
+        "project": "Walus",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@Ghenghiskhaan": [
+      {
+        "project": "Walus",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@0xEdle": [
+      {
+        "project": "Walus",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@saksidasaksi": [
+      {
+        "project": "Walus",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@dadefuga_": [
+      {
+        "project": "Walus",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@KaMiaoRich": [
+      {
+        "project": "Walus",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@Trust_mit": [
+      {
+        "project": "Walus",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@news_no_mori_": [
+      {
+        "project": "Walus",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@Rainbowsdotsui": [
+      {
+        "project": "Walus",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@X_Orthodox": [
+      {
+        "project": "Walus",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@RG8XBT": [
+      {
+        "project": "Walus",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@0xTheGeneral": [
+      {
+        "project": "Walus",
+        "30D": "tier2"
+      }
+    ],
+    "@MaranDefi": [
+      {
+        "project": "Walus",
+        "30D": "tier2"
+      }
+    ],
+    "@0xFiRed": [
+      {
+        "project": "Walus",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@sui_mayu15": [
+      {
+        "project": "Walus",
+        "30D": "tier2"
+      }
+    ],
+    "@vunhatnam1": [
+      {
+        "project": "Walus",
+        "30D": "tier2"
+      }
+    ],
+    "@0xSloaan": [
+      {
+        "project": "Walus",
+        "30D": "tier2"
+      }
+    ],
+    "@Poshthehussla": [
+      {
+        "project": "Walus",
+        "30D": "tier2"
+      }
+    ],
+    "@0xmtech": [
+      {
+        "project": "Walus",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@ariadne_light": [
+      {
+        "project": "Walus",
+        "30D": "tier2"
+      }
+    ],
+    "@lemcosmos": [
+      {
+        "project": "Walus",
+        "30D": "tier2"
+      }
+    ],
+    "@AJ_Krypt": [
+      {
+        "project": "Walus",
+        "30D": "tier2"
+      }
+    ],
+    "@ra1manj": [
+      {
+        "project": "Walus",
+        "30D": "tier2"
+      }
+    ],
+    "@kingzw888": [
+      {
+        "project": "Walus",
+        "30D": "tier2"
+      }
+    ],
+    "@elvis_analyst": [
+      {
+        "project": "Walus",
+        "30D": "tier2"
+      }
+    ],
+    "@pilotmew": [
+      {
+        "project": "Walus",
+        "30D": "tier2"
+      }
+    ],
+    "@0xAlexin": [
+      {
+        "project": "Walus",
+        "30D": "tier2"
+      }
+    ],
+    "@EvanWeb3": [
+      {
+        "project": "Walus",
+        "3M": "17"
+      }
+    ],
+    "@gajesh": [
+      {
+        "project": "Walus",
+        "3M": "71"
+      }
+    ],
+    "@andrewkaylor": [
+      {
+        "project": "Walus",
+        "3M": "74"
+      }
+    ],
+    "@0xWara": [
+      {
+        "project": "Walus",
+        "3M": "89"
+      }
+    ],
+    "@shresth3103": [
+      {
+        "project": "Walus",
+        "3M": "93"
+      }
+    ],
+    "@ShiLLin_ViLLian": [
+      {
+        "project": "Walus",
+        "3M": "99"
+      }
+    ],
+    "@CleanwaterSui": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@Bullishify": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@wangtxxl": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@ben_frigon": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@doruk1st": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@w_riches": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@Engineer69_": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@Derek_afun99": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@Chris_Insights": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@lumaodaren": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@BruceWayneXBT": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@Matthew_kor": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@eddy_crypt409": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@AKCB_Ron": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@afanasiyeth": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@mikecantmiss": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@vinidotsui": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@apt_miguel": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@MaxOnSui": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@Suitheonlyway": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@ZStewardZ": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@Mortid_X": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@lazyhyst3ricc": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@dankestrel": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@EarnByAbhi": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@ChrisEryx": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@lukema95": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@KaelKenner": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@3mmanuel_O21": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@0x_beni_": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
+    "@0xchromium": [
+      {
+        "project": "Walus",
+        "3M": "tier2"
+      }
+    ],
     "@insonniac_ac": [
       {
         "project": "Anoma Secret Syndicate"
@@ -140788,11 +142716,6 @@
       }
     ],
     "@Econ3302": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@KIMBTC_": [
       {
         "project": "Inner Circle"
       }
