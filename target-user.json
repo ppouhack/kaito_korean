@@ -282,7 +282,7 @@
       {
         "project": "INFINIT",
         "7D": "1",
-        "30D": "14",
+        "30D": "13",
         "3M": "13"
       },
       {
@@ -381,9 +381,9 @@
       },
       {
         "project": "Falcon",
-        "7D": "48",
+        "7D": "47",
         "30D": "69",
-        "3M": "81"
+        "3M": "80"
       }
     ],
     "@TUGE8888": [
@@ -722,7 +722,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "75",
+        "7D": "74",
         "30D": "90"
       }
     ],
@@ -840,10 +840,122 @@
         "30D": "66"
       }
     ],
-    "@thelearningpill": [
+    "@arndxt_xo": [
       {
         "project": "INFINIT",
         "7D": "8",
+        "30D": "27",
+        "3M": "49"
+      },
+      {
+        "project": "INJ",
+        "7D": "59"
+      },
+      {
+        "project": "MapleStory",
+        "30D": "16",
+        "3M": "39"
+      },
+      {
+        "project": "MNT",
+        "7D": "80",
+        "30D": "18",
+        "3M": "19"
+      },
+      {
+        "project": "NEAR",
+        "3M": "81"
+      },
+      {
+        "project": "SatLayer",
+        "30D": "36",
+        "3M": "63"
+      },
+      {
+        "project": "Soul",
+        "3M": "53"
+      },
+      {
+        "project": "ANOMA",
+        "30D": "85"
+      },
+      {
+        "project": "Camp",
+        "7D": "72",
+        "30D": "55",
+        "3M": "85"
+      },
+      {
+        "project": "dYdX",
+        "3M": "57"
+      },
+      {
+        "project": "CORN",
+        "3M": "40"
+      },
+      {
+        "project": "CREATORBID",
+        "3M": "43"
+      },
+      {
+        "project": "FUEL",
+        "30D": "3",
+        "3M": "7"
+      },
+      {
+        "project": "INITIA",
+        "3M": "16"
+      },
+      {
+        "project": "KAT",
+        "30D": "88",
+        "3M": "99"
+      },
+      {
+        "project": "MOVEMENT",
+        "30D": "5",
+        "3M": "10"
+      },
+      {
+        "project": "SEI",
+        "3M": "80"
+      },
+      {
+        "project": "STARKNET",
+        "3M": "28"
+      },
+      {
+        "project": "STORYPROTOCOL",
+        "7D": "98"
+      },
+      {
+        "project": "TURTLECLUB",
+        "30D": "51",
+        "3M": "13"
+      },
+      {
+        "project": "WAYFINDER",
+        "3M": "91"
+      },
+      {
+        "project": "APT",
+        "3M": "96"
+      },
+      {
+        "project": "BYBIT",
+        "7D": "32",
+        "30D": "53",
+        "3M": "8"
+      },
+      {
+        "project": "Falcon",
+        "3M": "36"
+      }
+    ],
+    "@thelearningpill": [
+      {
+        "project": "INFINIT",
+        "7D": "9",
         "30D": "3",
         "3M": "11"
       },
@@ -923,7 +1035,7 @@
     "@RiddlerNFT": [
       {
         "project": "INFINIT",
-        "7D": "9",
+        "7D": "10",
         "30D": "16",
         "3M": "35"
       },
@@ -994,7 +1106,7 @@
       },
       {
         "project": "ANOMA",
-        "7D": "42",
+        "7D": "41",
         "30D": "50",
         "3M": "71"
       },
@@ -1179,123 +1291,11 @@
       },
       {
         "project": "Falcon",
-        "7D": "63",
+        "7D": "62",
         "30D": "92"
       },
       {
         "project": "Inner Circle"
-      }
-    ],
-    "@arndxt_xo": [
-      {
-        "project": "INFINIT",
-        "7D": "10",
-        "30D": "27",
-        "3M": "49"
-      },
-      {
-        "project": "INJ",
-        "7D": "59"
-      },
-      {
-        "project": "MapleStory",
-        "30D": "16",
-        "3M": "39"
-      },
-      {
-        "project": "MNT",
-        "7D": "80",
-        "30D": "18",
-        "3M": "19"
-      },
-      {
-        "project": "NEAR",
-        "3M": "81"
-      },
-      {
-        "project": "SatLayer",
-        "30D": "36",
-        "3M": "63"
-      },
-      {
-        "project": "Soul",
-        "3M": "53"
-      },
-      {
-        "project": "ANOMA",
-        "30D": "85"
-      },
-      {
-        "project": "Camp",
-        "7D": "72",
-        "30D": "55",
-        "3M": "85"
-      },
-      {
-        "project": "dYdX",
-        "3M": "57"
-      },
-      {
-        "project": "CORN",
-        "3M": "40"
-      },
-      {
-        "project": "CREATORBID",
-        "3M": "43"
-      },
-      {
-        "project": "FUEL",
-        "30D": "3",
-        "3M": "7"
-      },
-      {
-        "project": "INITIA",
-        "3M": "16"
-      },
-      {
-        "project": "KAT",
-        "30D": "88",
-        "3M": "99"
-      },
-      {
-        "project": "MOVEMENT",
-        "30D": "5",
-        "3M": "10"
-      },
-      {
-        "project": "SEI",
-        "3M": "80"
-      },
-      {
-        "project": "STARKNET",
-        "3M": "28"
-      },
-      {
-        "project": "STORYPROTOCOL",
-        "7D": "98"
-      },
-      {
-        "project": "TURTLECLUB",
-        "30D": "51",
-        "3M": "13"
-      },
-      {
-        "project": "WAYFINDER",
-        "3M": "91"
-      },
-      {
-        "project": "APT",
-        "3M": "96"
-      },
-      {
-        "project": "BYBIT",
-        "7D": "32",
-        "30D": "53",
-        "3M": "8"
-      },
-      {
-        "project": "Falcon",
-        "3M": "36"
       }
     ],
     "@gomtu_xyz": [
@@ -1313,7 +1313,7 @@
       {
         "project": "IRYS",
         "7D": "6",
-        "30D": "13",
+        "30D": "12",
         "3M": "30"
       },
       {
@@ -1503,9 +1503,9 @@
       },
       {
         "project": "Falcon",
-        "7D": "47",
+        "7D": "46",
         "30D": "74",
-        "3M": "97"
+        "3M": "96"
       },
       {
         "project": "Anoma Secret Syndicate"
@@ -1528,7 +1528,7 @@
       },
       {
         "project": "Falcon",
-        "3M": "100"
+        "3M": "99"
       }
     ],
     "@chochou33": [
@@ -1591,7 +1591,7 @@
       },
       {
         "project": "Falcon",
-        "3M": "80"
+        "3M": "79"
       }
     ],
     "@zerokn0wledge_": [
@@ -1760,7 +1760,7 @@
       {
         "project": "INFINIT",
         "7D": "16",
-        "30D": "46",
+        "30D": "44",
         "3M": "61"
       },
       {
@@ -2196,7 +2196,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "50",
+        "7D": "49",
         "30D": "28",
         "3M": "27"
       },
@@ -2465,7 +2465,7 @@
       {
         "project": "Falcon",
         "30D": "66",
-        "3M": "87"
+        "3M": "86"
       },
       {
         "project": "Inner Circle"
@@ -2482,7 +2482,7 @@
         "project": "0G",
         "7D": "6",
         "30D": "18",
-        "3M": "27"
+        "3M": "26"
       },
       {
         "project": "UXLINK",
@@ -2770,7 +2770,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "74",
+        "7D": "73",
         "30D": "80"
       },
       {
@@ -2781,7 +2781,7 @@
       {
         "project": "INFINIT",
         "7D": "24",
-        "30D": "54",
+        "30D": "52",
         "3M": "72"
       },
       {
@@ -3014,7 +3014,7 @@
       },
       {
         "project": "HANA",
-        "30D": "51",
+        "30D": "50",
         "3M": "49"
       },
       {
@@ -3156,7 +3156,7 @@
       {
         "project": "INFINIT",
         "7D": "28",
-        "30D": "62",
+        "30D": "61",
         "3M": "77"
       },
       {
@@ -3200,7 +3200,7 @@
       {
         "project": "INJ",
         "7D": "13",
-        "30D": "23",
+        "30D": "24",
         "3M": "43"
       },
       {
@@ -3367,7 +3367,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "73",
+        "7D": "72",
         "30D": "33",
         "3M": "47"
       }
@@ -3411,7 +3411,7 @@
       {
         "project": "MNT",
         "30D": "86",
-        "3M": "92"
+        "3M": "93"
       },
       {
         "project": "NEAR",
@@ -3505,9 +3505,9 @@
       },
       {
         "project": "Falcon",
-        "7D": "40",
+        "7D": "39",
         "30D": "64",
-        "3M": "85"
+        "3M": "84"
       }
     ],
     "@2lambro": [
@@ -3708,7 +3708,7 @@
       {
         "project": "Polkadot",
         "7D": "29",
-        "30D": "54",
+        "30D": "55",
         "3M": "94"
       },
       {
@@ -3889,7 +3889,7 @@
       {
         "project": "INFINIT",
         "7D": "35",
-        "30D": "78",
+        "30D": "76",
         "3M": "91"
       },
       {
@@ -4159,7 +4159,7 @@
         "project": "BLESS",
         "7D": "1",
         "30D": "1",
-        "3M": "5"
+        "3M": "6"
       },
       {
         "project": "Camp",
@@ -4174,7 +4174,7 @@
       },
       {
         "project": "Humanity",
-        "3M": "75"
+        "3M": "76"
       },
       {
         "project": "CYSIC",
@@ -4333,7 +4333,7 @@
       {
         "project": "INFINIT",
         "7D": "39",
-        "30D": "77",
+        "30D": "78",
         "3M": "82"
       },
       {
@@ -4755,7 +4755,7 @@
       {
         "project": "INFINIT",
         "7D": "41",
-        "30D": "13",
+        "30D": "14",
         "3M": "36"
       },
       {
@@ -4874,7 +4874,7 @@
       },
       {
         "project": "CYSIC",
-        "7D": "72"
+        "7D": "71"
       },
       {
         "project": "DEFIAPP",
@@ -5088,7 +5088,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "65",
+        "7D": "64",
         "30D": "93"
       }
     ],
@@ -5149,7 +5149,7 @@
       },
       {
         "project": "ANOMA",
-        "7D": "41",
+        "7D": "42",
         "30D": "40",
         "3M": "42"
       },
@@ -5288,7 +5288,7 @@
       {
         "project": "INFINIT",
         "7D": "46",
-        "30D": "67",
+        "30D": "66",
         "3M": "23"
       },
       {
@@ -5487,7 +5487,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "83"
+        "7D": "82"
       }
     ],
     "@eli5_defi": [
@@ -5708,7 +5708,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "97",
+        "7D": "96",
         "30D": "9",
         "3M": "11"
       },
@@ -5719,10 +5719,64 @@
         "project": "Inner Circle"
       }
     ],
-    "@hannaXbtc": [
+    "@Defi0xJeff": [
       {
         "project": "INFINIT",
         "7D": "50",
+        "30D": "46",
+        "3M": "15"
+      },
+      {
+        "project": "ALLORA",
+        "7D": "14",
+        "30D": "10",
+        "3M": "11"
+      },
+      {
+        "project": "Theoriq",
+        "7D": "53",
+        "30D": "20",
+        "3M": "37"
+      },
+      {
+        "project": "Mira",
+        "7D": "15",
+        "30D": "28",
+        "3M": "36"
+      },
+      {
+        "project": "NEAR",
+        "3M": "63"
+      },
+      {
+        "project": "OpenLedger",
+        "7D": "9",
+        "30D": "37",
+        "3M": "72"
+      },
+      {
+        "project": "PEAQ",
+        "3M": "36"
+      },
+      {
+        "project": "BERA",
+        "3M": "72"
+      },
+      {
+        "project": "CREATORBID",
+        "7D": "1",
+        "30D": "1",
+        "3M": "2"
+      },
+      {
+        "project": "STORYPROTOCOL",
+        "3M": "99"
+      }
+    ],
+    "@hannaXbtc": [
+      {
+        "project": "INFINIT",
+        "7D": "51",
         "30D": "43",
         "3M": "65"
       },
@@ -5774,104 +5828,10 @@
         "7D": "tier2"
       }
     ],
-    "@Defi0xJeff": [
-      {
-        "project": "INFINIT",
-        "7D": "51",
-        "30D": "45",
-        "3M": "15"
-      },
-      {
-        "project": "ALLORA",
-        "7D": "14",
-        "30D": "10",
-        "3M": "11"
-      },
-      {
-        "project": "Theoriq",
-        "7D": "53",
-        "30D": "20",
-        "3M": "37"
-      },
-      {
-        "project": "Mira",
-        "7D": "15",
-        "30D": "28",
-        "3M": "36"
-      },
-      {
-        "project": "NEAR",
-        "3M": "63"
-      },
-      {
-        "project": "OpenLedger",
-        "7D": "9",
-        "30D": "37",
-        "3M": "72"
-      },
-      {
-        "project": "PEAQ",
-        "3M": "36"
-      },
-      {
-        "project": "BERA",
-        "3M": "72"
-      },
-      {
-        "project": "CREATORBID",
-        "7D": "1",
-        "30D": "1",
-        "3M": "2"
-      },
-      {
-        "project": "STORYPROTOCOL",
-        "3M": "99"
-      }
-    ],
-    "@0xgilllee": [
-      {
-        "project": "INFINIT",
-        "7D": "52",
-        "30D": "29",
-        "3M": "51"
-      },
-      {
-        "project": "INJ",
-        "7D": "64"
-      },
-      {
-        "project": "Lombard",
-        "7D": "47",
-        "30D": "21",
-        "3M": "29"
-      },
-      {
-        "project": "Warden Protocol",
-        "30D": "18",
-        "3M": "26"
-      },
-      {
-        "project": "Camp",
-        "7D": "62",
-        "30D": "57",
-        "3M": "55"
-      },
-      {
-        "project": "DEFIAPP",
-        "7D": "53",
-        "30D": "68",
-        "3M": "98"
-      },
-      {
-        "project": "KAT",
-        "7D": "77",
-        "30D": "98"
-      }
-    ],
     "@teddi_speaks": [
       {
         "project": "INFINIT",
-        "7D": "53",
+        "7D": "52",
         "30D": "55",
         "3M": "63"
       },
@@ -5889,7 +5849,7 @@
       {
         "project": "Somnia",
         "30D": "59",
-        "3M": "95"
+        "3M": "96"
       },
       {
         "project": "Mira",
@@ -5986,6 +5946,46 @@
       },
       {
         "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@0xgilllee": [
+      {
+        "project": "INFINIT",
+        "7D": "53",
+        "30D": "29",
+        "3M": "51"
+      },
+      {
+        "project": "INJ",
+        "7D": "64"
+      },
+      {
+        "project": "Lombard",
+        "7D": "47",
+        "30D": "21",
+        "3M": "29"
+      },
+      {
+        "project": "Warden Protocol",
+        "30D": "18",
+        "3M": "26"
+      },
+      {
+        "project": "Camp",
+        "7D": "62",
+        "30D": "57",
+        "3M": "55"
+      },
+      {
+        "project": "DEFIAPP",
+        "7D": "53",
+        "30D": "68",
+        "3M": "98"
+      },
+      {
+        "project": "KAT",
+        "7D": "77",
+        "30D": "98"
       }
     ],
     "@zeuuss_01": [
@@ -6089,7 +6089,7 @@
       {
         "project": "HANA",
         "7D": "20",
-        "30D": "50",
+        "30D": "49",
         "3M": "93"
       },
       {
@@ -6319,7 +6319,7 @@
       {
         "project": "INFINIT",
         "7D": "57",
-        "30D": "76",
+        "30D": "77",
         "3M": "92"
       },
       {
@@ -6381,7 +6381,7 @@
       },
       {
         "project": "0G",
-        "7D": "97"
+        "7D": "96"
       },
       {
         "project": "Somnia",
@@ -6546,7 +6546,7 @@
         "project": "0G",
         "7D": "24",
         "30D": "51",
-        "3M": "76"
+        "3M": "74"
       },
       {
         "project": "ALLORA",
@@ -6637,7 +6637,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "96"
+        "7D": "95"
       }
     ],
     "@JiamigouCn": [
@@ -6810,10 +6810,324 @@
         "30D": "tier2"
       }
     ],
+    "@CryptoUsopp": [
+      {
+        "project": "INFINIT",
+        "7D": "64"
+      },
+      {
+        "project": "Thrive",
+        "30D": "15",
+        "3M": "37"
+      },
+      {
+        "project": "Lombard",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "Mira",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "noya",
+        "30D": "74"
+      },
+      {
+        "project": "Novastro",
+        "30D": "82"
+      },
+      {
+        "project": "Portal to BTC",
+        "30D": "96"
+      },
+      {
+        "project": "Soul",
+        "30D": "40"
+      },
+      {
+        "project": "BLESS",
+        "7D": "71",
+        "30D": "68",
+        "3M": "83"
+      },
+      {
+        "project": "HANA",
+        "30D": "54"
+      },
+      {
+        "project": "Infinex",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "ECLIPSE",
+        "30D": "27",
+        "3M": "45"
+      },
+      {
+        "project": "FOGO",
+        "30D": "52",
+        "3M": "83"
+      },
+      {
+        "project": "FUEL",
+        "3M": "56"
+      },
+      {
+        "project": "KAT",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "KINTO",
+        "30D": "25",
+        "3M": "14"
+      },
+      {
+        "project": "MITOSIS",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "MONAD",
+        "7D": "tier2"
+      },
+      {
+        "project": "MULTIBANK",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "MULTIPLI",
+        "7D": "46",
+        "30D": "42",
+        "3M": "13"
+      },
+      {
+        "project": "NEWTON",
+        "30D": "15",
+        "3M": "17"
+      },
+      {
+        "project": "PARADEX",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "PUFFPAW",
+        "7D": "44"
+      },
+      {
+        "project": "SYMPHONY",
+        "30D": "39",
+        "3M": "67"
+      },
+      {
+        "project": "TURTLECLUB",
+        "30D": "85"
+      },
+      {
+        "project": "UNION",
+        "30D": "96"
+      },
+      {
+        "project": "YEET",
+        "30D": "48",
+        "3M": "66"
+      },
+      {
+        "project": "Billions Network",
+        "3M": "tier2"
+      },
+      {
+        "project": "Falcon",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@TheDeFiPlug": [
+      {
+        "project": "INFINIT",
+        "7D": "65",
+        "30D": "56",
+        "3M": "28"
+      },
+      {
+        "project": "Lombard",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "MNT",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "SatLayer",
+        "7D": "81",
+        "30D": "89"
+      },
+      {
+        "project": "MULTIBANK",
+        "3M": "tier2"
+      },
+      {
+        "project": "SEI",
+        "30D": "45",
+        "3M": "87"
+      },
+      {
+        "project": "Falcon",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@0xALTF4": [
+      {
+        "project": "INFINIT",
+        "7D": "66",
+        "30D": "59",
+        "3M": "76"
+      },
+      {
+        "project": "Theoriq",
+        "7D": "76",
+        "30D": "69",
+        "3M": "18"
+      },
+      {
+        "project": "Thrive",
+        "30D": "37"
+      },
+      {
+        "project": "LUMITERRA",
+        "7D": "51"
+      },
+      {
+        "project": "MEMEX",
+        "30D": "80",
+        "3M": "100"
+      },
+      {
+        "project": "Mira",
+        "7D": "tier2"
+      },
+      {
+        "project": "MNT",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "Novastro",
+        "7D": "37",
+        "30D": "58",
+        "3M": "42"
+      },
+      {
+        "project": "Portal to BTC",
+        "7D": "73",
+        "30D": "99"
+      },
+      {
+        "project": "SatLayer",
+        "3M": "70"
+      },
+      {
+        "project": "Soul",
+        "30D": "51"
+      },
+      {
+        "project": "ANOMA",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "Warden Protocol",
+        "7D": "70",
+        "30D": "40",
+        "3M": "32"
+      },
+      {
+        "project": "dYdX",
+        "7D": "59"
+      },
+      {
+        "project": "Humanity",
+        "30D": "87"
+      },
+      {
+        "project": "BOUNDLESS",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "CYSIC",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "DEFIAPP",
+        "3M": "tier2"
+      },
+      {
+        "project": "KAT",
+        "7D": "tier2"
+      },
+      {
+        "project": "MITOSIS",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "MULTIBANK",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "MULTIPLI",
+        "30D": "76"
+      },
+      {
+        "project": "ORDERLYNETWORK",
+        "30D": "39"
+      },
+      {
+        "project": "KAIA",
+        "3M": "tier2"
+      },
+      {
+        "project": "BYBIT",
+        "30D": "tier2"
+      },
+      {
+        "project": "Falcon",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
     "@Crypto_He": [
       {
         "project": "INFINIT",
-        "7D": "64",
+        "7D": "67",
         "30D": "64",
         "3M": "33"
       },
@@ -7014,285 +7328,10 @@
         "3M": "74"
       }
     ],
-    "@CryptoUsopp": [
-      {
-        "project": "INFINIT",
-        "7D": "65"
-      },
-      {
-        "project": "Thrive",
-        "30D": "15",
-        "3M": "37"
-      },
-      {
-        "project": "Lombard",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "Mira",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "noya",
-        "30D": "74"
-      },
-      {
-        "project": "Novastro",
-        "30D": "82"
-      },
-      {
-        "project": "Portal to BTC",
-        "30D": "96"
-      },
-      {
-        "project": "Soul",
-        "30D": "40"
-      },
-      {
-        "project": "BLESS",
-        "7D": "71",
-        "30D": "68",
-        "3M": "83"
-      },
-      {
-        "project": "HANA",
-        "30D": "54"
-      },
-      {
-        "project": "Infinex",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "ECLIPSE",
-        "30D": "27",
-        "3M": "45"
-      },
-      {
-        "project": "FOGO",
-        "30D": "52",
-        "3M": "83"
-      },
-      {
-        "project": "FUEL",
-        "3M": "56"
-      },
-      {
-        "project": "KAT",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "KINTO",
-        "30D": "25",
-        "3M": "14"
-      },
-      {
-        "project": "MITOSIS",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "MONAD",
-        "7D": "tier2"
-      },
-      {
-        "project": "MULTIBANK",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "MULTIPLI",
-        "7D": "46",
-        "30D": "42",
-        "3M": "13"
-      },
-      {
-        "project": "NEWTON",
-        "30D": "15",
-        "3M": "17"
-      },
-      {
-        "project": "PARADEX",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "PUFFPAW",
-        "7D": "44"
-      },
-      {
-        "project": "SYMPHONY",
-        "30D": "39",
-        "3M": "67"
-      },
-      {
-        "project": "TURTLECLUB",
-        "30D": "85"
-      },
-      {
-        "project": "UNION",
-        "30D": "96"
-      },
-      {
-        "project": "YEET",
-        "30D": "48",
-        "3M": "66"
-      },
-      {
-        "project": "Billions Network",
-        "3M": "tier2"
-      },
-      {
-        "project": "Falcon",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      }
-    ],
-    "@0xALTF4": [
-      {
-        "project": "INFINIT",
-        "7D": "66",
-        "30D": "59",
-        "3M": "76"
-      },
-      {
-        "project": "Theoriq",
-        "7D": "76",
-        "30D": "69",
-        "3M": "18"
-      },
-      {
-        "project": "Thrive",
-        "30D": "37"
-      },
-      {
-        "project": "LUMITERRA",
-        "7D": "51"
-      },
-      {
-        "project": "MEMEX",
-        "30D": "80",
-        "3M": "100"
-      },
-      {
-        "project": "Mira",
-        "7D": "tier2"
-      },
-      {
-        "project": "MNT",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "Novastro",
-        "7D": "37",
-        "30D": "58",
-        "3M": "42"
-      },
-      {
-        "project": "Portal to BTC",
-        "7D": "73",
-        "30D": "99"
-      },
-      {
-        "project": "SatLayer",
-        "3M": "70"
-      },
-      {
-        "project": "Soul",
-        "30D": "51"
-      },
-      {
-        "project": "ANOMA",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "Warden Protocol",
-        "7D": "70",
-        "30D": "40",
-        "3M": "32"
-      },
-      {
-        "project": "dYdX",
-        "7D": "59"
-      },
-      {
-        "project": "Humanity",
-        "30D": "87"
-      },
-      {
-        "project": "BOUNDLESS",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "CYSIC",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "DEFIAPP",
-        "3M": "tier2"
-      },
-      {
-        "project": "KAT",
-        "7D": "tier2"
-      },
-      {
-        "project": "MITOSIS",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "MULTIBANK",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "MULTIPLI",
-        "30D": "76"
-      },
-      {
-        "project": "ORDERLYNETWORK",
-        "30D": "39"
-      },
-      {
-        "project": "KAIA",
-        "3M": "tier2"
-      },
-      {
-        "project": "BYBIT",
-        "30D": "tier2"
-      },
-      {
-        "project": "Falcon",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "Anoma Secret Syndicate"
-      },
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@defikadic": [
       {
         "project": "INFINIT",
-        "7D": "67",
+        "7D": "68",
         "30D": "57",
         "3M": "73"
       },
@@ -7338,45 +7377,6 @@
         "30D": "58"
       }
     ],
-    "@TheDeFiPlug": [
-      {
-        "project": "INFINIT",
-        "7D": "68",
-        "30D": "56",
-        "3M": "28"
-      },
-      {
-        "project": "Lombard",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "MNT",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "SatLayer",
-        "7D": "81",
-        "30D": "89"
-      },
-      {
-        "project": "MULTIBANK",
-        "3M": "tier2"
-      },
-      {
-        "project": "SEI",
-        "30D": "45",
-        "3M": "87"
-      },
-      {
-        "project": "Falcon",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      }
-    ],
     "@TomWeb33": [
       {
         "project": "INFINIT",
@@ -7419,7 +7419,7 @@
       {
         "project": "BLESS",
         "7D": "12",
-        "30D": "32",
+        "30D": "31",
         "3M": "49"
       },
       {
@@ -7475,7 +7475,7 @@
       },
       {
         "project": "HANA",
-        "30D": "48",
+        "30D": "47",
         "3M": "60"
       },
       {
@@ -7652,39 +7652,10 @@
         "30D": "89"
       }
     ],
-    "@cryppinfluence": [
-      {
-        "project": "INFINIT",
-        "7D": "73",
-        "30D": "83",
-        "3M": "98"
-      },
-      {
-        "project": "PEAQ",
-        "3M": "93"
-      },
-      {
-        "project": "ANOMA",
-        "7D": "12",
-        "30D": "10",
-        "3M": "23"
-      },
-      {
-        "project": "Infinex",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "CALDERA",
-        "7D": "25",
-        "30D": "98"
-      }
-    ],
     "@Lexibtceth": [
       {
         "project": "INFINIT",
-        "7D": "74",
+        "7D": "73",
         "30D": "28",
         "3M": "50"
       },
@@ -7732,6 +7703,35 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
+      }
+    ],
+    "@cryppinfluence": [
+      {
+        "project": "INFINIT",
+        "7D": "74",
+        "30D": "83",
+        "3M": "98"
+      },
+      {
+        "project": "PEAQ",
+        "3M": "93"
+      },
+      {
+        "project": "ANOMA",
+        "7D": "12",
+        "30D": "10",
+        "3M": "23"
+      },
+      {
+        "project": "Infinex",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "CALDERA",
+        "7D": "25",
+        "30D": "98"
       }
     ],
     "@Mars_DeFi": [
@@ -7847,8 +7847,8 @@
       {
         "project": "BLESS",
         "7D": "22",
-        "30D": "21",
-        "3M": "41"
+        "30D": "22",
+        "3M": "42"
       },
       {
         "project": "HANA",
@@ -8148,7 +8148,7 @@
       {
         "project": "HANA",
         "7D": "63",
-        "30D": "27",
+        "30D": "26",
         "3M": "38"
       },
       {
@@ -8306,7 +8306,7 @@
         "project": "BLESS",
         "7D": "2",
         "30D": "4",
-        "3M": "6"
+        "3M": "5"
       },
       {
         "project": "BoopBoopFun",
@@ -8439,7 +8439,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "98"
+        "7D": "97"
       },
       {
         "project": "Anoma Secret Syndicate"
@@ -8603,7 +8603,7 @@
         "project": "0G",
         "7D": "40",
         "30D": "26",
-        "3M": "26"
+        "3M": "27"
       },
       {
         "project": "SURF",
@@ -8692,7 +8692,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "54",
+        "7D": "53",
         "30D": "79"
       },
       {
@@ -9030,7 +9030,7 @@
       },
       {
         "project": "ANOMA",
-        "7D": "93",
+        "7D": "92",
         "30D": "80"
       },
       {
@@ -9202,25 +9202,10 @@
         "30D": "70"
       }
     ],
-    "@CryptoRick98": [
-      {
-        "project": "INFINIT",
-        "7D": "90"
-      },
-      {
-        "project": "Infinex",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "BYBIT",
-        "30D": "79"
-      }
-    ],
     "@JPEG_Yakuza_": [
       {
         "project": "INFINIT",
-        "7D": "91"
+        "7D": "90"
       },
       {
         "project": "PEAQ",
@@ -9258,7 +9243,7 @@
     "@RXu107": [
       {
         "project": "INFINIT",
-        "7D": "92"
+        "7D": "91"
       },
       {
         "project": "Lombard",
@@ -9355,6 +9340,21 @@
         "project": "Falcon",
         "7D": "tier2",
         "30D": "tier2"
+      }
+    ],
+    "@CryptoRick98": [
+      {
+        "project": "INFINIT",
+        "7D": "92"
+      },
+      {
+        "project": "Infinex",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "BYBIT",
+        "30D": "79"
       }
     ],
     "@Zun2025": [
@@ -9490,7 +9490,7 @@
       },
       {
         "project": "CYSIC",
-        "7D": "22",
+        "7D": "21",
         "30D": "43",
         "3M": "5"
       },
@@ -9587,10 +9587,120 @@
         "3M": "38"
       }
     ],
+    "@TheDeFinvestor": [
+      {
+        "project": "INFINIT",
+        "7D": "95",
+        "30D": "39",
+        "3M": "47"
+      },
+      {
+        "project": "INJ",
+        "7D": "32",
+        "30D": "13",
+        "3M": "17"
+      },
+      {
+        "project": "Lombard",
+        "30D": "19",
+        "3M": "28"
+      },
+      {
+        "project": "MNT",
+        "7D": "7",
+        "30D": "6",
+        "3M": "12"
+      },
+      {
+        "project": "Portal to BTC",
+        "7D": "95",
+        "30D": "52",
+        "3M": "60"
+      },
+      {
+        "project": "Soul",
+        "3M": "39"
+      },
+      {
+        "project": "Arbitrum",
+        "7D": "76",
+        "30D": "25",
+        "3M": "29"
+      },
+      {
+        "project": "dYdX",
+        "7D": "3",
+        "30D": "7",
+        "3M": "19"
+      },
+      {
+        "project": "Infinex",
+        "7D": "83",
+        "30D": "37",
+        "3M": "70"
+      },
+      {
+        "project": "BERA",
+        "30D": "44",
+        "3M": "68"
+      },
+      {
+        "project": "DEFIAPP",
+        "7D": "49",
+        "30D": "5",
+        "3M": "9"
+      },
+      {
+        "project": "ECLIPSE",
+        "30D": "39",
+        "3M": "67"
+      },
+      {
+        "project": "FRAX",
+        "7D": "2",
+        "30D": "4",
+        "3M": "5"
+      },
+      {
+        "project": "HUMAFINANCE",
+        "30D": "28",
+        "3M": "49"
+      },
+      {
+        "project": "MULTIPLI",
+        "30D": "57",
+        "3M": "71"
+      },
+      {
+        "project": "S",
+        "30D": "61"
+      },
+      {
+        "project": "STARKNET",
+        "3M": "98"
+      },
+      {
+        "project": "TURTLECLUB",
+        "30D": "31",
+        "3M": "69"
+      },
+      {
+        "project": "Kaito",
+        "7D": "71",
+        "30D": "45",
+        "3M": "64"
+      },
+      {
+        "project": "Falcon",
+        "7D": "38",
+        "30D": "63",
+        "3M": "82"
+      }
+    ],
     "@Alvin0617": [
       {
         "project": "INFINIT",
-        "7D": "95"
+        "7D": "96"
       },
       {
         "project": "INJ",
@@ -9740,116 +9850,6 @@
       },
       {
         "project": "Inner Circle"
-      }
-    ],
-    "@TheDeFinvestor": [
-      {
-        "project": "INFINIT",
-        "7D": "96",
-        "30D": "39",
-        "3M": "47"
-      },
-      {
-        "project": "INJ",
-        "7D": "32",
-        "30D": "13",
-        "3M": "17"
-      },
-      {
-        "project": "Lombard",
-        "30D": "19",
-        "3M": "28"
-      },
-      {
-        "project": "MNT",
-        "7D": "7",
-        "30D": "6",
-        "3M": "12"
-      },
-      {
-        "project": "Portal to BTC",
-        "7D": "95",
-        "30D": "52",
-        "3M": "60"
-      },
-      {
-        "project": "Soul",
-        "3M": "39"
-      },
-      {
-        "project": "Arbitrum",
-        "7D": "76",
-        "30D": "25",
-        "3M": "29"
-      },
-      {
-        "project": "dYdX",
-        "7D": "3",
-        "30D": "7",
-        "3M": "19"
-      },
-      {
-        "project": "Infinex",
-        "7D": "83",
-        "30D": "37",
-        "3M": "70"
-      },
-      {
-        "project": "BERA",
-        "30D": "44",
-        "3M": "68"
-      },
-      {
-        "project": "DEFIAPP",
-        "7D": "49",
-        "30D": "5",
-        "3M": "9"
-      },
-      {
-        "project": "ECLIPSE",
-        "30D": "39",
-        "3M": "67"
-      },
-      {
-        "project": "FRAX",
-        "7D": "2",
-        "30D": "4",
-        "3M": "5"
-      },
-      {
-        "project": "HUMAFINANCE",
-        "30D": "28",
-        "3M": "49"
-      },
-      {
-        "project": "MULTIPLI",
-        "30D": "57",
-        "3M": "71"
-      },
-      {
-        "project": "S",
-        "30D": "61"
-      },
-      {
-        "project": "STARKNET",
-        "3M": "98"
-      },
-      {
-        "project": "TURTLECLUB",
-        "30D": "31",
-        "3M": "69"
-      },
-      {
-        "project": "Kaito",
-        "7D": "71",
-        "30D": "45",
-        "3M": "64"
-      },
-      {
-        "project": "Falcon",
-        "7D": "39",
-        "30D": "63",
-        "3M": "83"
       }
     ],
     "@beingRich2000": [
@@ -10027,7 +10027,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "68",
+        "7D": "67",
         "30D": "88"
       },
       {
@@ -10044,7 +10044,7 @@
       },
       {
         "project": "IRYS",
-        "30D": "96"
+        "30D": "97"
       },
       {
         "project": "Camp",
@@ -10207,7 +10207,7 @@
       },
       {
         "project": "UXLINK",
-        "7D": "64",
+        "7D": "65",
         "30D": "88",
         "3M": "96"
       },
@@ -10360,7 +10360,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "72"
+        "7D": "71"
       },
       {
         "project": "Anoma Secret Syndicate"
@@ -10761,7 +10761,7 @@
       {
         "project": "IRYS",
         "7D": "69",
-        "30D": "94"
+        "30D": "93"
       },
       {
         "project": "ANIME",
@@ -11640,10 +11640,6 @@
         "3M": "tier2"
       },
       {
-        "project": "Falcon",
-        "3M": "tier2"
-      },
-      {
         "project": "Anoma Secret Syndicate"
       }
     ],
@@ -11664,7 +11660,7 @@
       },
       {
         "project": "HANA",
-        "30D": "25",
+        "30D": "24",
         "3M": "40"
       },
       {
@@ -12166,6 +12162,37 @@
         "30D": "tier2"
       }
     ],
+    "@afanda1988": [
+      {
+        "project": "INFINIT",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "Theoriq",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "MEMEX",
+        "30D": "tier2"
+      },
+      {
+        "project": "BLESS",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "ORDERLYNETWORK",
+        "30D": "tier2"
+      },
+      {
+        "project": "Kaito",
+        "30D": "tier2"
+      }
+    ],
     "@egyptk6": [
       {
         "project": "INFINIT",
@@ -12236,37 +12263,6 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
-      }
-    ],
-    "@afanda1988": [
-      {
-        "project": "INFINIT",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "Theoriq",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "MEMEX",
-        "30D": "tier2"
-      },
-      {
-        "project": "BLESS",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "ORDERLYNETWORK",
-        "30D": "tier2"
-      },
-      {
-        "project": "Kaito",
-        "30D": "tier2"
       }
     ],
     "@steelorian": [
@@ -12741,6 +12737,30 @@
         "3M": "tier2"
       }
     ],
+    "@omnicryptx": [
+      {
+        "project": "INFINIT",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "OpenLedger",
+        "3M": "tier2"
+      },
+      {
+        "project": "BLESS",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "NEWTON",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
     "@timbro_bro": [
       {
         "project": "INFINIT",
@@ -12826,30 +12846,6 @@
       },
       {
         "project": "Kaito",
-        "30D": "tier2",
-        "3M": "tier2"
-      }
-    ],
-    "@omnicryptx": [
-      {
-        "project": "INFINIT",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "OpenLedger",
-        "3M": "tier2"
-      },
-      {
-        "project": "BLESS",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "NEWTON",
-        "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
       }
@@ -13122,31 +13118,6 @@
         "3M": "tier2"
       }
     ],
-    "@maximus_void": [
-      {
-        "project": "INFINIT",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "LUMITERRA",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "NEWTON",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "SYMPHONY",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      }
-    ],
     "@captain_kent": [
       {
         "project": "INFINIT",
@@ -13194,6 +13165,31 @@
       },
       {
         "project": "KAIA",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@maximus_void": [
+      {
+        "project": "INFINIT",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "LUMITERRA",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "NEWTON",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "SYMPHONY",
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
@@ -13703,34 +13699,6 @@
         "project": "Anoma Secret Syndicate"
       }
     ],
-    "@zizixbt": [
-      {
-        "project": "INFINIT",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "ALLORA",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "Mira",
-        "7D": "tier2"
-      },
-      {
-        "project": "NEWTON",
-        "30D": "tier2"
-      },
-      {
-        "project": "PARADEX",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      }
-    ],
     "@yixing_web3": [
       {
         "project": "INFINIT",
@@ -13813,6 +13781,34 @@
       {
         "project": "Billions Network",
         "7D": "tier2"
+      }
+    ],
+    "@zizixbt": [
+      {
+        "project": "INFINIT",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "ALLORA",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "Mira",
+        "7D": "tier2"
+      },
+      {
+        "project": "NEWTON",
+        "30D": "tier2"
+      },
+      {
+        "project": "PARADEX",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
       }
     ],
     "@tommyunchain": [
@@ -14436,6 +14432,20 @@
         "3M": "tier2"
       }
     ],
+    "@0xKrisfi": [
+      {
+        "project": "INFINIT",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "Theoriq",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
     "@greenhandwe": [
       {
         "project": "INFINIT",
@@ -14494,20 +14504,6 @@
       {
         "project": "APT",
         "7D": "tier2",
-        "3M": "tier2"
-      }
-    ],
-    "@0xKrisfi": [
-      {
-        "project": "INFINIT",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "Theoriq",
-        "7D": "tier2",
-        "30D": "tier2",
         "3M": "tier2"
       }
     ],
@@ -15513,6 +15509,38 @@
         "30D": "tier2"
       }
     ],
+    "@primesoft_mkt": [
+      {
+        "project": "INFINIT",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "MNT",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "Soul",
+        "30D": "96"
+      },
+      {
+        "project": "MITOSIS",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "MULTIPLI",
+        "3M": "tier2"
+      },
+      {
+        "project": "STARKNET",
+        "30D": "tier2"
+      }
+    ],
     "@ramztd": [
       {
         "project": "INFINIT",
@@ -15613,38 +15641,6 @@
       {
         "project": "Bluefin",
         "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@primesoft_mkt": [
-      {
-        "project": "INFINIT",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "MNT",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "Soul",
-        "30D": "96"
-      },
-      {
-        "project": "MITOSIS",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "MULTIPLI",
-        "3M": "tier2"
-      },
-      {
-        "project": "STARKNET",
         "30D": "tier2"
       }
     ],
@@ -16008,7 +16004,7 @@
       },
       {
         "project": "IRYS",
-        "30D": "97"
+        "30D": "98"
       },
       {
         "project": "UXLINK",
@@ -16776,7 +16772,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "79"
+        "7D": "78"
       }
     ],
     "@Defi_Warhol": [
@@ -16836,8 +16832,8 @@
       },
       {
         "project": "Polkadot",
-        "7D": "33",
-        "30D": "44",
+        "7D": "34",
+        "30D": "45",
         "3M": "76"
       },
       {
@@ -16993,7 +16989,7 @@
     "@hankisinvesting": [
       {
         "project": "INFINIT",
-        "30D": "44",
+        "30D": "45",
         "3M": "57"
       },
       {
@@ -17016,7 +17012,7 @@
       {
         "project": "SatLayer",
         "7D": "93",
-        "3M": "91"
+        "3M": "92"
       },
       {
         "project": "Warden Protocol",
@@ -17071,7 +17067,7 @@
     "@GemBooster": [
       {
         "project": "INFINIT",
-        "30D": "52",
+        "30D": "54",
         "3M": "69"
       },
       {
@@ -17166,7 +17162,7 @@
     "@BringMeCoins": [
       {
         "project": "INFINIT",
-        "30D": "61",
+        "30D": "62",
         "3M": "38"
       },
       {
@@ -17255,7 +17251,7 @@
     "@Hercules_Defi": [
       {
         "project": "INFINIT",
-        "30D": "66",
+        "30D": "67",
         "3M": "85"
       },
       {
@@ -18041,7 +18037,7 @@
       {
         "project": "HANA",
         "7D": "34",
-        "30D": "77"
+        "30D": "75"
       },
       {
         "project": "CYSIC",
@@ -18173,7 +18169,7 @@
       },
       {
         "project": "UXLINK",
-        "7D": "14",
+        "7D": "13",
         "30D": "18",
         "3M": "29"
       },
@@ -19481,7 +19477,7 @@
       {
         "project": "HANA",
         "7D": "9",
-        "30D": "24",
+        "30D": "27",
         "3M": "33"
       },
       {
@@ -19714,7 +19710,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "89",
+        "7D": "88",
         "3M": "49"
       }
     ],
@@ -19857,7 +19853,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "82",
+        "7D": "81",
         "30D": "5",
         "3M": "10"
       }
@@ -20173,7 +20169,7 @@
         "project": "SatLayer",
         "7D": "21",
         "30D": "30",
-        "3M": "53"
+        "3M": "52"
       },
       {
         "project": "ANOMA",
@@ -21173,7 +21169,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "37",
+        "7D": "36",
         "30D": "53",
         "3M": "63"
       }
@@ -21242,8 +21238,8 @@
       {
         "project": "INJ",
         "7D": "12",
-        "30D": "24",
-        "3M": "50"
+        "30D": "22",
+        "3M": "47"
       },
       {
         "project": "Arbitrum",
@@ -21291,7 +21287,7 @@
       },
       {
         "project": "UXLINK",
-        "7D": "13",
+        "7D": "14",
         "30D": "23",
         "3M": "38"
       },
@@ -21458,8 +21454,8 @@
       {
         "project": "INJ",
         "7D": "15",
-        "30D": "27",
-        "3M": "57"
+        "30D": "26",
+        "3M": "56"
       },
       {
         "project": "Novastro",
@@ -21521,7 +21517,7 @@
       },
       {
         "project": "0G",
-        "7D": "84",
+        "7D": "85",
         "30D": "70"
       },
       {
@@ -21716,9 +21712,9 @@
       },
       {
         "project": "Falcon",
-        "7D": "42",
+        "7D": "41",
         "30D": "67",
-        "3M": "90"
+        "3M": "89"
       }
     ],
     "@0xKingsKuan": [
@@ -22001,16 +21997,16 @@
       },
       {
         "project": "Falcon",
-        "7D": "44",
+        "7D": "43",
         "30D": "70",
-        "3M": "92"
+        "3M": "91"
       }
     ],
     "@0xAllen888": [
       {
         "project": "INJ",
         "7D": "22",
-        "30D": "38",
+        "30D": "37",
         "3M": "71"
       },
       {
@@ -22099,9 +22095,9 @@
       },
       {
         "project": "Falcon",
-        "7D": "51",
+        "7D": "50",
         "30D": "75",
-        "3M": "99"
+        "3M": "98"
       }
     ],
     "@ShardiB2": [
@@ -22117,7 +22113,7 @@
         "project": "INJ",
         "7D": "24",
         "30D": "46",
-        "3M": "83"
+        "3M": "84"
       },
       {
         "project": "IRYS",
@@ -22197,7 +22193,7 @@
       {
         "project": "Polkadot",
         "7D": "41",
-        "30D": "76",
+        "30D": "75",
         "3M": "34"
       },
       {
@@ -22314,7 +22310,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "84"
+        "7D": "83"
       }
     ],
     "@museowunsaram": [
@@ -22322,7 +22318,7 @@
         "project": "INJ",
         "7D": "25",
         "30D": "47",
-        "3M": "93"
+        "3M": "91"
       },
       {
         "project": "IRYS",
@@ -22570,7 +22566,7 @@
       {
         "project": "INJ",
         "7D": "28",
-        "30D": "51"
+        "30D": "50"
       },
       {
         "project": "PYTH",
@@ -22590,7 +22586,7 @@
       {
         "project": "INJ",
         "7D": "29",
-        "30D": "50",
+        "30D": "51",
         "3M": "40"
       },
       {
@@ -22873,7 +22869,7 @@
       },
       {
         "project": "Falcon",
-        "3M": "98"
+        "3M": "97"
       }
     ],
     "@jayplayco": [
@@ -22881,7 +22877,7 @@
         "project": "INJ",
         "7D": "34",
         "30D": "67",
-        "3M": "100"
+        "3M": "99"
       },
       {
         "project": "IRYS",
@@ -22960,7 +22956,7 @@
       },
       {
         "project": "ANOMA",
-        "7D": "95",
+        "7D": "96",
         "30D": "90"
       },
       {
@@ -23095,7 +23091,7 @@
       },
       {
         "project": "Polkadot",
-        "30D": "75"
+        "30D": "76"
       },
       {
         "project": "Infinex",
@@ -23216,7 +23212,7 @@
         "project": "INJ",
         "7D": "39",
         "30D": "44",
-        "3M": "84"
+        "3M": "83"
       },
       {
         "project": "Theoriq",
@@ -23356,7 +23352,7 @@
       {
         "project": "INJ",
         "7D": "40",
-        "30D": "88"
+        "30D": "86"
       },
       {
         "project": "0G",
@@ -23554,7 +23550,7 @@
         "project": "0G",
         "7D": "15",
         "30D": "38",
-        "3M": "62"
+        "3M": "61"
       },
       {
         "project": "ALLORA",
@@ -23672,7 +23668,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "86"
+        "7D": "85"
       },
       {
         "project": "Inner Circle"
@@ -24120,7 +24116,7 @@
       },
       {
         "project": "ANOMA",
-        "7D": "50"
+        "7D": "49"
       },
       {
         "project": "Camp",
@@ -24381,6 +24377,10 @@
         "7D": "11",
         "30D": "19",
         "3M": "13"
+      },
+      {
+        "project": "Falcon",
+        "7D": "100"
       }
     ],
     "@0x0xFeng": [
@@ -24622,7 +24622,7 @@
       },
       {
         "project": "ANOMA",
-        "7D": "65",
+        "7D": "66",
         "30D": "22",
         "3M": "32"
       },
@@ -24763,7 +24763,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "94"
+        "7D": "93"
       }
     ],
     "@wang_xiaolou": [
@@ -25270,7 +25270,7 @@
         "project": "SatLayer",
         "7D": "54",
         "30D": "52",
-        "3M": "32"
+        "3M": "33"
       },
       {
         "project": "ANOMA",
@@ -29762,7 +29762,7 @@
       {
         "project": "Polkadot",
         "7D": "24",
-        "30D": "45",
+        "30D": "44",
         "3M": "75"
       },
       {
@@ -29865,7 +29865,7 @@
       },
       {
         "project": "ANOMA",
-        "7D": "49",
+        "7D": "50",
         "30D": "100"
       },
       {
@@ -29981,8 +29981,8 @@
     "@0xSweep": [
       {
         "project": "INJ",
-        "30D": "22",
-        "3M": "48"
+        "30D": "23",
+        "3M": "49"
       },
       {
         "project": "BoopBoopFun",
@@ -30007,8 +30007,8 @@
     "@factorydoge69": [
       {
         "project": "INJ",
-        "30D": "26",
-        "3M": "56"
+        "30D": "27",
+        "3M": "57"
       },
       {
         "project": "STORYPROTOCOL",
@@ -30177,7 +30177,7 @@
     "@satswassie": [
       {
         "project": "INJ",
-        "30D": "37",
+        "30D": "38",
         "3M": "75"
       },
       {
@@ -30232,7 +30232,7 @@
       {
         "project": "INJ",
         "30D": "49",
-        "3M": "99"
+        "3M": "100"
       },
       {
         "project": "STORYPROTOCOL",
@@ -30438,7 +30438,7 @@
       },
       {
         "project": "ALLORA",
-        "7D": "11",
+        "7D": "10",
         "30D": "31",
         "3M": "50"
       },
@@ -30511,7 +30511,7 @@
       },
       {
         "project": "HANA",
-        "30D": "47",
+        "30D": "46",
         "3M": "94"
       },
       {
@@ -31033,7 +31033,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "59",
+        "7D": "58",
         "30D": "24",
         "3M": "38"
       }
@@ -31056,7 +31056,7 @@
       {
         "project": "Somnia",
         "30D": "56",
-        "3M": "30"
+        "3M": "31"
       },
       {
         "project": "MEMEX",
@@ -31323,7 +31323,7 @@
     "@hackapreneur": [
       {
         "project": "INJ",
-        "30D": "86"
+        "30D": "87"
       },
       {
         "project": "Theoriq",
@@ -31402,15 +31402,15 @@
       },
       {
         "project": "Falcon",
-        "7D": "53",
+        "7D": "52",
         "30D": "72",
-        "3M": "94"
+        "3M": "93"
       }
     ],
     "@VirtualBacon0x": [
       {
         "project": "INJ",
-        "30D": "87"
+        "30D": "88"
       },
       {
         "project": "MNT",
@@ -33694,7 +33694,7 @@
       },
       {
         "project": "0G",
-        "3M": "74"
+        "3M": "75"
       },
       {
         "project": "IRYS",
@@ -33736,7 +33736,7 @@
         "project": "SatLayer",
         "7D": "46",
         "30D": "53",
-        "3M": "92"
+        "3M": "91"
       },
       {
         "project": "dYdX",
@@ -34021,7 +34021,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "43",
+        "7D": "42",
         "30D": "41",
         "3M": "52"
       }
@@ -34049,7 +34049,7 @@
     "@MKSevenn": [
       {
         "project": "INJ",
-        "3M": "47"
+        "3M": "48"
       },
       {
         "project": "Arbitrum",
@@ -34065,7 +34065,7 @@
     "@Chrizhuu": [
       {
         "project": "INJ",
-        "3M": "49"
+        "3M": "50"
       }
     ],
     "@wenxue600": [
@@ -34503,7 +34503,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "93",
+        "7D": "92",
         "30D": "98"
       }
     ],
@@ -34550,13 +34550,13 @@
     "@ethereumintern_": [
       {
         "project": "INJ",
-        "3M": "91"
+        "3M": "92"
       }
     ],
     "@BCheque1": [
       {
         "project": "INJ",
-        "3M": "92"
+        "3M": "93"
       },
       {
         "project": "NEAR",
@@ -36243,7 +36243,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "61",
+        "7D": "60",
         "30D": "86"
       }
     ],
@@ -36550,7 +36550,7 @@
       {
         "project": "IRYS",
         "7D": "41",
-        "30D": "98"
+        "30D": "96"
       },
       {
         "project": "ALLORA",
@@ -36737,7 +36737,7 @@
         "project": "0G",
         "7D": "20",
         "30D": "40",
-        "3M": "61"
+        "3M": "62"
       },
       {
         "project": "IRYS",
@@ -37259,7 +37259,7 @@
         "project": "0G",
         "7D": "32",
         "30D": "53",
-        "3M": "75"
+        "3M": "76"
       },
       {
         "project": "Somnia",
@@ -37544,10 +37544,60 @@
         "3M": "19"
       }
     ],
-    "@zordcrypt": [
+    "@alacheng": [
       {
         "project": "0G",
         "7D": "41",
+        "30D": "61",
+        "3M": "97"
+      },
+      {
+        "project": "NEAR",
+        "30D": "tier2"
+      },
+      {
+        "project": "PEAQ",
+        "30D": "tier2"
+      },
+      {
+        "project": "ANOMA",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "Polkadot",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "BOUNDLESS",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "CYSIC",
+        "7D": "tier2"
+      },
+      {
+        "project": "STARKNET",
+        "7D": "31",
+        "30D": "73"
+      },
+      {
+        "project": "APT",
+        "7D": "91"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@zordcrypt": [
+      {
+        "project": "0G",
+        "7D": "42",
         "30D": "69"
       },
       {
@@ -37616,56 +37666,6 @@
       {
         "project": "Bluefin",
         "3M": "tier2"
-      }
-    ],
-    "@alacheng": [
-      {
-        "project": "0G",
-        "7D": "42",
-        "30D": "61",
-        "3M": "97"
-      },
-      {
-        "project": "NEAR",
-        "30D": "tier2"
-      },
-      {
-        "project": "PEAQ",
-        "30D": "tier2"
-      },
-      {
-        "project": "ANOMA",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "Polkadot",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "BOUNDLESS",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "CYSIC",
-        "7D": "tier2"
-      },
-      {
-        "project": "STARKNET",
-        "7D": "31",
-        "30D": "73"
-      },
-      {
-        "project": "APT",
-        "7D": "91"
-      },
-      {
-        "project": "Anoma Secret Syndicate"
       }
     ],
     "@InfoSpace_OG": [
@@ -37796,10 +37796,49 @@
         "project": "Inner Circle"
       }
     ],
-    "@Super__dandan": [
+    "@zhao_p42510": [
       {
         "project": "0G",
         "7D": "48",
+        "30D": "67",
+        "3M": "70"
+      },
+      {
+        "project": "Lombard",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "BoopBoopFun",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "Camp",
+        "3M": "tier2"
+      },
+      {
+        "project": "PUFFPAW",
+        "30D": "96"
+      },
+      {
+        "project": "SIDEKICK",
+        "7D": "55",
+        "30D": "39",
+        "3M": "28"
+      },
+      {
+        "project": "Billions Network",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
+    "@Super__dandan": [
+      {
+        "project": "0G",
+        "7D": "49",
         "30D": "25",
         "3M": "21"
       },
@@ -37918,45 +37957,6 @@
         "3M": "tier2"
       }
     ],
-    "@zhao_p42510": [
-      {
-        "project": "0G",
-        "7D": "49",
-        "30D": "67",
-        "3M": "70"
-      },
-      {
-        "project": "Lombard",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "BoopBoopFun",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "Camp",
-        "3M": "tier2"
-      },
-      {
-        "project": "PUFFPAW",
-        "30D": "96"
-      },
-      {
-        "project": "SIDEKICK",
-        "7D": "55",
-        "30D": "39",
-        "3M": "28"
-      },
-      {
-        "project": "Billions Network",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      }
-    ],
     "@Miles082510": [
       {
         "project": "0G",
@@ -38047,7 +38047,7 @@
       {
         "project": "BLESS",
         "7D": "19",
-        "30D": "31",
+        "30D": "32",
         "3M": "27"
       },
       {
@@ -38563,7 +38563,7 @@
         "project": "BLESS",
         "7D": "49",
         "30D": "66",
-        "3M": "86"
+        "3M": "87"
       },
       {
         "project": "Camp",
@@ -38792,9 +38792,9 @@
       },
       {
         "project": "Falcon",
-        "7D": "45",
+        "7D": "44",
         "30D": "71",
-        "3M": "93"
+        "3M": "92"
       },
       {
         "project": "Anoma Secret Syndicate"
@@ -39443,7 +39443,7 @@
     "@IPALAU1": [
       {
         "project": "0G",
-        "7D": "85",
+        "7D": "84",
         "3M": "39"
       },
       {
@@ -39572,7 +39572,7 @@
       },
       {
         "project": "CYSIC",
-        "7D": "21",
+        "7D": "22",
         "30D": "33",
         "3M": "45"
       },
@@ -39585,10 +39585,47 @@
         "7D": "74"
       }
     ],
+    "@Wezaverse": [
+      {
+        "project": "0G",
+        "7D": "88",
+        "30D": "78"
+      },
+      {
+        "project": "PEAQ",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "Camp",
+        "7D": "tier2"
+      },
+      {
+        "project": "Polkadot",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "HANA",
+        "7D": "64"
+      },
+      {
+        "project": "Infinex",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "KAT",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
     "@KriptoLisa": [
       {
         "project": "0G",
-        "7D": "88"
+        "7D": "89"
       },
       {
         "project": "IRYS",
@@ -39664,43 +39701,6 @@
       },
       {
         "project": "Inner Circle"
-      }
-    ],
-    "@Wezaverse": [
-      {
-        "project": "0G",
-        "7D": "89",
-        "30D": "78"
-      },
-      {
-        "project": "PEAQ",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "Camp",
-        "7D": "tier2"
-      },
-      {
-        "project": "Polkadot",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "HANA",
-        "7D": "64"
-      },
-      {
-        "project": "Infinex",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "KAT",
-        "7D": "tier2",
-        "30D": "tier2"
       }
     ],
     "@Yiyixmb": [
@@ -39922,7 +39922,7 @@
     "@hippo688": [
       {
         "project": "0G",
-        "7D": "96"
+        "7D": "97"
       },
       {
         "project": "SURF",
@@ -41428,7 +41428,7 @@
       },
       {
         "project": "Humanity",
-        "3M": "76"
+        "3M": "77"
       },
       {
         "project": "BOUNDLESS",
@@ -43460,7 +43460,7 @@
       },
       {
         "project": "ANOMA",
-        "7D": "68",
+        "7D": "69",
         "30D": "9",
         "3M": "20"
       },
@@ -43772,7 +43772,7 @@
       },
       {
         "project": "ANOMA",
-        "7D": "96"
+        "7D": "95"
       },
       {
         "project": "BOUNDLESS",
@@ -44015,7 +44015,7 @@
       },
       {
         "project": "Falcon",
-        "3M": "88"
+        "3M": "87"
       }
     ],
     "@impalementd": [
@@ -45824,7 +45824,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "57",
+        "7D": "56",
         "30D": "44",
         "3M": "56"
       },
@@ -47320,9 +47320,9 @@
       },
       {
         "project": "Falcon",
-        "7D": "46",
+        "7D": "45",
         "30D": "73",
-        "3M": "95"
+        "3M": "94"
       },
       {
         "project": "Inner Circle"
@@ -47389,7 +47389,7 @@
       {
         "project": "IRYS",
         "7D": "7",
-        "30D": "29",
+        "30D": "28",
         "3M": "53"
       },
       {
@@ -47431,8 +47431,8 @@
       {
         "project": "BLESS",
         "7D": "7",
-        "30D": "22",
-        "3M": "42"
+        "30D": "21",
+        "3M": "41"
       },
       {
         "project": "Camp",
@@ -47598,7 +47598,7 @@
         "project": "Somnia",
         "7D": "38",
         "30D": "57",
-        "3M": "96"
+        "3M": "95"
       },
       {
         "project": "SURF",
@@ -47779,7 +47779,7 @@
       {
         "project": "IRYS",
         "7D": "14",
-        "30D": "12",
+        "30D": "13",
         "3M": "12"
       },
       {
@@ -47877,7 +47877,7 @@
         "project": "SatLayer",
         "7D": "11",
         "30D": "28",
-        "3M": "50"
+        "3M": "49"
       },
       {
         "project": "ANOMA",
@@ -48324,7 +48324,7 @@
       },
       {
         "project": "MNT",
-        "3M": "79"
+        "3M": "80"
       },
       {
         "project": "noya",
@@ -48548,7 +48548,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "58",
+        "7D": "57",
         "30D": "83"
       },
       {
@@ -48621,7 +48621,7 @@
       {
         "project": "ALLORA",
         "7D": "62",
-        "30D": "100"
+        "30D": "99"
       },
       {
         "project": "Novastro",
@@ -48690,7 +48690,7 @@
         "project": "BLESS",
         "7D": "33",
         "30D": "63",
-        "3M": "87"
+        "3M": "85"
       },
       {
         "project": "Humanity",
@@ -48883,7 +48883,7 @@
       },
       {
         "project": "CYSIC",
-        "7D": "29",
+        "7D": "28",
         "30D": "24",
         "3M": "35"
       },
@@ -49132,7 +49132,7 @@
       {
         "project": "DEFIAPP",
         "7D": "78",
-        "30D": "92"
+        "30D": "93"
       },
       {
         "project": "NEWTON",
@@ -49318,7 +49318,7 @@
       {
         "project": "IRYS",
         "7D": "46",
-        "30D": "28",
+        "30D": "29",
         "3M": "17"
       },
       {
@@ -50117,7 +50117,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "64",
+        "7D": "63",
         "30D": "84"
       },
       {
@@ -52118,7 +52118,7 @@
     "@otzgary": [
       {
         "project": "IRYS",
-        "30D": "93",
+        "30D": "94",
         "3M": "44"
       },
       {
@@ -52881,7 +52881,7 @@
       {
         "project": "Falcon",
         "30D": "81",
-        "3M": "96"
+        "3M": "95"
       },
       {
         "project": "Inner Circle"
@@ -53237,7 +53237,7 @@
       {
         "project": "HANA",
         "7D": "7",
-        "30D": "23",
+        "30D": "22",
         "3M": "55"
       },
       {
@@ -53311,9 +53311,9 @@
       },
       {
         "project": "Falcon",
-        "7D": "41",
+        "7D": "40",
         "30D": "65",
-        "3M": "86"
+        "3M": "85"
       },
       {
         "project": "Anoma Secret Syndicate"
@@ -53362,7 +53362,7 @@
       {
         "project": "HANA",
         "7D": "17",
-        "30D": "46",
+        "30D": "51",
         "3M": "96"
       },
       {
@@ -53814,7 +53814,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "92"
+        "7D": "91"
       },
       {
         "project": "Inner Circle"
@@ -53860,7 +53860,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "88"
+        "7D": "87"
       },
       {
         "project": "Inner Circle"
@@ -54213,7 +54213,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "91"
+        "7D": "90"
       }
     ],
     "@asiel86": [
@@ -54559,7 +54559,7 @@
       },
       {
         "project": "ANOMA",
-        "7D": "92"
+        "7D": "93"
       },
       {
         "project": "BLESS",
@@ -54741,7 +54741,7 @@
       },
       {
         "project": "ALLORA",
-        "7D": "27",
+        "7D": "28",
         "30D": "25",
         "3M": "46"
       },
@@ -54918,7 +54918,7 @@
       },
       {
         "project": "HANA",
-        "30D": "75"
+        "30D": "76"
       },
       {
         "project": "Infinex",
@@ -55299,7 +55299,7 @@
     "@bored_vic": [
       {
         "project": "UXLINK",
-        "7D": "65"
+        "7D": "64"
       },
       {
         "project": "OpenLedger",
@@ -55478,7 +55478,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "67",
+        "7D": "66",
         "30D": "97"
       },
       {
@@ -55942,7 +55942,7 @@
       },
       {
         "project": "HANA",
-        "30D": "22",
+        "30D": "23",
         "3M": "37"
       },
       {
@@ -56656,7 +56656,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "76",
+        "7D": "75",
         "30D": "34",
         "3M": "39"
       }
@@ -57683,8 +57683,7 @@
       },
       {
         "project": "BLESS",
-        "7D": "tier2",
-        "30D": "tier2"
+        "7D": "tier2"
       },
       {
         "project": "dYdX",
@@ -59410,7 +59409,7 @@
     "@iinging747": [
       {
         "project": "ALLORA",
-        "7D": "10",
+        "7D": "11",
         "30D": "9",
         "3M": "16"
       },
@@ -59703,7 +59702,7 @@
     "@SheTalksCrypto": [
       {
         "project": "ALLORA",
-        "7D": "28",
+        "7D": "27",
         "30D": "66",
         "3M": "98"
       },
@@ -60120,10 +60119,46 @@
         "30D": "80"
       }
     ],
+    "@churin_3": [
+      {
+        "project": "ALLORA",
+        "7D": "57"
+      },
+      {
+        "project": "Somnia",
+        "30D": "96"
+      },
+      {
+        "project": "Mira",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "BOUNDLESS",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "MONAD",
+        "7D": "tier2"
+      },
+      {
+        "project": "NEWTON",
+        "3M": "98"
+      },
+      {
+        "project": "Falcon",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      }
+    ],
     "@SylvesterSolid": [
       {
         "project": "ALLORA",
-        "7D": "57",
+        "7D": "58",
         "30D": "91"
       },
       {
@@ -60169,42 +60204,6 @@
         "7D": "41",
         "30D": "52",
         "3M": "43"
-      }
-    ],
-    "@churin_3": [
-      {
-        "project": "ALLORA",
-        "7D": "58"
-      },
-      {
-        "project": "Somnia",
-        "30D": "96"
-      },
-      {
-        "project": "Mira",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "BOUNDLESS",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "MONAD",
-        "7D": "tier2"
-      },
-      {
-        "project": "NEWTON",
-        "3M": "98"
-      },
-      {
-        "project": "Falcon",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
       }
     ],
     "@Roh0517": [
@@ -60453,7 +60452,7 @@
       },
       {
         "project": "Humanity",
-        "3M": "74"
+        "3M": "75"
       },
       {
         "project": "BOUNDLESS",
@@ -62046,7 +62045,7 @@
       },
       {
         "project": "ANOMA",
-        "7D": "66"
+        "7D": "65"
       },
       {
         "project": "Arbitrum",
@@ -62113,7 +62112,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "66",
+        "7D": "65",
         "30D": "94"
       }
     ],
@@ -62281,7 +62280,7 @@
     "@starzqeth": [
       {
         "project": "ALLORA",
-        "30D": "99"
+        "30D": "100"
       },
       {
         "project": "Mira",
@@ -63188,7 +63187,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "78",
+        "7D": "77",
         "30D": "68",
         "3M": "75"
       }
@@ -64016,7 +64015,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "70"
+        "7D": "69"
       },
       {
         "project": "Inner Circle"
@@ -64039,7 +64038,7 @@
       },
       {
         "project": "HANA",
-        "30D": "49",
+        "30D": "48",
         "3M": "67"
       },
       {
@@ -64109,7 +64108,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "95"
+        "7D": "94"
       },
       {
         "project": "Inner Circle"
@@ -64145,7 +64144,7 @@
       {
         "project": "ANIME",
         "7D": "26",
-        "30D": "58"
+        "30D": "57"
       }
     ],
     "@sjdedic": [
@@ -64516,7 +64515,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "69"
+        "7D": "68"
       },
       {
         "project": "Inner Circle"
@@ -65141,7 +65140,7 @@
     "@youfadedwealth": [
       {
         "project": "ANIME",
-        "30D": "57",
+        "30D": "58",
         "3M": "49"
       },
       {
@@ -65212,7 +65211,7 @@
         "project": "BLESS",
         "7D": "20",
         "30D": "15",
-        "3M": "20"
+        "3M": "21"
       },
       {
         "project": "HANA",
@@ -65237,7 +65236,7 @@
       },
       {
         "project": "CYSIC",
-        "7D": "71",
+        "7D": "72",
         "30D": "64",
         "3M": "68"
       },
@@ -66449,7 +66448,7 @@
       {
         "project": "DEFIAPP",
         "7D": "11",
-        "30D": "27",
+        "30D": "26",
         "3M": "63"
       },
       {
@@ -67300,7 +67299,7 @@
       },
       {
         "project": "Polkadot",
-        "30D": "19",
+        "30D": "20",
         "3M": "27"
       },
       {
@@ -67453,7 +67452,7 @@
         "project": "Somnia",
         "7D": "14",
         "30D": "25",
-        "3M": "31"
+        "3M": "30"
       },
       {
         "project": "Arbitrum",
@@ -67834,7 +67833,7 @@
       },
       {
         "project": "Humanity",
-        "3M": "77"
+        "3M": "78"
       },
       {
         "project": "BOUNDLESS",
@@ -68266,7 +68265,7 @@
       },
       {
         "project": "ANOMA",
-        "7D": "99",
+        "7D": "100",
         "30D": "87"
       },
       {
@@ -68389,7 +68388,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "85"
+        "7D": "84"
       }
     ],
     "@LucBerkefeld": [
@@ -68539,7 +68538,7 @@
       {
         "project": "BLESS",
         "7D": "30",
-        "30D": "54",
+        "30D": "55",
         "3M": "72"
       },
       {
@@ -68734,7 +68733,7 @@
         "project": "BLESS",
         "7D": "9",
         "30D": "10",
-        "3M": "21"
+        "3M": "20"
       },
       {
         "project": "Polkadot",
@@ -68763,7 +68762,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "56",
+        "7D": "55",
         "30D": "82"
       }
     ],
@@ -68943,7 +68942,7 @@
       },
       {
         "project": "ANOMA",
-        "7D": "82",
+        "7D": "83",
         "30D": "46",
         "3M": "46"
       },
@@ -69221,7 +69220,7 @@
         "project": "SatLayer",
         "7D": "52",
         "30D": "46",
-        "3M": "49"
+        "3M": "50"
       },
       {
         "project": "IQ",
@@ -69388,7 +69387,7 @@
       {
         "project": "DEFIAPP",
         "7D": "12",
-        "30D": "12",
+        "30D": "13",
         "3M": "42"
       },
       {
@@ -72556,7 +72555,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "80"
+        "7D": "79"
       },
       {
         "project": "Inner Circle"
@@ -73195,7 +73194,7 @@
         "project": "Novastro",
         "7D": "26",
         "30D": "40",
-        "3M": "79"
+        "3M": "78"
       },
       {
         "project": "Infinex",
@@ -75711,7 +75710,7 @@
       {
         "project": "DEFIAPP",
         "7D": "56",
-        "30D": "26",
+        "30D": "27",
         "3M": "19"
       },
       {
@@ -76160,7 +76159,7 @@
         "project": "Humanity",
         "7D": "7",
         "30D": "25",
-        "3M": "79"
+        "3M": "74"
       },
       {
         "project": "Infinex",
@@ -77353,7 +77352,7 @@
       },
       {
         "project": "CYSIC",
-        "7D": "76"
+        "7D": "77"
       },
       {
         "project": "ECLIPSE",
@@ -78659,6 +78658,24 @@
         "3M": "tier2"
       }
     ],
+    "@RubyTeagann": [
+      {
+        "project": "Thrive",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "Soul",
+        "7D": "tier2",
+        "30D": "tier2",
+        "3M": "tier2"
+      },
+      {
+        "project": "MOVEMENT",
+        "30D": "tier2"
+      }
+    ],
     "@SuhzieWeb3": [
       {
         "project": "Thrive",
@@ -78679,32 +78696,6 @@
         "7D": "tier2"
       }
     ],
-    "@RubyTeagann": [
-      {
-        "project": "Thrive",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "Soul",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      },
-      {
-        "project": "MOVEMENT",
-        "30D": "tier2"
-      }
-    ],
-    "@thecrypto_dave": [
-      {
-        "project": "Thrive",
-        "7D": "tier2",
-        "30D": "tier2",
-        "3M": "tier2"
-      }
-    ],
     "@Ashtronikweb3": [
       {
         "project": "Thrive",
@@ -78723,6 +78714,14 @@
       },
       {
         "project": "CORN",
+        "3M": "tier2"
+      }
+    ],
+    "@thecrypto_dave": [
+      {
+        "project": "Thrive",
+        "7D": "tier2",
+        "30D": "tier2",
         "3M": "tier2"
       }
     ],
@@ -79974,7 +79973,7 @@
       },
       {
         "project": "CYSIC",
-        "7D": "28",
+        "7D": "29",
         "30D": "32",
         "3M": "43"
       },
@@ -80923,7 +80922,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "77",
+        "7D": "76",
         "30D": "39",
         "3M": "23"
       }
@@ -81839,7 +81838,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "90",
+        "7D": "89",
         "30D": "3",
         "3M": "7"
       },
@@ -82714,10 +82713,6 @@
         "7D": "tier2",
         "30D": "tier2",
         "3M": "tier2"
-      },
-      {
-        "project": "Falcon",
-        "7D": "tier2"
       }
     ],
     "@techiesnft": [
@@ -83290,7 +83285,7 @@
       },
       {
         "project": "Falcon",
-        "3M": "89"
+        "3M": "88"
       }
     ],
     "@jussy_world": [
@@ -83379,7 +83374,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "38",
+        "7D": "37",
         "30D": "35",
         "3M": "17"
       }
@@ -83992,9 +83987,9 @@
       },
       {
         "project": "Falcon",
-        "7D": "36",
+        "7D": "tier2",
         "30D": "tier2",
-        "3M": "79"
+        "3M": "tier2"
       }
     ],
     "@Hantao": [
@@ -84275,7 +84270,7 @@
       },
       {
         "project": "HANA",
-        "30D": "76",
+        "30D": "77",
         "3M": "95"
       },
       {
@@ -85248,7 +85243,7 @@
       },
       {
         "project": "Novastro",
-        "3M": "78"
+        "3M": "79"
       },
       {
         "project": "PEAQ",
@@ -86499,7 +86494,7 @@
       {
         "project": "BLESS",
         "7D": "45",
-        "30D": "55",
+        "30D": "54",
         "3M": "34"
       },
       {
@@ -88727,7 +88722,7 @@
       },
       {
         "project": "Humanity",
-        "3M": "78"
+        "3M": "79"
       },
       {
         "project": "CALDERA",
@@ -89713,7 +89708,7 @@
         "project": "MNT",
         "7D": "16",
         "30D": "45",
-        "3M": "80"
+        "3M": "79"
       },
       {
         "project": "NEAR",
@@ -89775,7 +89770,7 @@
         "project": "MNT",
         "7D": "21",
         "30D": "59",
-        "3M": "93"
+        "3M": "92"
       },
       {
         "project": "BERA",
@@ -89816,7 +89811,7 @@
         "project": "MNT",
         "7D": "33",
         "30D": "82",
-        "3M": "98"
+        "3M": "97"
       },
       {
         "project": "INITIA",
@@ -90871,7 +90866,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "52",
+        "7D": "51",
         "30D": "20",
         "3M": "4"
       }
@@ -91517,7 +91512,7 @@
     "@crypto_condom": [
       {
         "project": "MNT",
-        "3M": "97"
+        "3M": "98"
       },
       {
         "project": "BERA",
@@ -91592,7 +91587,7 @@
       },
       {
         "project": "BLESS",
-        "3M": "85"
+        "3M": "86"
       }
     ],
     "@0xkaka_ETH": [
@@ -93249,7 +93244,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "87"
+        "7D": "86"
       }
     ],
     "@provenauthority": [
@@ -94639,6 +94634,7 @@
       },
       {
         "project": "BLESS",
+        "30D": "tier2",
         "3M": "tier2"
       },
       {
@@ -97208,7 +97204,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "71"
+        "7D": "70"
       }
     ],
     "@ElangovanKamesh": [
@@ -101119,7 +101115,7 @@
         "project": "SatLayer",
         "7D": "5",
         "30D": "18",
-        "3M": "33"
+        "3M": "32"
       },
       {
         "project": "BOUNDLESS",
@@ -101163,7 +101159,7 @@
         "project": "SatLayer",
         "7D": "38",
         "30D": "40",
-        "3M": "52"
+        "3M": "53"
       }
     ],
     "@lubi366": [
@@ -101173,7 +101169,7 @@
       },
       {
         "project": "ANOMA",
-        "7D": "83"
+        "7D": "82"
       },
       {
         "project": "Warden Protocol",
@@ -103069,7 +103065,7 @@
       },
       {
         "project": "CYSIC",
-        "7D": "77"
+        "7D": "76"
       },
       {
         "project": "SEI",
@@ -103480,7 +103476,7 @@
     "@KPeruggi": [
       {
         "project": "ANOMA",
-        "7D": "69"
+        "7D": "68"
       },
       {
         "project": "INITIA",
@@ -103620,7 +103616,7 @@
     "@SteveKBark": [
       {
         "project": "ANOMA",
-        "7D": "100"
+        "7D": "99"
       },
       {
         "project": "BoopBoopFun",
@@ -104308,7 +104304,7 @@
       },
       {
         "project": "Humanity",
-        "3M": "44"
+        "3M": "45"
       },
       {
         "project": "CALDERA",
@@ -106235,7 +106231,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "60",
+        "7D": "59",
         "30D": "22",
         "3M": "19"
       }
@@ -107815,7 +107811,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "49",
+        "7D": "48",
         "30D": "45",
         "3M": "57"
       }
@@ -107830,6 +107826,10 @@
         "7D": "23",
         "30D": "27",
         "3M": "36"
+      },
+      {
+        "project": "Falcon",
+        "3M": "100"
       }
     ],
     "@Jeremyybtc": [
@@ -108814,7 +108814,7 @@
       {
         "project": "Polkadot",
         "7D": "8",
-        "30D": "20",
+        "30D": "19",
         "3M": "23"
       }
     ],
@@ -108859,7 +108859,7 @@
       {
         "project": "Polkadot",
         "7D": "27",
-        "30D": "55",
+        "30D": "54",
         "3M": "28"
       }
     ],
@@ -108882,7 +108882,7 @@
     "@filippoweb3": [
       {
         "project": "Polkadot",
-        "7D": "34",
+        "7D": "33",
         "30D": "9",
         "3M": "7"
       }
@@ -109322,7 +109322,7 @@
         "project": "Humanity",
         "7D": "6",
         "30D": "20",
-        "3M": "45"
+        "3M": "44"
       },
       {
         "project": "BERA",
@@ -111876,7 +111876,7 @@
     "@pingsh1011": [
       {
         "project": "HANA",
-        "30D": "26",
+        "30D": "25",
         "3M": "29"
       },
       {
@@ -113580,7 +113580,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "81",
+        "7D": "80",
         "3M": "16"
       }
     ],
@@ -118571,7 +118571,7 @@
       {
         "project": "DEFIAPP",
         "7D": "13",
-        "30D": "13",
+        "30D": "12",
         "3M": "43"
       },
       {
@@ -118643,7 +118643,7 @@
       {
         "project": "DEFIAPP",
         "7D": "71",
-        "30D": "93"
+        "30D": "92"
       },
       {
         "project": "MEGAETH",
@@ -137038,7 +137038,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "62",
+        "7D": "61",
         "30D": "10",
         "3M": "15"
       }
@@ -138330,7 +138330,7 @@
       },
       {
         "project": "Falcon",
-        "7D": "99",
+        "7D": "98",
         "3M": "77"
       }
     ],
@@ -139933,7 +139933,7 @@
       {
         "project": "Falcon",
         "30D": "78",
-        "3M": "82"
+        "3M": "81"
       }
     ],
     "@matteodotsui": [
@@ -140362,7 +140362,7 @@
     "@ZachWitkoff": [
       {
         "project": "Falcon",
-        "7D": "55",
+        "7D": "54",
         "30D": "31",
         "3M": "45"
       }
@@ -140370,7 +140370,7 @@
     "@bitcoinzhang1": [
       {
         "project": "Falcon",
-        "7D": "100"
+        "7D": "99"
       }
     ],
     "@0xanonnnn": [
@@ -140468,13 +140468,13 @@
     "@danblocmates": [
       {
         "project": "Falcon",
-        "3M": "84"
+        "3M": "83"
       }
     ],
     "@pendle_grandma": [
       {
         "project": "Falcon",
-        "3M": "91"
+        "3M": "90"
       }
     ],
     "@AlessiaBaumgar": [
