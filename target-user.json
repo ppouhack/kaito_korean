@@ -1,49 +1,33 @@
 {
-  "projects": {},
+  "projects": {
+    "ANOMA": {
+      "icon": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FANOMA%252FANOMA.jpg/w=64&q=90"
+    },
+    "UNION": {
+      "icon": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FUNION%252FUNION.png/w=64&q=90"
+    }
+  },
   "user_index": {
-    "@2_bp19": [
+    "@OrtegasCrypto": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
       {
         "project": "Anoma Secret Syndicate"
+      },
+      {
+        "project": "Inner Circle"
       }
     ],
     "@10000BRC": [
       {
-        "project": "Anoma Secret Syndicate"
+        "project": "ANOMA",
+        "3M": "tier2",
+        "30D": "tier2"
       },
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@Louround_": [
-      {
-        "project": "Anoma Secret Syndicate"
-      },
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@co_cobling": [
-      {
-        "project": "Anoma Secret Syndicate"
-      },
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@colu_farmer": [
-      {
-        "project": "Anoma Secret Syndicate"
-      },
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@DAXIAGUA1": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@beingRich2000": [
       {
         "project": "Anoma Secret Syndicate"
       },
@@ -53,12 +37,1011 @@
     ],
     "@teddi_speaks": [
       {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "3M": "36",
+        "7D": "55",
+        "30D": "29"
+      },
+      {
         "project": "Anoma Secret Syndicate"
       }
     ],
-    "@DeRonin_": [
+    "@Lexibtceth": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@MauriceWbr": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2"
+      }
+    ],
+    "@tgd_duu": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
       {
         "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@holly_web3": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@Blockchainrese6": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@0x366e": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@OVGNFT": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "3M": "21",
+        "7D": "20",
+        "30D": "17"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@CandyDAO_leaf": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@rtk17025": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@erequendiweb3": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "3M": "79",
+        "7D": "61",
+        "30D": "74"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@oldman_cek": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@gn_zebraleyuan": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@SolProfessor565": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@InfluencerDee": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@gcsbtc": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@PenguinWeb3": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@qmmmike": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@alacheng": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@captain_kent": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@0xALTF4": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@bingo_eth": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@bullish_bunt": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@FeratMDS": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@0xTiga_H": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@wangy112375": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@nftchains": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@biscuitweb3": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@liuxiaoling933": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@jmhuolongguo": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@LillyCreator": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@loffydotsol": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "3M": "70",
+        "7D": "38",
+        "30D": "62"
+      }
+    ],
+    "@BitcoinZac": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@HottieBabeGem": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@lenioneall": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@web3Lyra": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@scylla_98": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Telloo55": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Faycytw": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@0xfrigg": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@allen_mojekwu": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@Web3Pikachu": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "7D": "tier2"
+      }
+    ],
+    "@ppougod": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@MartinHo99999": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "3M": "64",
+        "7D": "65",
+        "30D": "53"
+      }
+    ],
+    "@iinging747": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "3M": "61",
+        "7D": "44",
+        "30D": "51"
+      }
+    ],
+    "@Jizhengguang": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@Reboottttttt": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@rapperr111": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "3M": "22",
+        "7D": "9",
+        "30D": "18"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@GoldenCicada": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@xCryptoAlucard": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@guiguziben": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@mrbeardjo": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@PrudentSammy": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@0xBreyn": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "3M": "88",
+        "7D": "78",
+        "30D": "81"
+      }
+    ],
+    "@peiopeixiao": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Miles082510": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Joensmoon": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@eferbarn": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@degenbrody": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@_Kriptopia": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@HeathleyETH": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@David__GMI": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "30D": "tier2"
+      }
+    ],
+    "@zizhong999": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@kimbunyu": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@ank129048": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@mhkNFTs": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@0xark21": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@zeuuss_01": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "3M": "54",
+        "7D": "30",
+        "30D": "52"
+      }
+    ],
+    "@OxJoshyy": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "3M": "20",
+        "30D": "28"
+      }
+    ],
+    "@CheesyBun0211": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@GemBooster": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@notjazii": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@QingTheCreator_": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@0xjayn3": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Jessicalevi13": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "3M": "29",
+        "7D": "53",
+        "30D": "26"
+      }
+    ],
+    "@Ebubechi_GMI": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@VIP8888883": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@thegaboeth": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@dee_nftarmy": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "3M": "63",
+        "7D": "49",
+        "30D": "60"
+      }
+    ],
+    "@degen_sensei18": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2"
+      }
+    ],
+    "@CryptoHindiO": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@diazhsbllh_": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Ethcoin3": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@ix_wilson": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2"
+      },
+      {
+        "project": "UNION",
+        "3M": "34",
+        "7D": "79",
+        "30D": "36"
+      }
+    ],
+    "@ssovoovo": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2"
+      }
+    ],
+    "@wajueji888": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2"
+      }
+    ],
+    "@venividi_trade": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2"
+      }
+    ],
+    "@The_Tradeguru": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@Yaki_fomoArt": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2"
+      }
+    ],
+    "@huysuthat": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@mbeNFT": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2"
+      }
+    ],
+    "@SaulWgmi": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2"
+      }
+    ],
+    "@C_POTENS": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@auz2or": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "3M": "97",
+        "30D": "95"
+      }
+    ],
+    "@GuarEmperor": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "3M": "80",
+        "7D": "54",
+        "30D": "75"
+      }
+    ],
+    "@0xJok9r": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@jonBeoGazua": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "7D": "tier2"
+      }
+    ],
+    "@baofuliu": [
+      {
+        "project": "ANOMA",
+        "3M": "tier2"
+      }
+    ],
+    "@adrianbrink": [
+      {
+        "project": "ANOMA",
+        "3M": "1",
+        "7D": "1",
+        "30D": "1"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@cwgoes": [
+      {
+        "project": "ANOMA",
+        "3M": "2",
+        "7D": "11",
+        "30D": "28"
+      }
+    ],
+    "@apriori0x": [
+      {
+        "project": "ANOMA",
+        "3M": "3",
+        "7D": "5",
+        "30D": "9"
+      }
+    ],
+    "@Cryptowushi": [
+      {
+        "project": "ANOMA",
+        "3M": "4",
+        "7D": "10",
+        "30D": "2"
+      }
+    ],
+    "@xingxingjun8888": [
+      {
+        "project": "ANOMA",
+        "3M": "5",
+        "7D": "7",
+        "30D": "3"
       },
       {
         "project": "Inner Circle"
@@ -66,15 +1049,41 @@
     ],
     "@0xbigm7": [
       {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@Hercules_Defi": [
+        "project": "ANOMA",
+        "3M": "6",
+        "7D": "8",
+        "30D": "7"
+      },
       {
         "project": "Anoma Secret Syndicate"
       }
     ],
-    "@momochenming": [
+    "@DAXIAGUA1": [
+      {
+        "project": "ANOMA",
+        "3M": "7",
+        "7D": "17",
+        "30D": "5"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@BuTongRen6": [
+      {
+        "project": "ANOMA",
+        "3M": "8",
+        "7D": "6",
+        "30D": "4"
+      }
+    ],
+    "@nftmufettisi": [
+      {
+        "project": "ANOMA",
+        "3M": "9",
+        "7D": "2",
+        "30D": "6"
+      },
       {
         "project": "Anoma Secret Syndicate"
       },
@@ -82,17 +1091,12 @@
         "project": "Inner Circle"
       }
     ],
-    "@oldman_cek": [
+    "@Louround_": [
       {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@Guomin184935": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@0xfs7": [
+        "project": "ANOMA",
+        "3M": "10",
+        "30D": "30"
+      },
       {
         "project": "Anoma Secret Syndicate"
       },
@@ -100,32 +1104,19 @@
         "project": "Inner Circle"
       }
     ],
-    "@zhuanfgghjnb": [
+    "@TimHaldorsson": [
       {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@twindoges": [
+        "project": "ANOMA",
+        "3M": "11",
+        "7D": "13",
+        "30D": "10"
+      },
       {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@bullish_bunt": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@Blockchainrese6": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@Supers6061": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@SkylineETH": [
+        "project": "UNION",
+        "3M": "8",
+        "7D": "12",
+        "30D": "10"
+      },
       {
         "project": "Anoma Secret Syndicate"
       },
@@ -135,46 +1126,108 @@
     ],
     "@Cyber_Warriorr": [
       {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@qmmmike": [
+        "project": "ANOMA",
+        "3M": "12",
+        "7D": "27",
+        "30D": "17"
+      },
       {
         "project": "Anoma Secret Syndicate"
       }
     ],
-    "@insonniac_ac": [
+    "@Supers6061": [
+      {
+        "project": "ANOMA",
+        "3M": "13",
+        "7D": "12",
+        "30D": "11"
+      },
       {
         "project": "Anoma Secret Syndicate"
       }
     ],
-    "@TimHaldorsson": [
+    "@wanghebbf": [
       {
-        "project": "Anoma Secret Syndicate"
+        "project": "ANOMA",
+        "3M": "14",
+        "7D": "3",
+        "30D": "8"
       },
       {
         "project": "Inner Circle"
       }
     ],
-    "@jazzckoff": [
+    "@metaio102": [
       {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@erequendiweb3": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@0xALTF4": [
-      {
-        "project": "Anoma Secret Syndicate"
-      },
-      {
-        "project": "Inner Circle"
+        "project": "ANOMA",
+        "3M": "15",
+        "7D": "29",
+        "30D": "19"
       }
     ],
     "@xerocooleth": [
+      {
+        "project": "ANOMA",
+        "3M": "16",
+        "7D": "33",
+        "30D": "23"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@beingRich2000": [
+      {
+        "project": "ANOMA",
+        "3M": "17",
+        "7D": "47",
+        "30D": "26"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@co_cobling": [
+      {
+        "project": "ANOMA",
+        "3M": "18",
+        "7D": "42",
+        "30D": "78"
+      },
+      {
+        "project": "UNION",
+        "3M": "40",
+        "7D": "23",
+        "30D": "31"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@cryppinfluence": [
+      {
+        "project": "ANOMA",
+        "3M": "19",
+        "7D": "20",
+        "30D": "13"
+      }
+    ],
+    "@DeRonin_": [
+      {
+        "project": "ANOMA",
+        "3M": "20",
+        "7D": "48",
+        "30D": "22"
+      },
       {
         "project": "Anoma Secret Syndicate"
       },
@@ -184,28 +1237,320 @@
     ],
     "@TUGE8888": [
       {
+        "project": "ANOMA",
+        "3M": "21",
+        "7D": "21",
+        "30D": "18"
+      },
+      {
         "project": "Anoma Secret Syndicate"
       },
       {
         "project": "Inner Circle"
       }
     ],
-    "@zenerbabax": [
+    "@wenxue600": [
+      {
+        "project": "ANOMA",
+        "3M": "22",
+        "7D": "4",
+        "30D": "12"
+      }
+    ],
+    "@banditxbt": [
+      {
+        "project": "ANOMA",
+        "3M": "23",
+        "7D": "85",
+        "30D": "21"
+      },
+      {
+        "project": "UNION",
+        "3M": "10",
+        "30D": "5"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@Guomin184935": [
+      {
+        "project": "ANOMA",
+        "3M": "24",
+        "7D": "30",
+        "30D": "33"
+      },
       {
         "project": "Anoma Secret Syndicate"
       }
     ],
-    "@PenguinWeb3": [
+    "@SkylineETH": [
+      {
+        "project": "ANOMA",
+        "3M": "25",
+        "30D": "35"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@zhuanfgghjnb": [
+      {
+        "project": "ANOMA",
+        "3M": "26",
+        "7D": "34",
+        "30D": "36"
+      },
       {
         "project": "Anoma Secret Syndicate"
       }
     ],
-    "@BuzzMalx": [
+    "@colu_farmer": [
+      {
+        "project": "ANOMA",
+        "3M": "27",
+        "7D": "73"
+      },
+      {
+        "project": "UNION",
+        "3M": "77",
+        "7D": "40",
+        "30D": "67"
+      },
       {
         "project": "Anoma Secret Syndicate"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@one_snowball": [
+      {
+        "project": "ANOMA",
+        "3M": "28",
+        "7D": "14",
+        "30D": "14"
+      }
+    ],
+    "@y_cryptoanalyst": [
+      {
+        "project": "ANOMA",
+        "3M": "29",
+        "30D": "16"
+      },
+      {
+        "project": "UNION",
+        "3M": "49",
+        "7D": "32",
+        "30D": "54"
+      }
+    ],
+    "@0xxNathan": [
+      {
+        "project": "ANOMA",
+        "3M": "30",
+        "7D": "23",
+        "30D": "15"
+      },
+      {
+        "project": "UNION",
+        "3M": "35",
+        "7D": "10",
+        "30D": "27"
+      }
+    ],
+    "@insomniac_ac": [
+      {
+        "project": "ANOMA",
+        "3M": "31",
+        "7D": "86",
+        "30D": "24"
+      },
+      {
+        "project": "UNION",
+        "3M": "82",
+        "30D": "76"
+      }
+    ],
+    "@Hercules_Defi": [
+      {
+        "project": "ANOMA",
+        "3M": "32"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@momochenming": [
+      {
+        "project": "ANOMA",
+        "3M": "33",
+        "7D": "31",
+        "30D": "53"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@Ten1sion": [
+      {
+        "project": "ANOMA",
+        "3M": "34",
+        "7D": "16",
+        "30D": "20"
+      }
+    ],
+    "@splinter0n": [
+      {
+        "project": "ANOMA",
+        "3M": "35",
+        "7D": "22",
+        "30D": "44"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@0xdogacan": [
+      {
+        "project": "ANOMA",
+        "3M": "36",
+        "7D": "62",
+        "30D": "42"
+      }
+    ],
+    "@zerokn0wledge_": [
+      {
+        "project": "ANOMA",
+        "3M": "37",
+        "7D": "97",
+        "30D": "47"
+      },
+      {
+        "project": "UNION",
+        "3M": "16",
+        "30D": "38"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@TheDeFISaint": [
+      {
+        "project": "ANOMA",
+        "3M": "38",
+        "7D": "53",
+        "30D": "39"
+      },
+      {
+        "project": "UNION",
+        "3M": "14",
+        "7D": "8",
+        "30D": "13"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@ZF_lab": [
+      {
+        "project": "ANOMA",
+        "3M": "39",
+        "7D": "50",
+        "30D": "27"
+      }
+    ],
+    "@0xKevin00": [
+      {
+        "project": "ANOMA",
+        "3M": "40",
+        "7D": "44",
+        "30D": "25"
+      }
+    ],
+    "@Web3Niels": [
+      {
+        "project": "ANOMA",
+        "3M": "41",
+        "7D": "9",
+        "30D": "29"
+      }
+    ],
+    "@awasunyin": [
+      {
+        "project": "ANOMA",
+        "3M": "42",
+        "30D": "58"
+      }
+    ],
+    "@katexbt": [
+      {
+        "project": "ANOMA",
+        "3M": "43",
+        "7D": "68",
+        "30D": "65"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@vvickym2": [
+      {
+        "project": "ANOMA",
+        "3M": "44",
+        "7D": "52",
+        "30D": "51"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@tobific": [
+      {
+        "project": "ANOMA",
+        "3M": "45",
+        "7D": "26",
+        "30D": "31"
+      }
+    ],
+    "@IdMintThat": [
+      {
+        "project": "ANOMA",
+        "3M": "46",
+        "7D": "36",
+        "30D": "32"
+      },
+      {
+        "project": "Inner Circle"
       }
     ],
     "@ripchillpill": [
+      {
+        "project": "ANOMA",
+        "3M": "47",
+        "30D": "61"
+      },
+      {
+        "project": "UNION",
+        "3M": "26",
+        "7D": "36",
+        "30D": "20"
+      },
       {
         "project": "Anoma Secret Syndicate"
       },
@@ -215,18 +1560,9 @@
     ],
     "@eli5_defi": [
       {
-        "project": "Anoma Secret Syndicate"
+        "project": "ANOMA",
+        "3M": "48"
       },
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@pipsandbills": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@nftmufettisi": [
       {
         "project": "Anoma Secret Syndicate"
       },
@@ -234,7 +1570,317 @@
         "project": "Inner Circle"
       }
     ],
-    "@langeriuseth": [
+    "@jgonzalezferrer": [
+      {
+        "project": "ANOMA",
+        "3M": "49",
+        "7D": "43",
+        "30D": "54"
+      },
+      {
+        "project": "UNION",
+        "3M": "84",
+        "30D": "82"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@BitmanTW": [
+      {
+        "project": "ANOMA",
+        "3M": "50",
+        "7D": "61",
+        "30D": "63"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@Crypto_He": [
+      {
+        "project": "ANOMA",
+        "3M": "51",
+        "7D": "35",
+        "30D": "34"
+      },
+      {
+        "project": "UNION",
+        "3M": "43",
+        "30D": "65"
+      }
+    ],
+    "@bongbongcrypto": [
+      {
+        "project": "ANOMA",
+        "3M": "52",
+        "7D": "25",
+        "30D": "48"
+      },
+      {
+        "project": "UNION",
+        "3M": "57",
+        "7D": "51",
+        "30D": "46"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@Seymirel": [
+      {
+        "project": "ANOMA",
+        "3M": "53",
+        "30D": "70"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@btcohmann": [
+      {
+        "project": "ANOMA",
+        "3M": "54",
+        "7D": "64",
+        "30D": "52"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@EvaCmore": [
+      {
+        "project": "ANOMA",
+        "3M": "55",
+        "7D": "19",
+        "30D": "37"
+      }
+    ],
+    "@0xfs7": [
+      {
+        "project": "ANOMA",
+        "3M": "56"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@chimpfone2047": [
+      {
+        "project": "ANOMA",
+        "3M": "57",
+        "30D": "83"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@mztacat": [
+      {
+        "project": "ANOMA",
+        "3M": "58",
+        "30D": "43"
+      }
+    ],
+    "@syk233": [
+      {
+        "project": "ANOMA",
+        "3M": "59",
+        "7D": "56",
+        "30D": "38"
+      }
+    ],
+    "@what3verman": [
+      {
+        "project": "ANOMA",
+        "3M": "60",
+        "30D": "89"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@Jackhaldorsson": [
+      {
+        "project": "ANOMA",
+        "3M": "61",
+        "7D": "89",
+        "30D": "64"
+      },
+      {
+        "project": "UNION",
+        "3M": "38",
+        "7D": "13",
+        "30D": "33"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@WinterSoldierxz": [
+      {
+        "project": "ANOMA",
+        "3M": "62",
+        "7D": "15",
+        "30D": "40"
+      },
+      {
+        "project": "UNION",
+        "3M": "76",
+        "7D": "39",
+        "30D": "66"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@gomtu_xyz": [
+      {
+        "project": "ANOMA",
+        "3M": "63",
+        "30D": "91"
+      },
+      {
+        "project": "UNION",
+        "3M": "12",
+        "7D": "5",
+        "30D": "6"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@WY_mask": [
+      {
+        "project": "ANOMA",
+        "3M": "64",
+        "7D": "39",
+        "30D": "41"
+      }
+    ],
+    "@HM010169": [
+      {
+        "project": "ANOMA",
+        "3M": "65",
+        "30D": "80"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@amit0xic": [
+      {
+        "project": "ANOMA",
+        "3M": "66",
+        "7D": "32",
+        "30D": "62"
+      },
+      {
+        "project": "UNION",
+        "3M": "37",
+        "7D": "24",
+        "30D": "30"
+      }
+    ],
+    "@Baili1018": [
+      {
+        "project": "ANOMA",
+        "3M": "67",
+        "7D": "41",
+        "30D": "49"
+      }
+    ],
+    "@Nazarick_eth": [
+      {
+        "project": "ANOMA",
+        "3M": "68",
+        "7D": "18",
+        "30D": "45"
+      }
+    ],
+    "@twindoges": [
+      {
+        "project": "ANOMA",
+        "3M": "69"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@museowunsaram": [
+      {
+        "project": "ANOMA",
+        "3M": "70",
+        "7D": "78",
+        "30D": "75"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@RiddlerNFT": [
+      {
+        "project": "ANOMA",
+        "3M": "71",
+        "7D": "40",
+        "30D": "50"
+      },
+      {
+        "project": "UNION",
+        "3M": "62",
+        "7D": "33",
+        "30D": "56"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@MEJ50749": [
+      {
+        "project": "ANOMA",
+        "3M": "72",
+        "7D": "65",
+        "30D": "46"
+      }
+    ],
+    "@KriptoLisa": [
+      {
+        "project": "ANOMA",
+        "3M": "73",
+        "7D": "63",
+        "30D": "96"
+      },
+      {
+        "project": "UNION",
+        "3M": "78",
+        "7D": "60",
+        "30D": "73"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@0xastronomica": [
+      {
+        "project": "ANOMA",
+        "3M": "74",
+        "7D": "76"
+      },
       {
         "project": "Anoma Secret Syndicate"
       },
@@ -244,23 +1890,10 @@
     ],
     "@r2Jamong": [
       {
-        "project": "Anoma Secret Syndicate"
+        "project": "ANOMA",
+        "3M": "75",
+        "30D": "82"
       },
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@DavyCryptoJones": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@Seymirel": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@0xastronomica": [
       {
         "project": "Anoma Secret Syndicate"
       },
@@ -268,30 +1901,68 @@
         "project": "Inner Circle"
       }
     ],
-    "@gn_zebraleyuan": [
+    "@0xFastLife": [
       {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@alacheng": [
+        "project": "ANOMA",
+        "3M": "76"
+      },
       {
-        "project": "Anoma Secret Syndicate"
+        "project": "UNION",
+        "3M": "33",
+        "7D": "22",
+        "30D": "25"
       },
       {
         "project": "Inner Circle"
       }
     ],
-    "@gomtu_xyz": [
+    "@DL_W59": [
       {
-        "project": "Anoma Secret Syndicate"
+        "project": "ANOMA",
+        "3M": "77",
+        "7D": "59",
+        "30D": "76"
+      }
+    ],
+    "@jundeu00": [
+      {
+        "project": "ANOMA",
+        "3M": "78",
+        "7D": "38",
+        "30D": "68"
+      },
+      {
+        "project": "UNION",
+        "3M": "32",
+        "7D": "29",
+        "30D": "24"
       }
     ],
     "@maxpsyop": [
       {
+        "project": "ANOMA",
+        "3M": "79"
+      },
+      {
         "project": "Anoma Secret Syndicate"
       }
     ],
-    "@splinter0n": [
+    "@IPALAU1": [
+      {
+        "project": "ANOMA",
+        "3M": "80"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@charles48011843": [
+      {
+        "project": "ANOMA",
+        "3M": "81",
+        "7D": "51",
+        "30D": "77"
+      },
       {
         "project": "Anoma Secret Syndicate"
       },
@@ -299,12 +1970,2002 @@
         "project": "Inner Circle"
       }
     ],
-    "@biscuitweb3": [
+    "@73lV_": [
+      {
+        "project": "ANOMA",
+        "3M": "82",
+        "7D": "55",
+        "30D": "57"
+      },
+      {
+        "project": "UNION",
+        "3M": "1",
+        "7D": "1",
+        "30D": "1"
+      }
+    ],
+    "@0xNathanWalk": [
+      {
+        "project": "ANOMA",
+        "3M": "83",
+        "7D": "49",
+        "30D": "59"
+      }
+    ],
+    "@medo_NFP": [
+      {
+        "project": "ANOMA",
+        "3M": "84",
+        "7D": "66"
+      },
+      {
+        "project": "UNION",
+        "3M": "41",
+        "7D": "21",
+        "30D": "35"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@qklxsqf": [
+      {
+        "project": "ANOMA",
+        "3M": "85"
+      }
+    ],
+    "@wyckoffweb": [
+      {
+        "project": "ANOMA",
+        "3M": "86",
+        "7D": "67",
+        "30D": "56"
+      },
+      {
+        "project": "UNION",
+        "3M": "15",
+        "7D": "18",
+        "30D": "9"
+      }
+    ],
+    "@0xdahua": [
+      {
+        "project": "ANOMA",
+        "3M": "87",
+        "30D": "55"
+      }
+    ],
+    "@youfadedwealth": [
+      {
+        "project": "ANOMA",
+        "3M": "88",
+        "7D": "80",
+        "30D": "95"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@VideHaldorsson": [
+      {
+        "project": "ANOMA",
+        "3M": "89",
+        "7D": "75",
+        "30D": "73"
+      },
+      {
+        "project": "UNION",
+        "3M": "47",
+        "7D": "50",
+        "30D": "42"
+      }
+    ],
+    "@xiaoyubtc": [
+      {
+        "project": "ANOMA",
+        "3M": "90",
+        "7D": "82",
+        "30D": "60"
+      }
+    ],
+    "@0xlowadka": [
+      {
+        "project": "ANOMA",
+        "3M": "91"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@Baisircrypto": [
+      {
+        "project": "ANOMA",
+        "3M": "92",
+        "30D": "79"
+      }
+    ],
+    "@zohanlin": [
+      {
+        "project": "ANOMA",
+        "3M": "93",
+        "7D": "24",
+        "30D": "66"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@yihan0202": [
+      {
+        "project": "ANOMA",
+        "3M": "94",
+        "7D": "100",
+        "30D": "69"
+      }
+    ],
+    "@CryptoAI_Guy": [
+      {
+        "project": "ANOMA",
+        "3M": "95",
+        "7D": "28",
+        "30D": "67"
+      }
+    ],
+    "@baeko_02": [
+      {
+        "project": "ANOMA",
+        "3M": "96"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@MookieNFT": [
+      {
+        "project": "ANOMA",
+        "3M": "97",
+        "7D": "93",
+        "30D": "92"
+      }
+    ],
+    "@MOODOO_Diary": [
+      {
+        "project": "ANOMA",
+        "3M": "98"
+      },
+      {
+        "project": "UNION",
+        "3M": "69",
+        "7D": "45",
+        "30D": "61"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@YashasEdu": [
+      {
+        "project": "ANOMA",
+        "3M": "99",
+        "7D": "60"
+      }
+    ],
+    "@sikiri0": [
+      {
+        "project": "ANOMA",
+        "3M": "100"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@love_doge123": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@inhuau": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      }
+    ],
+    "@0x_MrFive": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      }
+    ],
+    "@DigiTektrades": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "3M": "18",
+        "7D": "7",
+        "30D": "15"
+      }
+    ],
+    "@TweetByWale": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@flyiiawei": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Elminselimov5": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      }
+    ],
+    "@TheKimjim": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@liaoblove520": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Junoweb_3": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@sontanidonghei": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Crypto_Pranjal": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      }
+    ],
+    "@0xHvdes": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      }
+    ],
+    "@leaf_swan": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "3M": "27",
+        "7D": "34",
+        "30D": "23"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@cope_xbt": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@VisionaryLorien": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@yi_juanmao": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      }
+    ],
+    "@koolcryptovc": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "3M": "73",
+        "7D": "57",
+        "30D": "64"
+      }
+    ],
+    "@Va77ss": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      }
+    ],
+    "@GpaAndy": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      }
+    ],
+    "@SiNaToDdFelix": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      }
+    ],
+    "@Defi_Scribbler": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@0xCabana": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      }
+    ],
+    "@Okpara081": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      }
+    ],
+    "@Yiyixmb": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      }
+    ],
+    "@0xStudy": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      }
+    ],
+    "@OxMula": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      }
+    ],
+    "@katsveth": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      }
+    ],
+    "@pawnie_": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      }
+    ],
+    "@ccjing_eth": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      }
+    ],
+    "@ThePaulOla": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "7D": "tier2"
+      }
+    ],
+    "@zaijin338191": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      }
+    ],
+    "@0xAladdinPrince": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      }
+    ],
+    "@hualunjiejie": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      }
+    ],
+    "@Syu990": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      }
+    ],
+    "@jeansonlau": [
+      {
+        "project": "ANOMA",
+        "7D": "tier2"
+      }
+    ],
+    "@0xVanxyrus": [
+      {
+        "project": "ANOMA",
+        "7D": "37",
+        "30D": "74"
+      }
+    ],
+    "@crypthoem": [
+      {
+        "project": "ANOMA",
+        "7D": "45",
+        "30D": "81"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@0xdavinci_": [
+      {
+        "project": "ANOMA",
+        "7D": "46",
+        "30D": "72"
+      }
+    ],
+    "@brave_raf": [
+      {
+        "project": "ANOMA",
+        "7D": "54",
+        "30D": "84"
+      },
+      {
+        "project": "UNION",
+        "3M": "23",
+        "7D": "37",
+        "30D": "37"
+      }
+    ],
+    "@TheBullishTradR": [
+      {
+        "project": "ANOMA",
+        "7D": "57",
+        "30D": "71"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@hackapreneur": [
+      {
+        "project": "ANOMA",
+        "7D": "58"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@munchPRMR": [
+      {
+        "project": "ANOMA",
+        "7D": "69"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@evgen_by": [
+      {
+        "project": "ANOMA",
+        "7D": "70",
+        "30D": "93"
+      },
+      {
+        "project": "UNION",
+        "3M": "67",
+        "7D": "71",
+        "30D": "57"
+      }
+    ],
+    "@flb_xyz": [
+      {
+        "project": "ANOMA",
+        "7D": "71"
+      }
+    ],
+    "@tm_uchal": [
+      {
+        "project": "ANOMA",
+        "7D": "72"
+      },
+      {
+        "project": "UNION",
+        "3M": "52",
+        "7D": "28",
+        "30D": "44"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@wang_xiaolou": [
+      {
+        "project": "ANOMA",
+        "7D": "74"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@easyforshopping": [
+      {
+        "project": "ANOMA",
+        "7D": "77"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@zkgoudan": [
+      {
+        "project": "ANOMA",
+        "7D": "79"
+      }
+    ],
+    "@jayplayco": [
+      {
+        "project": "ANOMA",
+        "7D": "81",
+        "30D": "87"
+      },
+      {
+        "project": "UNION",
+        "3M": "39",
+        "7D": "11",
+        "30D": "32"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@farmercist_eth": [
+      {
+        "project": "ANOMA",
+        "7D": "83",
+        "30D": "88"
+      },
+      {
+        "project": "UNION",
+        "3M": "45",
+        "30D": "92"
+      }
+    ],
+    "@shannholmberg": [
+      {
+        "project": "ANOMA",
+        "7D": "84",
+        "30D": "97"
+      },
+      {
+        "project": "UNION",
+        "3M": "59",
+        "7D": "41",
+        "30D": "48"
+      }
+    ],
+    "@ni_celeb": [
+      {
+        "project": "ANOMA",
+        "7D": "87"
+      }
+    ],
+    "@Hope_web3_": [
+      {
+        "project": "ANOMA",
+        "7D": "88"
+      }
+    ],
+    "@itskkoma": [
+      {
+        "project": "ANOMA",
+        "7D": "90",
+        "30D": "94"
+      }
+    ],
+    "@HodlethKR": [
+      {
+        "project": "ANOMA",
+        "7D": "91"
+      },
+      {
+        "project": "UNION",
+        "3M": "87",
+        "7D": "66",
+        "30D": "79"
+      }
+    ],
+    "@0xzhaozhao": [
+      {
+        "project": "ANOMA",
+        "7D": "92"
+      }
+    ],
+    "@3liXBT": [
+      {
+        "project": "ANOMA",
+        "7D": "94"
+      },
+      {
+        "project": "UNION",
+        "3M": "66",
+        "7D": "48",
+        "30D": "55"
+      }
+    ],
+    "@NFTMILK": [
+      {
+        "project": "ANOMA",
+        "7D": "95"
+      }
+    ],
+    "@OnyshchukInvest": [
+      {
+        "project": "ANOMA",
+        "7D": "96"
+      }
+    ],
+    "@yawaradoteth": [
+      {
+        "project": "ANOMA",
+        "7D": "98",
+        "30D": "86"
+      }
+    ],
+    "@Slappjakke": [
+      {
+        "project": "ANOMA",
+        "7D": "99"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@rob_inwoods": [
+      {
+        "project": "ANOMA",
+        "30D": "85"
+      },
+      {
+        "project": "UNION",
+        "3M": "4",
+        "7D": "17",
+        "30D": "8"
+      }
+    ],
+    "@r_rainss": [
+      {
+        "project": "ANOMA",
+        "30D": "90"
+      },
+      {
+        "project": "UNION",
+        "3M": "58",
+        "7D": "56",
+        "30D": "47"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@R2D2zen": [
+      {
+        "project": "ANOMA",
+        "30D": "98"
+      }
+    ],
+    "@ShinKiro14": [
+      {
+        "project": "ANOMA",
+        "30D": "99"
+      }
+    ],
+    "@Greta0086": [
+      {
+        "project": "ANOMA",
+        "30D": "100"
+      }
+    ],
+    "@goodboi_global": [
+      {
+        "project": "ANOMA",
+        "30D": "tier2"
+      },
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@SheTalksCrypto": [
+      {
+        "project": "ANOMA",
+        "30D": "tier2"
+      }
+    ],
+    "@kaitodelima": [
+      {
+        "project": "ANOMA",
+        "30D": "tier2"
+      }
+    ],
+    "@SheikhSilicon": [
+      {
+        "project": "ANOMA",
+        "30D": "tier2"
+      }
+    ],
+    "@TheEwansEffect": [
+      {
+        "project": "ANOMA",
+        "30D": "tier2"
+      }
+    ],
+    "@Li888Real": [
+      {
+        "project": "ANOMA",
+        "30D": "tier2"
+      }
+    ],
+    "@offshoda": [
+      {
+        "project": "ANOMA",
+        "30D": "tier2"
+      }
+    ],
+    "@keys0321": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@kris_bee0": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@ufukless1": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@winner_asd": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Shinosuka_eth": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Bellickkruz": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Darkweb3yagami": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Jha_ynne": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@LIMITLESSDAMI": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Cryptosamarai": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Not_Boredd": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@defi_explora": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@WokochaDorcas": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@iamsmartZY": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@pls_giveup": [
+      {
+        "project": "UNION",
+        "3M": "tier2"
+      }
+    ],
+    "@bigray0x": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@deft_gfx": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Moyhin_": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@__Emmide": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@berrycrypt": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@zenerbabax": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2"
+      },
       {
         "project": "Anoma Secret Syndicate"
       }
     ],
-    "@what3verman": [
+    "@sam6170": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Jvstheman": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@0xfortizo": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Sireadell": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@custommade_ng": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Onoja_Cee": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@iamoldorange": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Xaheer0": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@minstrell_": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@ohadbachner": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Nifaribs": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@smolgeeek": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@De_sure_": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@HeinrichDefi": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@LordRangkesetan": [
+      {
+        "project": "UNION",
+        "3M": "tier2"
+      }
+    ],
+    "@Gyokeres_eth": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@core_block": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@xzmugi": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@thyBEAST20": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@kingarthurrweb3": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@kinnahjoshua": [
+      {
+        "project": "UNION",
+        "3M": "tier2"
+      }
+    ],
+    "@iK0rede": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@NalyMetaX": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@theProcessXCII": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Crypt0_PK": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@maziibe_": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@khudatzada": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@0x_Skies": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2"
+      }
+    ],
+    "@TelixGoldens": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@0xfemoralnelson": [
+      {
+        "project": "UNION",
+        "3M": "tier2"
+      }
+    ],
+    "@Crypto4bailout": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@minato_zee": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@AsankaKasum": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@CryptoLycus": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@smartcoded2011": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2"
+      }
+    ],
+    "@dondamii": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@gemspecialist01": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Ritmir11": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@0xCSauron": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@Yacine_mnrd": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@CosmicPleb": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Web3Andy01": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@nikihandsome7": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@LisaFlorentina8": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Only1Pope": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Naeven_": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Donovan_deK": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@lohith0001": [
+      {
+        "project": "UNION",
+        "3M": "tier2"
+      }
+    ],
+    "@0xlota": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@0xGUNx": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@steelorian": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@ferdie_jhovie": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@DekIsiego": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@libra_Saloni22": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@jiao_newlife": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@bigjohnsnfts": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@COmang___": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@DRPC777": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@HumzyTrades": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@jerrie_08": [
+      {
+        "project": "UNION",
+        "3M": "tier2"
+      }
+    ],
+    "@Breaking_Gud_": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Mlilvic": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@TheOneHalios": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Aayyan120": [
+      {
+        "project": "UNION",
+        "3M": "tier2"
+      }
+    ],
+    "@HallenjayArt": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Ovar_lordcrypto": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@mayaadere": [
+      {
+        "project": "UNION",
+        "3M": "tier2"
+      }
+    ],
+    "@Rahul_2503": [
+      {
+        "project": "UNION",
+        "3M": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@desolah_": [
+      {
+        "project": "UNION",
+        "3M": "tier2"
+      }
+    ],
+    "@SZENEMENE_": [
+      {
+        "project": "UNION",
+        "3M": "tier2"
+      }
+    ],
+    "@Abrahamchase09": [
+      {
+        "project": "UNION",
+        "3M": "2",
+        "7D": "3",
+        "30D": "2"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@LoveneeshDhir": [
+      {
+        "project": "UNION",
+        "3M": "3",
+        "30D": "21"
+      }
+    ],
+    "@AnonVee_": [
+      {
+        "project": "UNION",
+        "3M": "5",
+        "7D": "2",
+        "30D": "4"
+      }
+    ],
+    "@NDIDI_GRAM": [
+      {
+        "project": "UNION",
+        "3M": "6",
+        "7D": "4",
+        "30D": "3"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@e_beriker": [
+      {
+        "project": "UNION",
+        "3M": "7",
+        "30D": "34"
+      }
+    ],
+    "@CarbzXBT": [
+      {
+        "project": "UNION",
+        "3M": "9",
+        "7D": "16",
+        "30D": "7"
+      }
+    ],
+    "@OxTochi": [
+      {
+        "project": "UNION",
+        "3M": "11",
+        "7D": "27",
+        "30D": "12"
+      }
+    ],
+    "@1CryptoMama": [
+      {
+        "project": "UNION",
+        "3M": "13",
+        "7D": "19",
+        "30D": "11"
+      }
+    ],
+    "@InfoSpace_OG": [
+      {
+        "project": "UNION",
+        "3M": "17",
+        "7D": "6",
+        "30D": "14"
+      }
+    ],
+    "@Smartecio": [
+      {
+        "project": "UNION",
+        "3M": "19",
+        "7D": "14",
+        "30D": "16"
+      }
+    ],
+    "@AInvestor_11": [
+      {
+        "project": "UNION",
+        "3M": "24",
+        "7D": "46",
+        "30D": "40"
+      }
+    ],
+    "@islakwcterlii": [
+      {
+        "project": "UNION",
+        "3M": "25",
+        "7D": "25",
+        "30D": "19"
+      }
+    ],
+    "@TheDeFiKenshin": [
+      {
+        "project": "UNION",
+        "3M": "28",
+        "7D": "15",
+        "30D": "22"
+      }
+    ],
+    "@NiphermeDave": [
+      {
+        "project": "UNION",
+        "3M": "30",
+        "30D": "45"
+      }
+    ],
+    "@_Jamisky": [
+      {
+        "project": "UNION",
+        "3M": "31",
+        "7D": "64",
+        "30D": "71"
+      }
+    ],
+    "@SylvesterSolid": [
+      {
+        "project": "UNION",
+        "3M": "42",
+        "30D": "59"
+      }
+    ],
+    "@DavyCryptoJones": [
+      {
+        "project": "UNION",
+        "3M": "44",
+        "7D": "59",
+        "30D": "68"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@TweetByGerald": [
+      {
+        "project": "UNION",
+        "3M": "46",
+        "7D": "35",
+        "30D": "39"
+      }
+    ],
+    "@shadowmakerxyz": [
+      {
+        "project": "UNION",
+        "3M": "48",
+        "7D": "31",
+        "30D": "41"
+      }
+    ],
+    "@0xSalazar": [
+      {
+        "project": "UNION",
+        "3M": "50",
+        "7D": "26",
+        "30D": "43"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@0xRiim": [
+      {
+        "project": "UNION",
+        "3M": "51",
+        "7D": "43",
+        "30D": "49"
+      }
+    ],
+    "@tonyler_": [
+      {
+        "project": "UNION",
+        "3M": "53",
+        "7D": "58",
+        "30D": "69"
+      }
+    ],
+    "@heycape_": [
+      {
+        "project": "UNION",
+        "3M": "55"
+      }
+    ],
+    "@HexNom": [
+      {
+        "project": "UNION",
+        "3M": "56"
+      }
+    ],
+    "@zordcrypt": [
+      {
+        "project": "UNION",
+        "3M": "60",
+        "7D": "42",
+        "30D": "50"
+      }
+    ],
+    "@swgee_writes": [
+      {
+        "project": "UNION",
+        "3M": "65",
+        "7D": "75",
+        "30D": "84"
+      }
+    ],
+    "@RealmissNFT": [
+      {
+        "project": "UNION",
+        "3M": "68",
+        "7D": "47",
+        "30D": "58"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@martinezzart": [
+      {
+        "project": "UNION",
+        "3M": "71",
+        "7D": "67",
+        "30D": "87"
+      }
+    ],
+    "@ausbro80": [
+      {
+        "project": "UNION",
+        "3M": "72",
+        "7D": "68",
+        "30D": "63"
+      }
+    ],
+    "@pgreyy": [
+      {
+        "project": "UNION",
+        "3M": "74",
+        "30D": "70"
+      }
+    ],
+    "@0xM0RA": [
+      {
+        "project": "UNION",
+        "3M": "75",
+        "7D": "52",
+        "30D": "72"
+      }
+    ],
+    "@keenn_eth": [
+      {
+        "project": "UNION",
+        "3M": "81",
+        "7D": "63",
+        "30D": "77"
+      }
+    ],
+    "@Delztheplug": [
+      {
+        "project": "UNION",
+        "3M": "83",
+        "7D": "76",
+        "30D": "93"
+      }
+    ],
+    "@CryptoUsopp": [
+      {
+        "project": "UNION",
+        "3M": "85",
+        "7D": "72",
+        "30D": "85"
+      }
+    ],
+    "@TheCryptoProfes": [
+      {
+        "project": "UNION",
+        "3M": "86",
+        "7D": "73",
+        "30D": "78"
+      }
+    ],
+    "@MJk9656": [
+      {
+        "project": "UNION",
+        "3M": "89",
+        "7D": "77",
+        "30D": "80"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@GreatZodd": [
+      {
+        "project": "UNION",
+        "3M": "90",
+        "7D": "62",
+        "30D": "83"
+      }
+    ],
+    "@0xRetardio": [
+      {
+        "project": "UNION",
+        "3M": "91",
+        "7D": "81",
+        "30D": "86"
+      }
+    ],
+    "@wspugh01": [
+      {
+        "project": "UNION",
+        "3M": "92",
+        "7D": "70",
+        "30D": "88"
+      }
+    ],
+    "@EJseong95": [
+      {
+        "project": "UNION",
+        "3M": "93",
+        "7D": "74",
+        "30D": "89"
+      }
+    ],
+    "@oranj0x": [
+      {
+        "project": "UNION",
+        "3M": "94",
+        "7D": "80",
+        "30D": "90"
+      }
+    ],
+    "@Krystal_Eth": [
+      {
+        "project": "UNION",
+        "3M": "95",
+        "7D": "69",
+        "30D": "91"
+      }
+    ],
+    "@kaisun55704098": [
+      {
+        "project": "UNION",
+        "3M": "96",
+        "7D": "82",
+        "30D": "94"
+      }
+    ],
+    "@defi_blackjoker": [
+      {
+        "project": "UNION",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Zevweb3": [
+      {
+        "project": "UNION",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@0xmelisaa": [
+      {
+        "project": "UNION",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@hankypymZero": [
+      {
+        "project": "UNION",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@seuncoded": [
+      {
+        "project": "UNION",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@NasirumarIsmai1": [
+      {
+        "project": "UNION",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@sunominq": [
+      {
+        "project": "UNION",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Adellbah": [
+      {
+        "project": "UNION",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@alherii69": [
+      {
+        "project": "UNION",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@AirdropFinder55": [
+      {
+        "project": "UNION",
+        "7D": "tier2"
+      }
+    ],
+    "@valxxntino": [
+      {
+        "project": "UNION",
+        "7D": "tier2"
+      }
+    ],
+    "@humanbotcrypto": [
+      {
+        "project": "UNION",
+        "7D": "tier2"
+      }
+    ],
+    "@0xEM3KA": [
+      {
+        "project": "UNION",
+        "7D": "tier2"
+      }
+    ],
+    "@Sleek_yy": [
+      {
+        "project": "UNION",
+        "7D": "tier2"
+      }
+    ],
+    "@bilalnst": [
+      {
+        "project": "UNION",
+        "7D": "tier2"
+      }
+    ],
+    "@KSW_crypto": [
+      {
+        "project": "UNION",
+        "30D": "tier2"
+      }
+    ],
+    "@GoodnessDeFi": [
+      {
+        "project": "UNION",
+        "30D": "tier2"
+      }
+    ],
+    "@2_bp19": [
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@insonniac_ac": [
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@jazzckoff": [
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@BuzzMalx": [
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@pipsandbills": [
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@langeriuseth": [
       {
         "project": "Anoma Secret Syndicate"
       },
@@ -317,27 +3978,9 @@
         "project": "Anoma Secret Syndicate"
       }
     ],
-    "@holly_web3": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@rtk17025": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
     "@A1111bab": [
       {
         "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@OrtegasCrypto": [
-      {
-        "project": "Anoma Secret Syndicate"
-      },
-      {
-        "project": "Inner Circle"
       }
     ],
     "@Traderibo123": [
@@ -370,21 +4013,6 @@
         "project": "Anoma Secret Syndicate"
       }
     ],
-    "@btcohmann": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@MJk9656": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@bingo_eth": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
     "@FerreWeb3": [
       {
         "project": "Anoma Secret Syndicate"
@@ -400,87 +4028,12 @@
         "project": "Anoma Secret Syndicate"
       }
     ],
-    "@0xCSauron": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@jmhuolongguo": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@Faycytw": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
     "@MtroX207": [
       {
         "project": "Anoma Secret Syndicate"
       }
     ],
-    "@Jizhengguang": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@museowunsaram": [
-      {
-        "project": "Anoma Secret Syndicate"
-      },
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@hunkarbeyiniz": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@IPALAU1": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@TheDeFISaint": [
-      {
-        "project": "Anoma Secret Syndicate"
-      },
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@medo_NFP": [
-      {
-        "project": "Anoma Secret Syndicate"
-      },
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@HM010169": [
-      {
-        "project": "Anoma Secret Syndicate"
-      },
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@ppougod": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@jgonzalezferrer": [
-      {
-        "project": "Anoma Secret Syndicate"
-      },
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@FeratMDS": [
       {
         "project": "Anoma Secret Syndicate"
       }
@@ -495,25 +4048,7 @@
         "project": "Anoma Secret Syndicate"
       }
     ],
-    "@rapperr111": [
-      {
-        "project": "Anoma Secret Syndicate"
-      },
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@tgd_duu": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
     "@ken_w3b3": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@allen_mojekwu": [
       {
         "project": "Anoma Secret Syndicate"
       }
@@ -523,63 +4058,12 @@
         "project": "Anoma Secret Syndicate"
       }
     ],
-    "@_Kriptopia": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@bongbongcrypto": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@sikiri0": [
-      {
-        "project": "Anoma Secret Syndicate"
-      },
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@The_Tradeguru": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@ank129048": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@liuxiaoling933": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
     "@BeyonderTR": [
       {
         "project": "Anoma Secret Syndicate"
       }
     ],
-    "@Jackhaldorsson": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@charles48011843": [
-      {
-        "project": "Anoma Secret Syndicate"
-      },
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@heiwushiJ": [
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@HottieBabeGem": [
       {
         "project": "Anoma Secret Syndicate"
       }
@@ -589,25 +4073,12 @@
         "project": "Anoma Secret Syndicate"
       }
     ],
-    "@vvickym2": [
-      {
-        "project": "Anoma Secret Syndicate"
-      },
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@Doo_pee": [
       {
         "project": "Anoma Secret Syndicate"
       }
     ],
     "@yeonwoohoIic": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@tm_uchal": [
       {
         "project": "Inner Circle"
       }
@@ -627,11 +4098,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@jayplayco": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@MagicSquareio": [
       {
         "project": "Inner Circle"
@@ -642,22 +4108,12 @@
         "project": "Inner Circle"
       }
     ],
-    "@steelorian": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@cherrycoco_6468": [
       {
         "project": "Inner Circle"
       }
     ],
     "@bug4what": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@MOODOO_Diary": [
       {
         "project": "Inner Circle"
       }
@@ -748,11 +4204,6 @@
       }
     ],
     "@_sonji": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@OVGNFT": [
       {
         "project": "Inner Circle"
       }
@@ -988,11 +4439,6 @@
       }
     ],
     "@outdark": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@baeko_02": [
       {
         "project": "Inner Circle"
       }
@@ -2407,11 +5853,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@leaf_swan": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@Punk9277": [
       {
         "project": "Inner Circle"
@@ -2448,11 +5889,6 @@
       }
     ],
     "@0xCheeezzyyyy": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@banditxbt": [
       {
         "project": "Inner Circle"
       }
@@ -2558,11 +5994,6 @@
       }
     ],
     "@Leoninweb3": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@thegaboeth": [
       {
         "project": "Inner Circle"
       }
@@ -2748,11 +6179,6 @@
       }
     ],
     "@xangle_intern": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@youfadedwealth": [
       {
         "project": "Inner Circle"
       }
@@ -4267,11 +7693,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@wanghebbf": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@Christianeth": [
       {
         "project": "Inner Circle"
@@ -4343,11 +7764,6 @@
       }
     ],
     "@clayop": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@xingxingjun8888": [
       {
         "project": "Inner Circle"
       }
@@ -4522,11 +7938,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@chimpfone2047": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@whenmoonsoon": [
       {
         "project": "Inner Circle"
@@ -4593,11 +8004,6 @@
       }
     ],
     "@ParticleNtwrk": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@TheBullishTradR": [
       {
         "project": "Inner Circle"
       }
@@ -4887,11 +8293,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@RiddlerNFT": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@PmachWeb3": [
       {
         "project": "Inner Circle"
@@ -4933,11 +8334,6 @@
       }
     ],
     "@rainwelcome2": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@r_rainss": [
       {
         "project": "Inner Circle"
       }
@@ -5173,11 +8569,6 @@
       }
     ],
     "@fusionistio": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@0xlowadka": [
       {
         "project": "Inner Circle"
       }
@@ -6082,17 +9473,7 @@
         "project": "Inner Circle"
       }
     ],
-    "@NDIDI_GRAM": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@0xsexybanana": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@hackapreneur": [
       {
         "project": "Inner Circle"
       }
@@ -6138,11 +9519,6 @@
       }
     ],
     "@ryanfang95": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@Abrahamchase09": [
       {
         "project": "Inner Circle"
       }
@@ -6213,11 +9589,6 @@
       }
     ],
     "@madcapslaugh": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@0xFastLife": [
       {
         "project": "Inner Circle"
       }
@@ -6413,11 +9784,6 @@
       }
     ],
     "@0xMarcB": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@0xSalazar": [
       {
         "project": "Inner Circle"
       }
@@ -7507,11 +10873,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@wang_xiaolou": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@roger9949": [
       {
         "project": "Inner Circle"
@@ -7762,11 +11123,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@HeathleyETH": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@HugoMartingale": [
       {
         "project": "Inner Circle"
@@ -7868,11 +11224,6 @@
       }
     ],
     "@DegenDaVinci": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@RealmissNFT": [
       {
         "project": "Inner Circle"
       }
@@ -8273,11 +11624,6 @@
       }
     ],
     "@saharrococo": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@katexbt": [
       {
         "project": "Inner Circle"
       }
@@ -8973,11 +12319,6 @@
       }
     ],
     "@hawkwardart": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@BitmanTW": [
       {
         "project": "Inner Circle"
       }
@@ -11092,11 +14433,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@adrianbrink": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@alyriadefi": [
       {
         "project": "Inner Circle"
@@ -11893,11 +15229,6 @@
       }
     ],
     "@churin_3": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@easyforshopping": [
       {
         "project": "Inner Circle"
       }
@@ -13227,11 +16558,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@zohanlin": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@meigga": [
       {
         "project": "Inner Circle"
@@ -14052,11 +17378,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@GemBooster": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@lewifree": [
       {
         "project": "Inner Circle"
@@ -14178,11 +17499,6 @@
       }
     ],
     "@thecryptoskanda": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@munchPRMR": [
       {
         "project": "Inner Circle"
       }
@@ -14578,11 +17894,6 @@
       }
     ],
     "@NathanWorsley_": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@Slappjakke": [
       {
         "project": "Inner Circle"
       }
@@ -15753,11 +19064,6 @@
       }
     ],
     "@portport255": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@zerokn0wledge_": [
       {
         "project": "Inner Circle"
       }
@@ -19817,11 +23123,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@crypthoem": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@ProofOfEly": [
       {
         "project": "Inner Circle"
@@ -22652,11 +25953,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@KriptoLisa": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@OfficialApeXdex": [
       {
         "project": "Inner Circle"
@@ -24992,11 +28288,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@IdMintThat": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@AndreWGMI": [
       {
         "project": "Inner Circle"
@@ -26753,11 +30044,6 @@
       }
     ],
     "@MetisL2": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@WinterSoldierxz": [
       {
         "project": "Inner Circle"
       }
