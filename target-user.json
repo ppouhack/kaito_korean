@@ -292,7 +292,7 @@
         "3M": "36"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "69"
       },
       {
@@ -424,7 +424,7 @@
         "30D": "11"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "21",
         "7D": "76",
         "30D": "11"
@@ -546,7 +546,7 @@
         "30D": "17"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "98",
         "7D": "27",
         "30D": "44"
@@ -756,7 +756,7 @@
       {
         "project": "PORTAL",
         "3M": "36",
-        "7D": "68",
+        "7D": "69",
         "30D": "13"
       },
       {
@@ -960,7 +960,7 @@
       },
       {
         "project": "PORTAL",
-        "7D": "88",
+        "7D": "89",
         "30D": "53"
       },
       {
@@ -1109,7 +1109,7 @@
         "30D": "7"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "50",
         "7D": "17",
         "30D": "26"
@@ -1314,7 +1314,7 @@
         "30D": "46"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "88"
       }
     ],
@@ -1339,7 +1339,7 @@
       },
       {
         "project": "PORTAL",
-        "7D": "87"
+        "7D": "86"
       },
       {
         "project": "KAITO",
@@ -1456,7 +1456,7 @@
         "30D": "47"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "62",
         "7D": "91",
         "30D": "29"
@@ -1715,7 +1715,7 @@
         "30D": "52"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "8",
         "7D": "1",
         "30D": "5"
@@ -2553,12 +2553,12 @@
         "30D": "tier2"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "78"
       },
       {
         "project": "PORTAL",
-        "7D": "91",
+        "7D": "90",
         "30D": "59"
       },
       {
@@ -2639,915 +2639,6 @@
         "30D": "tier2"
       }
     ],
-    "@crypto_upalupa": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "IRYS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "UXLINK",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "MOMENTUM",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "BOUNDLESS",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "KAITO",
-        "7D": "tier2"
-      }
-    ],
-    "@CHUNWON1155": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "UXLINK",
-        "3M": "tier2"
-      },
-      {
-        "project": "MOMENTUM",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "KAITO",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@MJbosexy": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "IRYS",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "MOMENTUM",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "KAITO",
-        "7D": "tier2"
-      }
-    ],
-    "@2ewbie": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@jjang8411": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "IRYS",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "UXLINK",
-        "3M": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "MOMENTUM",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "PORTAL",
-        "7D": "70",
-        "30D": "97"
-      }
-    ],
-    "@pingsh1011": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "PORTAL",
-        "7D": "50",
-        "30D": "42"
-      }
-    ],
-    "@sunominq": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "UXLINK",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "MOMENTUM",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "BOUNDLESS",
-        "7D": "tier2"
-      },
-      {
-        "project": "SONIC",
-        "7D": "86"
-      }
-    ],
-    "@SH_8823": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "IRYS",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "DEFIAPP",
-        "7D": "22",
-        "30D": "82"
-      },
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@pc970930": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "IRYS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@yichen1806": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@baek_project": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "UXLINK",
-        "3M": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "MOMENTUM",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@xiangshi001": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@seds1013": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@BeomBeom222": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "UXLINK",
-        "3M": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "MOMENTUM",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "BOUNDLESS",
-        "30D": "tier2"
-      }
-    ],
-    "@taozi0929": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "PORTAL",
-        "7D": "73"
-      },
-      {
-        "project": "KAITO",
-        "7D": "tier2"
-      }
-    ],
-    "@closed0322": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "PORTAL",
-        "7D": "82",
-        "30D": "92"
-      }
-    ],
-    "@doosingod": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@dopamine_crypto": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "UXLINK",
-        "3M": "tier2"
-      },
-      {
-        "project": "MOMENTUM",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "KAITO",
-        "7D": "55"
-      }
-    ],
-    "@SilenceWill0414": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "KAITO",
-        "3M": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@Soo_istheegg": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@leukocyteng1": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "ANOMA",
-        "7D": "74"
-      }
-    ],
-    "@Only1Pope": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@0xtunad": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@donggu_1": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "IRYS",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "SONIC",
-        "7D": "85",
-        "30D": "83"
-      },
-      {
-        "project": "PORTAL",
-        "7D": "57",
-        "30D": "74"
-      }
-    ],
-    "@sansae_tooja": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      }
-    ],
-    "@qpzmzm": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      }
-    ],
-    "@steelorian": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      },
-      {
-        "project": "IRYS",
-        "7D": "61",
-        "30D": "90"
-      },
-      {
-        "project": "UXLINK",
-        "3M": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "SONIC",
-        "3M": "32",
-        "7D": "9",
-        "30D": "23"
-      },
-      {
-        "project": "PORTAL",
-        "30D": "77"
-      },
-      {
-        "project": "KAITO",
-        "3M": "tier2"
-      },
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@shl3376": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "IRYS",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "UXLINK",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "MOMENTUM",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "BOUNDLESS",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "KAITO",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@angelfriend81": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "UXLINK",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "MOMENTUM",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@Intoxicated_Ki": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "BOUNDLESS",
-        "3M": "44",
-        "7D": "32",
-        "30D": "38"
-      }
-    ],
-    "@Cryptoverse67": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      }
-    ],
-    "@KaitoAura": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      }
-    ],
-    "@Swizboy6": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@pandateemo88": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      }
-    ],
-    "@purume20922": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      }
-    ],
-    "@_____jd____": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      },
-      {
-        "project": "UXLINK",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "MOMENTUM",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "SONIC",
-        "7D": "96"
-      },
-      {
-        "project": "KAITO",
-        "30D": "tier2"
-      }
-    ],
-    "@chanhdoro": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@kgenztrader": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      }
-    ],
-    "@semiko8585": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      },
-      {
-        "project": "UXLINK",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "MOMENTUM",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "KAITO",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@jayymmt": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@arr_kr": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@claimooor": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      }
-    ],
-    "@reto_crypto": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      },
-      {
-        "project": "UXLINK",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "MOMENTUM",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "PORTAL",
-        "7D": "46",
-        "30D": "62"
-      },
-      {
-        "project": "KAITO",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@LisaFlorentina8": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@rosetina_degen": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      }
-    ],
-    "@Meta888_hk": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@Enok0305": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "IRYS",
-        "30D": "tier2"
-      }
-    ],
-    "@letsgoddc746386": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      },
-      {
-        "project": "IRYS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@Victornguyen10x": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      }
-    ],
-    "@bydaoTina": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      }
-    ],
-    "@TeslaJin87": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@ljh12080": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      },
-      {
-        "project": "PORTAL",
-        "7D": "69",
-        "30D": "88"
-      }
-    ],
-    "@JangBrian2": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      }
-    ],
-    "@kyle_yuk": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@henwyeth": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      }
-    ],
-    "@xaijnt77357": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      }
-    ],
-    "@kimbunyu": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "UXLINK",
-        "3M": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "MOMENTUM",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@btcoindown": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      }
-    ],
-    "@2_bp19": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      },
-      {
-        "project": "ANOMA",
-        "30D": "93"
-      },
-      {
-        "project": "UXLINK",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "MOMENTUM",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "PORTAL",
-        "7D": "43",
-        "30D": "47"
-      },
-      {
-        "project": "KAITO",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@am_henrykeyz": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      }
-    ],
-    "@zneae": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      }
-    ],
-    "@jing_0517DOGE": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      }
-    ],
-    "@OMOREYY___": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      }
-    ],
-    "@K_ShortStory": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      },
-      {
-        "project": "UXLINK",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@supernovajunn": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      },
-      {
-        "project": "UXLINK",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "MOMENTUM",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "KAITO",
-        "30D": "tier2"
-      }
-    ],
-    "@YieldBeast": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      },
-      {
-        "project": "IRYS",
-        "7D": "tier2"
-      }
-    ],
-    "@JohnKayode6": [
-      {
-        "project": "0G",
-        "7D": "tier2"
-      }
-    ],
-    "@KOO_YH": [
-      {
-        "project": "0G",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "IRYS",
-        "7D": "51"
-      },
-      {
-        "project": "UXLINK",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "KAITO",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
     "@ppougod": [
       {
         "project": "0G",
@@ -3603,7 +2694,7 @@
         "30D": "36"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "38",
         "7D": "8",
         "30D": "18"
@@ -3677,7 +2768,7 @@
         "30D": "25"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "43",
         "30D": "53"
       },
@@ -3788,7 +2879,7 @@
       {
         "project": "PORTAL",
         "3M": "26",
-        "7D": "67",
+        "7D": "68",
         "30D": "21"
       },
       {
@@ -3910,7 +3001,7 @@
         "30D": "46"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "30D": "65"
       },
       {
@@ -3947,7 +3038,7 @@
         "30D": "82"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "73"
       }
     ],
@@ -4038,7 +3129,7 @@
         "30D": "83"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "60"
       },
       {
@@ -4076,7 +3167,7 @@
         "30D": "54"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "91",
         "7D": "19",
         "30D": "41"
@@ -4140,7 +3231,7 @@
         "30D": "73"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "30D": "82"
       },
       {
@@ -4345,7 +3436,7 @@
       },
       {
         "project": "PORTAL",
-        "7D": "66",
+        "7D": "64",
         "30D": "81"
       }
     ],
@@ -4389,6 +3480,915 @@
         "project": "0G",
         "7D": "100",
         "30D": "92"
+      }
+    ],
+    "@crypto_upalupa": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "IRYS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UXLINK",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "MOMENTUM",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "BOUNDLESS",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "KAITO",
+        "7D": "tier2"
+      }
+    ],
+    "@CHUNWON1155": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UXLINK",
+        "3M": "tier2"
+      },
+      {
+        "project": "MOMENTUM",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "KAITO",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@MJbosexy": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "IRYS",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "MOMENTUM",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "KAITO",
+        "7D": "tier2"
+      }
+    ],
+    "@2ewbie": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@jjang8411": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "IRYS",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UXLINK",
+        "3M": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "MOMENTUM",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "PORTAL",
+        "7D": "71",
+        "30D": "97"
+      }
+    ],
+    "@pingsh1011": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "PORTAL",
+        "7D": "51",
+        "30D": "42"
+      }
+    ],
+    "@sunominq": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UXLINK",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "MOMENTUM",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "BOUNDLESS",
+        "7D": "tier2"
+      },
+      {
+        "project": "S",
+        "7D": "86"
+      }
+    ],
+    "@SH_8823": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "IRYS",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "DEFIAPP",
+        "7D": "22",
+        "30D": "82"
+      },
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@pc970930": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "IRYS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@yichen1806": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@baek_project": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UXLINK",
+        "3M": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "MOMENTUM",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@xiangshi001": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@seds1013": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@BeomBeom222": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UXLINK",
+        "3M": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "MOMENTUM",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "BOUNDLESS",
+        "30D": "tier2"
+      }
+    ],
+    "@taozi0929": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "PORTAL",
+        "7D": "73"
+      },
+      {
+        "project": "KAITO",
+        "7D": "tier2"
+      }
+    ],
+    "@closed0322": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "PORTAL",
+        "7D": "81",
+        "30D": "92"
+      }
+    ],
+    "@doosingod": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@dopamine_crypto": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UXLINK",
+        "3M": "tier2"
+      },
+      {
+        "project": "MOMENTUM",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "KAITO",
+        "7D": "55"
+      }
+    ],
+    "@SilenceWill0414": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "KAITO",
+        "3M": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Soo_istheegg": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@leukocyteng1": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "ANOMA",
+        "7D": "74"
+      }
+    ],
+    "@Only1Pope": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@0xtunad": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@donggu_1": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "IRYS",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "S",
+        "7D": "85",
+        "30D": "83"
+      },
+      {
+        "project": "PORTAL",
+        "7D": "57",
+        "30D": "74"
+      }
+    ],
+    "@sansae_tooja": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      }
+    ],
+    "@qpzmzm": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      }
+    ],
+    "@steelorian": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      },
+      {
+        "project": "IRYS",
+        "7D": "61",
+        "30D": "90"
+      },
+      {
+        "project": "UXLINK",
+        "3M": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "S",
+        "3M": "32",
+        "7D": "9",
+        "30D": "23"
+      },
+      {
+        "project": "PORTAL",
+        "30D": "77"
+      },
+      {
+        "project": "KAITO",
+        "3M": "tier2"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@shl3376": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "IRYS",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UXLINK",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "MOMENTUM",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "BOUNDLESS",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "KAITO",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@angelfriend81": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UXLINK",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "MOMENTUM",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Intoxicated_Ki": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "BOUNDLESS",
+        "3M": "44",
+        "7D": "32",
+        "30D": "38"
+      }
+    ],
+    "@Cryptoverse67": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      }
+    ],
+    "@KaitoAura": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      }
+    ],
+    "@Swizboy6": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@pandateemo88": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      }
+    ],
+    "@purume20922": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      }
+    ],
+    "@_____jd____": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      },
+      {
+        "project": "UXLINK",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "MOMENTUM",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "S",
+        "7D": "96"
+      },
+      {
+        "project": "KAITO",
+        "30D": "tier2"
+      }
+    ],
+    "@chanhdoro": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@kgenztrader": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      }
+    ],
+    "@semiko8585": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      },
+      {
+        "project": "UXLINK",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "MOMENTUM",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "KAITO",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@jayymmt": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@arr_kr": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@claimooor": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      }
+    ],
+    "@reto_crypto": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      },
+      {
+        "project": "UXLINK",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "MOMENTUM",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "PORTAL",
+        "7D": "46",
+        "30D": "62"
+      },
+      {
+        "project": "KAITO",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@LisaFlorentina8": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@rosetina_degen": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      }
+    ],
+    "@Meta888_hk": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Enok0305": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "IRYS",
+        "30D": "tier2"
+      }
+    ],
+    "@letsgoddc746386": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      },
+      {
+        "project": "IRYS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Victornguyen10x": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      }
+    ],
+    "@bydaoTina": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      }
+    ],
+    "@TeslaJin87": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@ljh12080": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      },
+      {
+        "project": "PORTAL",
+        "7D": "67",
+        "30D": "88"
+      }
+    ],
+    "@JangBrian2": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      }
+    ],
+    "@kyle_yuk": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@henwyeth": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      }
+    ],
+    "@xaijnt77357": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      }
+    ],
+    "@kimbunyu": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UXLINK",
+        "3M": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "MOMENTUM",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@btcoindown": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      }
+    ],
+    "@2_bp19": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      },
+      {
+        "project": "ANOMA",
+        "30D": "93"
+      },
+      {
+        "project": "UXLINK",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "MOMENTUM",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "PORTAL",
+        "7D": "44",
+        "30D": "47"
+      },
+      {
+        "project": "KAITO",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@am_henrykeyz": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      }
+    ],
+    "@zneae": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      }
+    ],
+    "@jing_0517DOGE": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      }
+    ],
+    "@OMOREYY___": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      }
+    ],
+    "@K_ShortStory": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      },
+      {
+        "project": "UXLINK",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@supernovajunn": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      },
+      {
+        "project": "UXLINK",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "MOMENTUM",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "KAITO",
+        "30D": "tier2"
+      }
+    ],
+    "@YieldBeast": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      },
+      {
+        "project": "IRYS",
+        "7D": "tier2"
+      }
+    ],
+    "@JohnKayode6": [
+      {
+        "project": "0G",
+        "7D": "tier2"
+      }
+    ],
+    "@KOO_YH": [
+      {
+        "project": "0G",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "IRYS",
+        "7D": "51"
+      },
+      {
+        "project": "UXLINK",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "KAITO",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
       }
     ],
     "@leonZR4": [
@@ -4721,9 +4721,9 @@
         "30D": "19"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "28",
-        "30D": "72"
+        "30D": "71"
       },
       {
         "project": "PEAQ",
@@ -4980,7 +4980,7 @@
         "30D": "35"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "45",
         "30D": "70"
       },
@@ -5091,7 +5091,7 @@
         "30D": "10"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "48"
       }
     ],
@@ -5197,7 +5197,7 @@
       {
         "project": "PORTAL",
         "3M": "14",
-        "7D": "48",
+        "7D": "49",
         "30D": "30"
       },
       {
@@ -5355,7 +5355,7 @@
       {
         "project": "PORTAL",
         "3M": "68",
-        "7D": "86",
+        "7D": "87",
         "30D": "63"
       },
       {
@@ -5392,7 +5392,7 @@
       },
       {
         "project": "PORTAL",
-        "7D": "95"
+        "7D": "96"
       }
     ],
     "@InfluencerDee": [
@@ -5765,7 +5765,7 @@
         "30D": "44"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "53",
         "30D": "79"
       },
@@ -5894,7 +5894,7 @@
         "30D": "tier2"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "30D": "96"
       }
     ],
@@ -5969,7 +5969,7 @@
         "30D": "tier2"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "37",
         "30D": "55"
       },
@@ -6317,7 +6317,7 @@
         "30D": "18"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "96",
         "7D": "21",
         "30D": "43"
@@ -6433,7 +6433,7 @@
         "30D": "30"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "73",
         "7D": "99"
       },
@@ -6582,7 +6582,6 @@
       {
         "project": "PORTAL",
         "3M": "24",
-        "7D": "100",
         "30D": "51"
       }
     ],
@@ -6854,7 +6853,7 @@
         "30D": "20"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "82",
         "30D": "92"
       },
@@ -7021,7 +7020,7 @@
         "30D": "tier2"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "51",
         "30D": "74"
       },
@@ -7779,6 +7778,316 @@
         "30D": "tier2"
       }
     ],
+    "@kennam5983": [
+      {
+        "project": "IRYS",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@3amdexter": [
+      {
+        "project": "IRYS",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@just4rxxy": [
+      {
+        "project": "IRYS",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Ragnarbjornivar": [
+      {
+        "project": "IRYS",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@HellRider070": [
+      {
+        "project": "IRYS",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@MoYU_7777": [
+      {
+        "project": "IRYS",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@3phraem__": [
+      {
+        "project": "IRYS",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@MubarakTemidayo": [
+      {
+        "project": "IRYS",
+        "7D": "tier2"
+      }
+    ],
+    "@0xjetman": [
+      {
+        "project": "IRYS",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@sikander69": [
+      {
+        "project": "IRYS",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@0008luna": [
+      {
+        "project": "IRYS",
+        "7D": "tier2"
+      },
+      {
+        "project": "PORTAL",
+        "7D": "92"
+      }
+    ],
+    "@Bdigital17": [
+      {
+        "project": "IRYS",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Abdullahi_wolf": [
+      {
+        "project": "IRYS",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Im_SMD1": [
+      {
+        "project": "IRYS",
+        "7D": "tier2"
+      }
+    ],
+    "@Moefire_": [
+      {
+        "project": "IRYS",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@ox_neato": [
+      {
+        "project": "IRYS",
+        "7D": "tier2"
+      }
+    ],
+    "@0xBuzor": [
+      {
+        "project": "IRYS",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Ox_duke": [
+      {
+        "project": "IRYS",
+        "7D": "tier2"
+      }
+    ],
+    "@hassancreates": [
+      {
+        "project": "IRYS",
+        "7D": "tier2"
+      }
+    ],
+    "@alherii69": [
+      {
+        "project": "IRYS",
+        "7D": "tier2"
+      }
+    ],
+    "@AllChainDegen": [
+      {
+        "project": "IRYS",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@ramztd": [
+      {
+        "project": "IRYS",
+        "7D": "tier2"
+      }
+    ],
+    "@Haleeeemahh": [
+      {
+        "project": "IRYS",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@GgXMaran": [
+      {
+        "project": "IRYS",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@eli_ganth": [
+      {
+        "project": "IRYS",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@sholaax_": [
+      {
+        "project": "IRYS",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Tayo_Nft": [
+      {
+        "project": "IRYS",
+        "7D": "tier2"
+      }
+    ],
+    "@Heendrix_": [
+      {
+        "project": "IRYS",
+        "7D": "tier2"
+      }
+    ],
+    "@Vaz_Bav": [
+      {
+        "project": "IRYS",
+        "7D": "tier2"
+      }
+    ],
+    "@Kay___kayyyy": [
+      {
+        "project": "IRYS",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@0xJaimeth": [
+      {
+        "project": "IRYS",
+        "7D": "tier2"
+      }
+    ],
+    "@muslima_sol": [
+      {
+        "project": "IRYS",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "UXLINK",
+        "3M": "tier2"
+      }
+    ],
+    "@Limu_mbm_": [
+      {
+        "project": "IRYS",
+        "7D": "tier2"
+      },
+      {
+        "project": "KAITO",
+        "7D": "tier2"
+      }
+    ],
+    "@ToBornSun_": [
+      {
+        "project": "IRYS",
+        "7D": "tier2"
+      }
+    ],
+    "@Comrd_Olowo": [
+      {
+        "project": "IRYS",
+        "7D": "tier2"
+      }
+    ],
+    "@btcslayer0506": [
+      {
+        "project": "IRYS",
+        "7D": "tier2"
+      },
+      {
+        "project": "PORTAL",
+        "3M": "31"
+      }
+    ],
+    "@VIVA8868": [
+      {
+        "project": "IRYS",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Vanjay__": [
+      {
+        "project": "IRYS",
+        "7D": "tier2"
+      }
+    ],
+    "@IfeKrawn": [
+      {
+        "project": "IRYS",
+        "7D": "tier2"
+      }
+    ],
+    "@Kingada20": [
+      {
+        "project": "IRYS",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@darhtch": [
+      {
+        "project": "IRYS",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@morsyxbt": [
+      {
+        "project": "IRYS",
+        "7D": "tier2"
+      }
+    ],
+    "@elvis_analyst": [
+      {
+        "project": "IRYS",
+        "7D": "tier2"
+      }
+    ],
+    "@Pen_chuks": [
+      {
+        "project": "IRYS",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Yamisobeauty": [
+      {
+        "project": "IRYS",
+        "7D": "tier2"
+      }
+    ],
     "@tm_uchal": [
       {
         "project": "IRYS",
@@ -7801,12 +8110,12 @@
         "7D": "86"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "88"
       },
       {
         "project": "PORTAL",
-        "7D": "51",
+        "7D": "50",
         "30D": "89"
       },
       {
@@ -8182,7 +8491,7 @@
         "30D": "89"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "30D": "62"
       },
       {
@@ -8213,314 +8522,55 @@
         "30D": "tier2"
       }
     ],
-    "@kennam5983": [
+    "@Mimoo1201": [
       {
         "project": "IRYS",
+        "30D": "69"
+      }
+    ],
+    "@Crypto_Pranjal": [
+      {
+        "project": "IRYS",
+        "30D": "76"
+      },
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
         "7D": "tier2",
         "30D": "tier2"
       }
     ],
-    "@3amdexter": [
+    "@wataminoodle": [
       {
         "project": "IRYS",
-        "7D": "tier2",
-        "30D": "tier2"
+        "30D": "83"
       }
     ],
-    "@just4rxxy": [
+    "@OzzyChina": [
       {
         "project": "IRYS",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@Ragnarbjornivar": [
-      {
-        "project": "IRYS",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@HellRider070": [
-      {
-        "project": "IRYS",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@MoYU_7777": [
-      {
-        "project": "IRYS",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@3phraem__": [
-      {
-        "project": "IRYS",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@MubarakTemidayo": [
-      {
-        "project": "IRYS",
-        "7D": "tier2"
-      }
-    ],
-    "@0xjetman": [
-      {
-        "project": "IRYS",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@sikander69": [
-      {
-        "project": "IRYS",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@0008luna": [
-      {
-        "project": "IRYS",
-        "7D": "tier2"
+        "30D": "92"
       },
       {
         "project": "PORTAL",
-        "7D": "92"
-      }
-    ],
-    "@Bdigital17": [
-      {
-        "project": "IRYS",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@Abdullahi_wolf": [
-      {
-        "project": "IRYS",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@Im_SMD1": [
-      {
-        "project": "IRYS",
-        "7D": "tier2"
-      }
-    ],
-    "@Moefire_": [
-      {
-        "project": "IRYS",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@ox_neato": [
-      {
-        "project": "IRYS",
-        "7D": "tier2"
-      }
-    ],
-    "@0xBuzor": [
-      {
-        "project": "IRYS",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@Ox_duke": [
-      {
-        "project": "IRYS",
-        "7D": "tier2"
-      }
-    ],
-    "@hassancreates": [
-      {
-        "project": "IRYS",
-        "7D": "tier2"
-      }
-    ],
-    "@alherii69": [
-      {
-        "project": "IRYS",
-        "7D": "tier2"
-      }
-    ],
-    "@AllChainDegen": [
-      {
-        "project": "IRYS",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@ramztd": [
-      {
-        "project": "IRYS",
-        "7D": "tier2"
-      }
-    ],
-    "@Haleeeemahh": [
-      {
-        "project": "IRYS",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@GgXMaran": [
-      {
-        "project": "IRYS",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@eli_ganth": [
-      {
-        "project": "IRYS",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@sholaax_": [
-      {
-        "project": "IRYS",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@Tayo_Nft": [
-      {
-        "project": "IRYS",
-        "7D": "tier2"
-      }
-    ],
-    "@Heendrix_": [
-      {
-        "project": "IRYS",
-        "7D": "tier2"
-      }
-    ],
-    "@Vaz_Bav": [
-      {
-        "project": "IRYS",
-        "7D": "tier2"
-      }
-    ],
-    "@Kay___kayyyy": [
-      {
-        "project": "IRYS",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@0xJaimeth": [
-      {
-        "project": "IRYS",
-        "7D": "tier2"
-      }
-    ],
-    "@muslima_sol": [
-      {
-        "project": "IRYS",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "UXLINK",
-        "3M": "tier2"
-      }
-    ],
-    "@Limu_mbm_": [
-      {
-        "project": "IRYS",
-        "7D": "tier2"
+        "3M": "17",
+        "7D": "48",
+        "30D": "35"
       },
       {
         "project": "KAITO",
-        "7D": "tier2"
+        "3M": "tier2"
       }
     ],
-    "@ToBornSun_": [
+    "@0xBolin123": [
       {
         "project": "IRYS",
-        "7D": "tier2"
-      }
-    ],
-    "@Comrd_Olowo": [
-      {
-        "project": "IRYS",
-        "7D": "tier2"
-      }
-    ],
-    "@btcslayer0506": [
-      {
-        "project": "IRYS",
-        "7D": "tier2"
+        "30D": "95"
       },
       {
         "project": "PORTAL",
-        "3M": "31"
-      }
-    ],
-    "@VIVA8868": [
-      {
-        "project": "IRYS",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@Vanjay__": [
-      {
-        "project": "IRYS",
-        "7D": "tier2"
-      }
-    ],
-    "@IfeKrawn": [
-      {
-        "project": "IRYS",
-        "7D": "tier2"
-      }
-    ],
-    "@Kingada20": [
-      {
-        "project": "IRYS",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@darhtch": [
-      {
-        "project": "IRYS",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@morsyxbt": [
-      {
-        "project": "IRYS",
-        "7D": "tier2"
-      }
-    ],
-    "@elvis_analyst": [
-      {
-        "project": "IRYS",
-        "7D": "tier2"
-      }
-    ],
-    "@Pen_chuks": [
-      {
-        "project": "IRYS",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@Yamisobeauty": [
-      {
-        "project": "IRYS",
-        "7D": "tier2"
+        "3M": "35",
+        "7D": "100"
       }
     ],
     "@baebii_8": [
@@ -8541,7 +8591,7 @@
         "30D": "tier2"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "30D": "95"
       }
     ],
@@ -8621,56 +8671,6 @@
       {
         "project": "IRYS",
         "30D": "tier2"
-      }
-    ],
-    "@Mimoo1201": [
-      {
-        "project": "IRYS",
-        "30D": "69"
-      }
-    ],
-    "@Crypto_Pranjal": [
-      {
-        "project": "IRYS",
-        "30D": "76"
-      },
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@wataminoodle": [
-      {
-        "project": "IRYS",
-        "30D": "83"
-      }
-    ],
-    "@OzzyChina": [
-      {
-        "project": "IRYS",
-        "30D": "92"
-      },
-      {
-        "project": "PORTAL",
-        "3M": "17",
-        "7D": "52",
-        "30D": "35"
-      },
-      {
-        "project": "KAITO",
-        "3M": "tier2"
-      }
-    ],
-    "@0xBolin123": [
-      {
-        "project": "IRYS",
-        "30D": "95"
-      },
-      {
-        "project": "PORTAL",
-        "3M": "35"
       }
     ],
     "@0xKingsKuan": [
@@ -8875,7 +8875,7 @@
         "30D": "78"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "87",
         "30D": "67"
       },
@@ -8902,7 +8902,7 @@
         "30D": "48"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "94"
       },
       {
@@ -8925,7 +8925,7 @@
       },
       {
         "project": "PORTAL",
-        "7D": "80"
+        "7D": "79"
       },
       {
         "project": "KAITO",
@@ -8942,7 +8942,7 @@
         "30D": "36"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "28",
         "7D": "13",
         "30D": "21"
@@ -9436,7 +9436,7 @@
         "30D": "tier2"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "55",
         "30D": "100"
       },
@@ -9539,7 +9539,7 @@
         "30D": "tier2"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "84"
       },
       {
@@ -9789,7 +9789,7 @@
         "30D": "49"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "97"
       },
       {
@@ -10036,7 +10036,7 @@
         "30D": "37"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "99"
       },
       {
@@ -10148,7 +10148,7 @@
         "3M": "67"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "83"
       }
     ],
@@ -10286,7 +10286,7 @@
         "30D": "30"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "63",
         "30D": "47"
       },
@@ -10554,7 +10554,7 @@
         "30D": "tier2"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "90",
         "7D": "52",
         "30D": "58"
@@ -10750,13 +10750,399 @@
         "30D": "100"
       },
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "12",
         "7D": "5",
         "30D": "8"
       },
       {
         "project": "Inner Circle"
+      }
+    ],
+    "@BitHappyX": [
+      {
+        "project": "MOMENTUM",
+        "3M": "2",
+        "7D": "33",
+        "30D": "63"
+      }
+    ],
+    "@BTC_Alert_": [
+      {
+        "project": "MOMENTUM",
+        "3M": "3",
+        "7D": "22",
+        "30D": "5"
+      }
+    ],
+    "@tehMoonwalkeR": [
+      {
+        "project": "MOMENTUM",
+        "3M": "4",
+        "7D": "48",
+        "30D": "73"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@0xzhaozhao": [
+      {
+        "project": "MOMENTUM",
+        "3M": "5",
+        "7D": "11",
+        "30D": "22"
+      },
+      {
+        "project": "BOUNDLESS",
+        "7D": "100"
+      }
+    ],
+    "@Steve_4P": [
+      {
+        "project": "MOMENTUM",
+        "3M": "7",
+        "30D": "54"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@solashenone": [
+      {
+        "project": "MOMENTUM",
+        "3M": "8",
+        "30D": "12"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@matteodotsui": [
+      {
+        "project": "MOMENTUM",
+        "3M": "10"
+      }
+    ],
+    "@xincctnnq": [
+      {
+        "project": "MOMENTUM",
+        "3M": "12",
+        "7D": "16",
+        "30D": "15"
+      }
+    ],
+    "@Elizabethofyou": [
+      {
+        "project": "MOMENTUM",
+        "3M": "19",
+        "7D": "5",
+        "30D": "11"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@yuyue_chris": [
+      {
+        "project": "MOMENTUM",
+        "3M": "22",
+        "7D": "7",
+        "30D": "16"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@web3probe": [
+      {
+        "project": "MOMENTUM",
+        "3M": "29",
+        "7D": "12",
+        "30D": "21"
+      },
+      {
+        "project": "KAITO",
+        "3M": "13",
+        "7D": "3",
+        "30D": "3"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@CryptoVonDoom": [
+      {
+        "project": "MOMENTUM",
+        "3M": "31",
+        "7D": "71",
+        "30D": "23"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@chowtato": [
+      {
+        "project": "MOMENTUM",
+        "3M": "38",
+        "7D": "73",
+        "30D": "41"
+      }
+    ],
+    "@DomOnChain": [
+      {
+        "project": "MOMENTUM",
+        "3M": "39",
+        "7D": "25",
+        "30D": "29"
+      }
+    ],
+    "@ni_celeb": [
+      {
+        "project": "MOMENTUM",
+        "3M": "42",
+        "7D": "34",
+        "30D": "42"
+      },
+      {
+        "project": "BOUNDLESS",
+        "3M": "73",
+        "7D": "69",
+        "30D": "99"
+      }
+    ],
+    "@FabiusDefi": [
+      {
+        "project": "MOMENTUM",
+        "3M": "44",
+        "7D": "49",
+        "30D": "35"
+      },
+      {
+        "project": "KAITO",
+        "3M": "90",
+        "7D": "70",
+        "30D": "63"
+      }
+    ],
+    "@HottieBabeGem": [
+      {
+        "project": "MOMENTUM",
+        "3M": "48",
+        "7D": "50",
+        "30D": "40"
+      },
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@WY_mask": [
+      {
+        "project": "MOMENTUM",
+        "3M": "50",
+        "30D": "62"
+      }
+    ],
+    "@0xAllen888": [
+      {
+        "project": "MOMENTUM",
+        "3M": "51",
+        "30D": "65"
+      },
+      {
+        "project": "KAITO",
+        "30D": "83"
+      }
+    ],
+    "@PastanagaCrypto": [
+      {
+        "project": "MOMENTUM",
+        "3M": "55",
+        "30D": "79"
+      }
+    ],
+    "@degen_sensei18": [
+      {
+        "project": "MOMENTUM",
+        "3M": "56",
+        "7D": "32",
+        "30D": "44"
+      }
+    ],
+    "@iamgaurangdesai": [
+      {
+        "project": "MOMENTUM",
+        "3M": "57",
+        "7D": "24",
+        "30D": "47"
+      },
+      {
+        "project": "BOUNDLESS",
+        "3M": "9",
+        "7D": "84",
+        "30D": "65"
+      },
+      {
+        "project": "KAITO",
+        "7D": "88"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@_HeyZing": [
+      {
+        "project": "MOMENTUM",
+        "3M": "61",
+        "7D": "55",
+        "30D": "55"
+      },
+      {
+        "project": "PEAQ",
+        "3M": "tier2"
+      },
+      {
+        "project": "KAITO",
+        "3M": "tier2"
+      }
+    ],
+    "@panamaXBT": [
+      {
+        "project": "MOMENTUM",
+        "3M": "65",
+        "7D": "58",
+        "30D": "72"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@humanbelaa": [
+      {
+        "project": "MOMENTUM",
+        "3M": "67",
+        "7D": "43",
+        "30D": "57"
+      }
+    ],
+    "@ahmedmk_mk": [
+      {
+        "project": "MOMENTUM",
+        "3M": "68",
+        "7D": "54",
+        "30D": "60"
+      }
+    ],
+    "@OxMula": [
+      {
+        "project": "MOMENTUM",
+        "3M": "69",
+        "7D": "44",
+        "30D": "66"
+      }
+    ],
+    "@GuigsLuke": [
+      {
+        "project": "MOMENTUM",
+        "3M": "70",
+        "7D": "51",
+        "30D": "61"
+      }
+    ],
+    "@MtroX207": [
+      {
+        "project": "MOMENTUM",
+        "3M": "72",
+        "7D": "46",
+        "30D": "68"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@wang_xiaolou": [
+      {
+        "project": "MOMENTUM",
+        "3M": "73",
+        "7D": "37",
+        "30D": "70"
+      },
+      {
+        "project": "BOUNDLESS",
+        "3M": "98",
+        "7D": "83",
+        "30D": "69"
+      },
+      {
+        "project": "KAITO",
+        "3M": "40",
+        "7D": "25",
+        "30D": "71"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@MeshClans": [
+      {
+        "project": "MOMENTUM",
+        "3M": "75",
+        "7D": "35",
+        "30D": "69"
+      }
+    ],
+    "@blackbeardXBT": [
+      {
+        "project": "MOMENTUM",
+        "3M": "78",
+        "7D": "59",
+        "30D": "75"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@NewPaguinfo": [
+      {
+        "project": "MOMENTUM",
+        "3M": "79",
+        "7D": "57",
+        "30D": "76"
+      }
+    ],
+    "@hackapreneur": [
+      {
+        "project": "MOMENTUM",
+        "3M": "83",
+        "7D": "66",
+        "30D": "81"
+      },
+      {
+        "project": "S",
+        "3M": "11",
+        "7D": "18",
+        "30D": "10"
+      },
+      {
+        "project": "PORTAL",
+        "3M": "78"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@solxjelly": [
+      {
+        "project": "MOMENTUM",
+        "3M": "84",
+        "7D": "61",
+        "30D": "83"
       }
     ],
     "@0xPain__": [
@@ -11226,392 +11612,6 @@
         "3M": "tier2"
       }
     ],
-    "@BitHappyX": [
-      {
-        "project": "MOMENTUM",
-        "3M": "2",
-        "7D": "33",
-        "30D": "63"
-      }
-    ],
-    "@BTC_Alert_": [
-      {
-        "project": "MOMENTUM",
-        "3M": "3",
-        "7D": "22",
-        "30D": "5"
-      }
-    ],
-    "@tehMoonwalkeR": [
-      {
-        "project": "MOMENTUM",
-        "3M": "4",
-        "7D": "48",
-        "30D": "73"
-      },
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@0xzhaozhao": [
-      {
-        "project": "MOMENTUM",
-        "3M": "5",
-        "7D": "11",
-        "30D": "22"
-      },
-      {
-        "project": "BOUNDLESS",
-        "7D": "100"
-      }
-    ],
-    "@Steve_4P": [
-      {
-        "project": "MOMENTUM",
-        "3M": "7",
-        "30D": "54"
-      },
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@solashenone": [
-      {
-        "project": "MOMENTUM",
-        "3M": "8",
-        "30D": "12"
-      },
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@matteodotsui": [
-      {
-        "project": "MOMENTUM",
-        "3M": "10"
-      }
-    ],
-    "@xincctnnq": [
-      {
-        "project": "MOMENTUM",
-        "3M": "12",
-        "7D": "16",
-        "30D": "15"
-      }
-    ],
-    "@Elizabethofyou": [
-      {
-        "project": "MOMENTUM",
-        "3M": "19",
-        "7D": "5",
-        "30D": "11"
-      },
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@yuyue_chris": [
-      {
-        "project": "MOMENTUM",
-        "3M": "22",
-        "7D": "7",
-        "30D": "16"
-      },
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@web3probe": [
-      {
-        "project": "MOMENTUM",
-        "3M": "29",
-        "7D": "12",
-        "30D": "21"
-      },
-      {
-        "project": "KAITO",
-        "3M": "13",
-        "7D": "3",
-        "30D": "3"
-      },
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@CryptoVonDoom": [
-      {
-        "project": "MOMENTUM",
-        "3M": "31",
-        "7D": "71",
-        "30D": "23"
-      },
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@chowtato": [
-      {
-        "project": "MOMENTUM",
-        "3M": "38",
-        "7D": "73",
-        "30D": "41"
-      }
-    ],
-    "@DomOnChain": [
-      {
-        "project": "MOMENTUM",
-        "3M": "39",
-        "7D": "25",
-        "30D": "29"
-      }
-    ],
-    "@ni_celeb": [
-      {
-        "project": "MOMENTUM",
-        "3M": "42",
-        "7D": "34",
-        "30D": "42"
-      },
-      {
-        "project": "BOUNDLESS",
-        "3M": "73",
-        "7D": "69",
-        "30D": "99"
-      }
-    ],
-    "@FabiusDefi": [
-      {
-        "project": "MOMENTUM",
-        "3M": "44",
-        "7D": "49",
-        "30D": "35"
-      },
-      {
-        "project": "KAITO",
-        "3M": "90",
-        "7D": "70",
-        "30D": "63"
-      }
-    ],
-    "@HottieBabeGem": [
-      {
-        "project": "MOMENTUM",
-        "3M": "48",
-        "7D": "50",
-        "30D": "40"
-      },
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@WY_mask": [
-      {
-        "project": "MOMENTUM",
-        "3M": "50",
-        "30D": "62"
-      }
-    ],
-    "@0xAllen888": [
-      {
-        "project": "MOMENTUM",
-        "3M": "51",
-        "30D": "65"
-      },
-      {
-        "project": "KAITO",
-        "30D": "83"
-      }
-    ],
-    "@PastanagaCrypto": [
-      {
-        "project": "MOMENTUM",
-        "3M": "55",
-        "30D": "79"
-      }
-    ],
-    "@degen_sensei18": [
-      {
-        "project": "MOMENTUM",
-        "3M": "56",
-        "7D": "32",
-        "30D": "44"
-      }
-    ],
-    "@iamgaurangdesai": [
-      {
-        "project": "MOMENTUM",
-        "3M": "57",
-        "7D": "24",
-        "30D": "47"
-      },
-      {
-        "project": "BOUNDLESS",
-        "3M": "9",
-        "7D": "84",
-        "30D": "65"
-      },
-      {
-        "project": "KAITO",
-        "7D": "88"
-      },
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@_HeyZing": [
-      {
-        "project": "MOMENTUM",
-        "3M": "61",
-        "7D": "55",
-        "30D": "55"
-      },
-      {
-        "project": "PEAQ",
-        "3M": "tier2"
-      },
-      {
-        "project": "KAITO",
-        "3M": "tier2"
-      }
-    ],
-    "@panamaXBT": [
-      {
-        "project": "MOMENTUM",
-        "3M": "65",
-        "7D": "58",
-        "30D": "72"
-      },
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@humanbelaa": [
-      {
-        "project": "MOMENTUM",
-        "3M": "67",
-        "7D": "43",
-        "30D": "57"
-      }
-    ],
-    "@ahmedmk_mk": [
-      {
-        "project": "MOMENTUM",
-        "3M": "68",
-        "7D": "54",
-        "30D": "60"
-      }
-    ],
-    "@OxMula": [
-      {
-        "project": "MOMENTUM",
-        "3M": "69",
-        "7D": "44",
-        "30D": "66"
-      }
-    ],
-    "@GuigsLuke": [
-      {
-        "project": "MOMENTUM",
-        "3M": "70",
-        "7D": "51",
-        "30D": "61"
-      }
-    ],
-    "@MtroX207": [
-      {
-        "project": "MOMENTUM",
-        "3M": "72",
-        "7D": "46",
-        "30D": "68"
-      },
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@wang_xiaolou": [
-      {
-        "project": "MOMENTUM",
-        "3M": "73",
-        "7D": "37",
-        "30D": "70"
-      },
-      {
-        "project": "BOUNDLESS",
-        "3M": "98",
-        "7D": "83",
-        "30D": "69"
-      },
-      {
-        "project": "KAITO",
-        "3M": "40",
-        "7D": "25",
-        "30D": "71"
-      },
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@MeshClans": [
-      {
-        "project": "MOMENTUM",
-        "3M": "75",
-        "7D": "35",
-        "30D": "69"
-      }
-    ],
-    "@blackbeardXBT": [
-      {
-        "project": "MOMENTUM",
-        "3M": "78",
-        "7D": "59",
-        "30D": "75"
-      },
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@NewPaguinfo": [
-      {
-        "project": "MOMENTUM",
-        "3M": "79",
-        "7D": "57",
-        "30D": "76"
-      }
-    ],
-    "@hackapreneur": [
-      {
-        "project": "MOMENTUM",
-        "3M": "83",
-        "7D": "66",
-        "30D": "81"
-      },
-      {
-        "project": "SONIC",
-        "3M": "11",
-        "7D": "18",
-        "30D": "10"
-      },
-      {
-        "project": "PORTAL",
-        "3M": "78"
-      },
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@solxjelly": [
-      {
-        "project": "MOMENTUM",
-        "3M": "84",
-        "7D": "61",
-        "30D": "83"
-      }
-    ],
     "@FaseeehP51650": [
       {
         "project": "MOMENTUM",
@@ -11627,6 +11627,438 @@
       {
         "project": "MOMENTUM",
         "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@writtenterribly": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Xi_195": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@talianotnatalie": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@soonlidaero": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@eng_khairallah1": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@0xM0RA": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Smartecio": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@IshitaaPandey": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Onoja_Cee": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2"
+      }
+    ],
+    "@pedrocrypt1": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@defi_explora": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2"
+      }
+    ],
+    "@fantxu13637": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@hashcashier": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2"
+      }
+    ],
+    "@SheTalksCrypto": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2"
+      }
+    ],
+    "@ODesenfans": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@0xbeiu": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Benjieming1Q84": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "KAITO",
+        "30D": "tier2"
+      }
+    ],
+    "@CDIIIcrypto": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Blockchainrese6": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "PORTAL",
+        "3M": "69"
+      },
+      {
+        "project": "KAITO",
+        "3M": "tier2"
+      },
+      {
+        "project": "Anoma Secret Syndicate"
+      }
+    ],
+    "@winner_asd": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "PEAQ",
+        "3M": "tier2"
+      }
+    ],
+    "@ttyuanli": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@0x_scientist": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@0xYuxi": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2"
+      }
+    ],
+    "@sakshimiishra": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@bigray0x": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "KAITO",
+        "3M": "tier2"
+      }
+    ],
+    "@Gyokeres_eth": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "S",
+        "7D": "98"
+      },
+      {
+        "project": "PORTAL",
+        "7D": "62"
+      }
+    ],
+    "@creptosolutions": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2"
+      }
+    ],
+    "@sweet919268": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "KAITO",
+        "3M": "tier2"
+      }
+    ],
+    "@ufukless1": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2"
+      }
+    ],
+    "@GuarEmperor": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Manners_ST": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@0xjacobzhao": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@0xcryptoHowe": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Airdrop_Lin": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@TheCryptoProfes": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "PEAQ",
+        "3M": "17",
+        "7D": "28",
+        "30D": "29"
+      }
+    ],
+    "@zizhong999": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "KAITO",
+        "3M": "tier2"
+      }
+    ],
+    "@ashishknows": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2"
+      }
+    ],
+    "@Real_Maxlion": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2"
+      }
+    ],
+    "@Donovan_deK": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2"
+      }
+    ],
+    "@0xmooc": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2"
+      }
+    ],
+    "@islakwcterlii": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2"
+      }
+    ],
+    "@David__GMI": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "KAITO",
+        "7D": "tier2"
+      }
+    ],
+    "@AInvestor_11": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Defi_Scribbler": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "PEAQ",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      },
+      {
+        "project": "KAITO",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@GojoReality": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@Jessicalevi13": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2"
+      }
+    ],
+    "@Naeven_": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@W1nszn": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
+        "7D": "tier2",
+        "30D": "tier2"
+      }
+    ],
+    "@sam6170": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2"
+      }
+    ],
+    "@_kidrah_24": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2"
+      }
+    ],
+    "@mrbeardjo": [
+      {
+        "project": "BOUNDLESS",
+        "3M": "tier2",
         "30D": "tier2"
       }
     ],
@@ -12128,446 +12560,14 @@
         "3M": "99"
       }
     ],
-    "@writtenterribly": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@Xi_195": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@talianotnatalie": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@soonlidaero": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@eng_khairallah1": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@0xM0RA": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@Smartecio": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@IshitaaPandey": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@Onoja_Cee": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2"
-      }
-    ],
-    "@pedrocrypt1": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@defi_explora": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2"
-      }
-    ],
-    "@fantxu13637": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@hashcashier": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2"
-      }
-    ],
-    "@SheTalksCrypto": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2"
-      }
-    ],
-    "@ODesenfans": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@0xbeiu": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@Benjieming1Q84": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "KAITO",
-        "30D": "tier2"
-      }
-    ],
-    "@CDIIIcrypto": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@Blockchainrese6": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "PORTAL",
-        "3M": "69"
-      },
-      {
-        "project": "KAITO",
-        "3M": "tier2"
-      },
-      {
-        "project": "Anoma Secret Syndicate"
-      }
-    ],
-    "@winner_asd": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "PEAQ",
-        "3M": "tier2"
-      }
-    ],
-    "@ttyuanli": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@0x_scientist": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@0xYuxi": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2"
-      }
-    ],
-    "@sakshimiishra": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@bigray0x": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "KAITO",
-        "3M": "tier2"
-      }
-    ],
-    "@Gyokeres_eth": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "SONIC",
-        "7D": "98"
-      },
-      {
-        "project": "PORTAL",
-        "7D": "63"
-      }
-    ],
-    "@creptosolutions": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2"
-      }
-    ],
-    "@sweet919268": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "KAITO",
-        "3M": "tier2"
-      }
-    ],
-    "@ufukless1": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2"
-      }
-    ],
-    "@GuarEmperor": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@Manners_ST": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@0xjacobzhao": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@0xcryptoHowe": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@Airdrop_Lin": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@TheCryptoProfes": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "PEAQ",
-        "3M": "17",
-        "7D": "28",
-        "30D": "29"
-      }
-    ],
-    "@zizhong999": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "KAITO",
-        "3M": "tier2"
-      }
-    ],
-    "@ashishknows": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2"
-      }
-    ],
-    "@Real_Maxlion": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2"
-      }
-    ],
-    "@Donovan_deK": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2"
-      }
-    ],
-    "@0xmooc": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2"
-      }
-    ],
-    "@islakwcterlii": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2"
-      }
-    ],
-    "@David__GMI": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "KAITO",
-        "7D": "tier2"
-      }
-    ],
-    "@AInvestor_11": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@Defi_Scribbler": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "PEAQ",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      },
-      {
-        "project": "KAITO",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@GojoReality": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@Jessicalevi13": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2"
-      }
-    ],
-    "@Naeven_": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@W1nszn": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "7D": "tier2",
-        "30D": "tier2"
-      }
-    ],
-    "@sam6170": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2"
-      }
-    ],
-    "@_kidrah_24": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2"
-      }
-    ],
-    "@mrbeardjo": [
-      {
-        "project": "BOUNDLESS",
-        "3M": "tier2",
-        "30D": "tier2"
-      }
-    ],
     "@OlimpioCrypto": [
       {
         "project": "BOUNDLESS",
         "7D": "60"
       },
       {
-        "project": "SONIC",
-        "30D": "87"
+        "project": "S",
+        "30D": "88"
       },
       {
         "project": "Inner Circle"
@@ -12715,7 +12715,7 @@
     ],
     "@SonicAssistant": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "1",
         "7D": "4",
         "30D": "1"
@@ -12726,7 +12726,7 @@
     ],
     "@DoctorDeFi": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "2",
         "7D": "6",
         "30D": "6"
@@ -12734,7 +12734,7 @@
     ],
     "@_lfausto": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "3",
         "7D": "3",
         "30D": "2"
@@ -12742,7 +12742,7 @@
     ],
     "@AndreCronjeTech": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "4"
       },
       {
@@ -12751,7 +12751,7 @@
     ],
     "@IntelScout": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "5",
         "7D": "14",
         "30D": "12"
@@ -12764,7 +12764,7 @@
     ],
     "@miumiuqin": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "6",
         "7D": "10",
         "30D": "3"
@@ -12779,7 +12779,7 @@
     ],
     "@crypthoem": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "7",
         "7D": "7",
         "30D": "4"
@@ -12796,7 +12796,7 @@
     ],
     "@8BitSam_": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "9",
         "7D": "12",
         "30D": "9"
@@ -12809,13 +12809,13 @@
     ],
     "@YJN58": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "10"
       }
     ],
     "@kenodnb": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "13",
         "7D": "2",
         "30D": "7"
@@ -12827,7 +12827,7 @@
     ],
     "@SiloIntern": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "14",
         "7D": "23",
         "30D": "14"
@@ -12835,7 +12835,7 @@
     ],
     "@HuntingAlts": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "15",
         "7D": "42",
         "30D": "25"
@@ -12847,7 +12847,7 @@
     ],
     "@zethesx": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "16",
         "7D": "20",
         "30D": "16"
@@ -12855,14 +12855,14 @@
     ],
     "@paintoshi": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "17",
         "30D": "46"
       }
     ],
     "@Jacktheoiler": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "18",
         "7D": "25",
         "30D": "28"
@@ -12870,13 +12870,13 @@
     ],
     "@michaelfkong": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "19"
       }
     ],
     "@The0xSarge": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "20",
         "7D": "33",
         "30D": "48"
@@ -12884,7 +12884,7 @@
     ],
     "@Altcoin_Gold": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "22",
         "7D": "58",
         "30D": "17"
@@ -12892,7 +12892,7 @@
     ],
     "@RiddlerDeFi": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "23",
         "30D": "15"
       },
@@ -12902,7 +12902,7 @@
     ],
     "@block_ecologist": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "24",
         "7D": "72",
         "30D": "57"
@@ -12910,7 +12910,7 @@
     ],
     "@KemarTiti": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "25",
         "7D": "16",
         "30D": "13"
@@ -12921,7 +12921,7 @@
     ],
     "@DraculaPresley": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "26",
         "30D": "27"
       },
@@ -12933,19 +12933,19 @@
     ],
     "@0xseg": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "27"
       }
     ],
     "@0xmr33": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "29"
       }
     ],
     "@BriefingAnon": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "30",
         "7D": "62",
         "30D": "63"
@@ -12953,7 +12953,7 @@
     ],
     "@YankeeRuinX": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "31",
         "7D": "26",
         "30D": "22"
@@ -12961,7 +12961,7 @@
     ],
     "@SonicDerpMan": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "33",
         "7D": "15",
         "30D": "24"
@@ -12969,14 +12969,14 @@
     ],
     "@XCryptoGodz": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "34",
         "30D": "32"
       }
     ],
     "@Crypto_blub": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "35",
         "7D": "36",
         "30D": "33"
@@ -12988,14 +12988,14 @@
     ],
     "@FantomFanatik": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "36",
         "30D": "84"
       }
     ],
     "@thelearningpill": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "37",
         "7D": "11",
         "30D": "19"
@@ -13003,14 +13003,14 @@
     ],
     "@0xgmsonic": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "39",
         "30D": "20"
       }
     ],
     "@CoinSurveyor": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "40",
         "7D": "44",
         "30D": "89"
@@ -13018,20 +13018,20 @@
     ],
     "@sniperchief_001": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "41",
         "7D": "68"
       }
     ],
     "@ClaraChengGo": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "42"
       }
     ],
     "@JamHotJord": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "43",
         "7D": "80",
         "30D": "93"
@@ -13039,7 +13039,7 @@
     ],
     "@Cryptoyieldinfo": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "44"
       },
       {
@@ -13048,7 +13048,7 @@
     ],
     "@0xRoninSam": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "45",
         "7D": "34",
         "30D": "30"
@@ -13056,7 +13056,7 @@
     ],
     "@swappenny": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "46",
         "7D": "81",
         "30D": "42"
@@ -13064,7 +13064,7 @@
     ],
     "@danielesesta": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "47"
       },
       {
@@ -13073,7 +13073,7 @@
     ],
     "@etrouble562": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "49",
         "7D": "48",
         "30D": "31"
@@ -13081,7 +13081,7 @@
     ],
     "@TheBlestCrypto": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "51",
         "7D": "59",
         "30D": "90"
@@ -13089,35 +13089,35 @@
     ],
     "@HalscionRose": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "52",
         "30D": "60"
       }
     ],
     "@SpacePoernchen": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "53",
-        "30D": "71"
+        "30D": "73"
       }
     ],
     "@FutureIsSonic": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "54",
         "30D": "36"
       }
     ],
     "@givethemenanAI": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "55",
         "30D": "49"
       }
     ],
     "@Jackcrypto4life": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "56",
         "7D": "30",
         "30D": "37"
@@ -13125,7 +13125,7 @@
     ],
     "@KryptoKwack": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "57",
         "7D": "40",
         "30D": "52"
@@ -13133,26 +13133,26 @@
     ],
     "@0xriskyvision": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "58"
       }
     ],
     "@0xBasedMike": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "59"
       }
     ],
     "@JohnnyTokens": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "60",
         "30D": "66"
       }
     ],
     "@santoshroy": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "61",
         "7D": "41",
         "30D": "40"
@@ -13160,13 +13160,13 @@
     ],
     "@TheCryptoCheif": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "64"
       }
     ],
     "@__CryptoBoy": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "65",
         "7D": "67",
         "30D": "91"
@@ -13174,31 +13174,31 @@
     ],
     "@Sion_Forever82": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "66"
       }
     ],
     "@cryptohuntzman": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "67"
       }
     ],
     "@Jaydenatwar": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "68"
       }
     ],
     "@south_TOA": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "70"
       }
     ],
     "@matyv_7": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "71",
         "7D": "24",
         "30D": "39"
@@ -13206,80 +13206,80 @@
     ],
     "@Deviled_meggs_": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "72"
       }
     ],
     "@miraflores0327": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "74"
       }
     ],
     "@nomamesgwei": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "75",
         "7D": "54",
-        "30D": "77"
+        "30D": "76"
       }
     ],
     "@Jonasoeth": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "76",
         "30D": "34"
       }
     ],
     "@NimeshOnchain": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "77",
         "30D": "45"
       }
     ],
     "@0xJagoilio": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "78"
       }
     ],
     "@0xDoubleSharp": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "79",
         "7D": "75"
       }
     ],
     "@defi_naly": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "80"
       }
     ],
     "@ShakaOz": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "81"
       }
     ],
     "@shawnonsonic": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "82"
       }
     ],
     "@RandomBinarySEQ": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "83",
         "7D": "31",
-        "30D": "73"
+        "30D": "72"
       }
     ],
     "@eli5_defi": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "84",
         "30D": "51"
       },
@@ -13292,7 +13292,7 @@
     ],
     "@renksieth": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "85",
         "7D": "57",
         "30D": "35"
@@ -13306,13 +13306,13 @@
     ],
     "@TJonSonic": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "86"
       }
     ],
     "@belizardd": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "87",
         "7D": "29",
         "30D": "38"
@@ -13327,7 +13327,7 @@
     ],
     "@De_Ciphera": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "89",
         "7D": "46",
         "30D": "97"
@@ -13335,7 +13335,7 @@
     ],
     "@mrdejie": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "92",
         "7D": "63",
         "30D": "80"
@@ -13343,234 +13343,234 @@
     ],
     "@cryptomoge": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "93",
         "30D": "59"
       }
     ],
     "@0xLisaSonic": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "94"
       }
     ],
     "@DreamOnSonic": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "95"
       }
     ],
     "@Mars_DeFi": [
       {
-        "project": "SONIC",
+        "project": "S",
         "3M": "100"
       }
     ],
     "@thistakesawhile": [
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "22",
         "30D": "68"
       }
     ],
     "@zeusMlxi": [
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "32",
         "30D": "85"
       }
     ],
     "@dcryptgirll": [
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "35",
         "30D": "81"
       }
     ],
     "@Tanaka_L2": [
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "38",
         "30D": "50"
       }
     ],
     "@JaxxBTC": [
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "39"
       }
     ],
     "@DuskUnzzz": [
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "47"
       }
     ],
     "@acryptoniano": [
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "49",
         "30D": "69"
       }
     ],
     "@Jack_Colorado_": [
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "50"
       }
     ],
     "@WaxNightmares": [
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "56"
       }
     ],
     "@0xshuneth": [
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "61"
       }
     ],
     "@0xyukiyuki": [
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "64",
         "30D": "54"
       }
     ],
     "@iamcandyivie": [
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "65",
         "30D": "56"
       }
     ],
     "@remember_the_n": [
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "66",
         "30D": "94"
       }
     ],
     "@OxCreat0r": [
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "69"
       }
     ],
     "@Drizz_analytics": [
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "70"
       }
     ],
     "@rar3clover": [
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "71"
       }
     ],
     "@the_moonxbtee": [
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "74",
         "30D": "78"
       }
     ],
     "@Babu_97_": [
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "77"
       }
     ],
     "@HarisEbrat": [
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "79",
         "30D": "75"
       }
     ],
     "@gadodegod": [
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "89",
-        "30D": "76"
+        "30D": "77"
       }
     ],
     "@Neenja_Trader": [
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "90"
       }
     ],
     "@SylvesterSolid": [
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "92"
       }
     ],
     "@kuma3041": [
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "93"
       }
     ],
     "@sarang3372": [
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "95"
       },
       {
         "project": "PORTAL",
-        "7D": "81",
+        "7D": "82",
         "30D": "65"
       }
     ],
     "@lightweb_3": [
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "97"
       }
     ],
     "@Hoon11221": [
       {
-        "project": "SONIC",
+        "project": "S",
         "7D": "100"
       }
     ],
     "@chemacs": [
       {
-        "project": "SONIC",
+        "project": "S",
         "30D": "61"
       }
     ],
     "@BlueDerpyfi": [
       {
-        "project": "SONIC",
+        "project": "S",
         "30D": "64"
       }
     ],
     "@OhMyJack100X": [
       {
-        "project": "SONIC",
+        "project": "S",
         "30D": "86"
       }
     ],
     "@BitImmortal": [
       {
-        "project": "SONIC",
-        "30D": "88"
+        "project": "S",
+        "30D": "87"
       }
     ],
     "@RockRehoboam": [
       {
-        "project": "SONIC",
+        "project": "S",
         "30D": "98"
       }
     ],
     "@JohnWayne_Sonic": [
       {
-        "project": "SONIC",
+        "project": "S",
         "30D": "99"
       }
     ],
@@ -13586,7 +13586,7 @@
       {
         "project": "PORTAL",
         "3M": "7",
-        "7D": "79"
+        "7D": "80"
       },
       {
         "project": "KAITO",
@@ -13761,7 +13761,7 @@
       {
         "project": "PORTAL",
         "3M": "51",
-        "7D": "90",
+        "7D": "91",
         "30D": "29"
       }
     ],
@@ -14032,35 +14032,35 @@
     "@WYdaGOAT": [
       {
         "project": "PORTAL",
-        "7D": "44",
+        "7D": "43",
         "30D": "61"
       }
     ],
     "@Cryptojack444": [
       {
         "project": "PORTAL",
-        "7D": "49",
+        "7D": "52",
         "30D": "57"
       }
     ],
     "@NftPerks": [
       {
         "project": "PORTAL",
-        "7D": "62",
+        "7D": "63",
         "30D": "91"
       }
     ],
     "@MookieNFT": [
       {
         "project": "PORTAL",
-        "7D": "64",
+        "7D": "66",
         "30D": "40"
       }
     ],
     "@Perry_Web_3": [
       {
         "project": "PORTAL",
-        "7D": "71"
+        "7D": "70"
       }
     ],
     "@ffiml2358763210": [
@@ -14073,14 +14073,14 @@
     "@sumiru6258": [
       {
         "project": "PORTAL",
-        "7D": "89",
+        "7D": "88",
         "30D": "95"
       }
     ],
     "@JaypaulGrinds": [
       {
         "project": "PORTAL",
-        "7D": "96"
+        "7D": "95"
       }
     ],
     "@SakataYasha": [
@@ -16162,36 +16162,6 @@
         "7D": "tier2"
       }
     ],
-    "@WarrenNakamotoX": [
-      {
-        "project": "KAITO",
-        "30D": "67"
-      }
-    ],
-    "@notthreadguy": [
-      {
-        "project": "KAITO",
-        "30D": "85"
-      },
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@0xfarmed": [
-      {
-        "project": "KAITO",
-        "30D": "86"
-      }
-    ],
-    "@udiWertheimer": [
-      {
-        "project": "KAITO",
-        "30D": "95"
-      },
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@Shuarix": [
       {
         "project": "KAITO",
@@ -16262,6 +16232,36 @@
       {
         "project": "KAITO",
         "30D": "tier2"
+      }
+    ],
+    "@WarrenNakamotoX": [
+      {
+        "project": "KAITO",
+        "30D": "67"
+      }
+    ],
+    "@notthreadguy": [
+      {
+        "project": "KAITO",
+        "30D": "85"
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@0xfarmed": [
+      {
+        "project": "KAITO",
+        "30D": "86"
+      }
+    ],
+    "@udiWertheimer": [
+      {
+        "project": "KAITO",
+        "30D": "95"
+      },
+      {
+        "project": "Inner Circle"
       }
     ],
     "@twindoges": [
