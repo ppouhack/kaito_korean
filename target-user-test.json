@@ -9,6 +9,9 @@
     "INJECTIVE": {
       "icon": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FINJ%252FINJ.png/w=256&q=90"
     },
+    "KAITO": {
+      "icon": "https://img.kaito.ai/v1/https%253A%252F%252Fwww.kaito.ai%252Fhead_pic-dark.png/w=64&q=90"
+    },
     "TALUS": {
       "icon": "https://img.kaito.ai/v1/https%253A%252F%252Fkaito-public-assets.s3.us-west-2.amazonaws.com%252Fticker-icons%252FTALUS%252FTALUS.png/w=64&q=90"
     }
@@ -60,6 +63,11 @@
         "30D_MS": 0.01199,
         "3M": "20",
         "3M_MS": 0.0051
+      },
+      {
+        "project": "KAITO",
+        "30D": "67",
+        "30D_MS": 0.00174
       }
     ],
     "@blockTVBee": [
@@ -71,6 +79,11 @@
         "3M_MS": 0.00588,
         "7D": "6",
         "7D_MS": 0.01412
+      },
+      {
+        "project": "KAITO",
+        "30D": "91",
+        "30D_MS": 0.00154
       }
     ],
     "@thelearningpill": [
@@ -118,6 +131,13 @@
         "3M_MS": 0.00707,
         "7D": "8",
         "7D_MS": 0.01386
+      },
+      {
+        "project": "KAITO",
+        "30D": "86",
+        "30D_MS": 0.00157,
+        "3M": "71",
+        "3M_MS": 0.00112
       }
     ],
     "@Xuegaogx": [
@@ -149,6 +169,11 @@
         "7D_MS": 0.00456
       },
       {
+        "project": "KAITO",
+        "3M": "90",
+        "3M_MS": 0.00083
+      },
+      {
         "project": "TALUS",
         "30D": "20",
         "30D_MS": 0.00652,
@@ -170,6 +195,13 @@
         "3M_MS": 0.00607,
         "7D": "7",
         "7D_MS": 0.01408
+      },
+      {
+        "project": "KAITO",
+        "30D": "35",
+        "30D_MS": 0.00275,
+        "3M": "34",
+        "3M_MS": 0.00164
       }
     ],
     "@Web3Niels": [
@@ -192,6 +224,11 @@
         "3M_MS": 0.00393,
         "7D": "4",
         "7D_MS": 0.01497
+      },
+      {
+        "project": "KAITO",
+        "30D": "92",
+        "30D_MS": 0.00123
       }
     ],
     "@DAXIAGUA1": [
@@ -201,6 +238,11 @@
         "30D_MS": 0.00881,
         "3M": "33",
         "3M_MS": 0.00425
+      },
+      {
+        "project": "KAITO",
+        "3M": "73",
+        "3M_MS": 0.0007
       }
     ],
     "@kantianum": [
@@ -292,6 +334,13 @@
         "7D_MS": 0.01765
       },
       {
+        "project": "KAITO",
+        "30D": "97",
+        "30D_MS": 0.00148,
+        "3M": "51",
+        "3M_MS": 0.00131
+      },
+      {
         "project": "TALUS",
         "30D": "10",
         "30D_MS": 0.0125,
@@ -310,6 +359,13 @@
         "3M_MS": 0.00307
       },
       {
+        "project": "KAITO",
+        "30D": "48",
+        "30D_MS": 0.00172,
+        "3M": "37",
+        "3M_MS": 0.00128
+      },
+      {
         "project": "Inner Circle"
       }
     ],
@@ -322,6 +378,13 @@
         "3M_MS": 0.00609,
         "7D": "47",
         "7D_MS": 0.00429
+      },
+      {
+        "project": "KAITO",
+        "30D": "43",
+        "30D_MS": 0.00163,
+        "3M": "30",
+        "3M_MS": 0.00125
       }
     ],
     "@charles48011843": [
@@ -475,6 +538,13 @@
         "7D_MS": 0.00743
       },
       {
+        "project": "KAITO",
+        "30D": "61",
+        "30D_MS": 0.00137,
+        "3M": "88",
+        "3M_MS": 0.00075
+      },
+      {
         "project": "Inner Circle"
       }
     ],
@@ -496,6 +566,13 @@
         "30D_MS": 0.0053,
         "3M": "31",
         "3M_MS": 0.00427
+      },
+      {
+        "project": "KAITO",
+        "30D": "57",
+        "30D_MS": 0.00138,
+        "3M": "20",
+        "3M_MS": 0.00137
       }
     ],
     "@LennaertSnyder": [
@@ -525,6 +602,11 @@
         "30D_MS": 0.00526,
         "7D": "23",
         "7D_MS": 0.00743
+      },
+      {
+        "project": "KAITO",
+        "3M": "89",
+        "3M_MS": 0.00092
       },
       {
         "project": "Inner Circle"
@@ -852,6 +934,13 @@
         "7D_MS": 0.00394
       },
       {
+        "project": "KAITO",
+        "30D": "44",
+        "30D_MS": 0.00144,
+        "3M": "52",
+        "3M_MS": 0.00082
+      },
+      {
         "project": "TALUS",
         "30D": "66",
         "30D_MS": 0.00281,
@@ -871,6 +960,11 @@
         "30D_MS": 0.00384,
         "3M": "7",
         "3M_MS": 0.00669
+      },
+      {
+        "project": "KAITO",
+        "30D": "93",
+        "30D_MS": 0.00151
       },
       {
         "project": "Inner Circle"
@@ -1012,6 +1106,13 @@
         "project": "INJECTIVE",
         "3M": "93",
         "3M_MS": 0.00079
+      },
+      {
+        "project": "KAITO",
+        "30D": "54",
+        "30D_MS": 0.00199,
+        "3M": "67",
+        "3M_MS": 0.00117
       },
       {
         "project": "TALUS",
@@ -1196,6 +1297,13 @@
         "7D_MS": 0.00464
       },
       {
+        "project": "KAITO",
+        "30D": "39",
+        "30D_MS": 0.00245,
+        "3M": "55",
+        "3M_MS": 0.00127
+      },
+      {
         "project": "Inner Circle"
       }
     ],
@@ -1245,6 +1353,13 @@
         "project": "APTOS",
         "30D": "100",
         "30D_MS": 0.00252
+      },
+      {
+        "project": "KAITO",
+        "30D": "66",
+        "30D_MS": 0.00128,
+        "3M": "21",
+        "3M_MS": 0.00136
       }
     ],
     "@StaniKulechov": [
@@ -1308,6 +1423,11 @@
         "3M_MS": 0.00578
       },
       {
+        "project": "KAITO",
+        "30D": "73",
+        "30D_MS": 0.00151
+      },
+      {
         "project": "Inner Circle"
       }
     ],
@@ -1323,6 +1443,11 @@
         "project": "APTOS",
         "3M": "56",
         "3M_MS": 0.00337
+      },
+      {
+        "project": "KAITO",
+        "30D": "50",
+        "30D_MS": 0.00209
       },
       {
         "project": "Inner Circle"
@@ -1404,6 +1529,13 @@
         "7D_MS": 0.03073
       },
       {
+        "project": "KAITO",
+        "30D": "27",
+        "30D_MS": 0.00189,
+        "3M": "32",
+        "3M_MS": 0.00109
+      },
+      {
         "project": "TALUS",
         "30D": "7",
         "30D_MS": 0.01782,
@@ -1448,6 +1580,13 @@
         "project": "APTOS",
         "3M": "98",
         "3M_MS": 0.00236
+      },
+      {
+        "project": "KAITO",
+        "30D": "68",
+        "30D_MS": 0.00173,
+        "3M": "91",
+        "3M_MS": 0.00104
       },
       {
         "project": "Inner Circle"
@@ -1763,6 +1902,13 @@
         "30D_MS": 0.01444,
         "3M": "14",
         "3M_MS": 0.00769
+      },
+      {
+        "project": "KAITO",
+        "30D": "37",
+        "30D_MS": 0.00211,
+        "3M": "54",
+        "3M_MS": 0.00102
       },
       {
         "project": "Inner Circle"
@@ -2292,6 +2438,13 @@
         "3M_MS": 0.00159,
         "7D": "28",
         "7D_MS": 0.00512
+      },
+      {
+        "project": "KAITO",
+        "30D": "24",
+        "30D_MS": 0.00309,
+        "3M": "18",
+        "3M_MS": 0.00204
       },
       {
         "project": "TALUS",
@@ -3209,6 +3362,13 @@
         "3M_MS": 0.00508
       },
       {
+        "project": "KAITO",
+        "30D": "87",
+        "30D_MS": 0.00157,
+        "3M": "41",
+        "3M_MS": 0.00154
+      },
+      {
         "project": "Inner Circle"
       }
     ],
@@ -3562,6 +3722,11 @@
         "3M_MS": 0.00106
       },
       {
+        "project": "KAITO",
+        "30D": "90",
+        "30D_MS": 0.00155
+      },
+      {
         "project": "Inner Circle"
       }
     ],
@@ -3845,6 +4010,13 @@
         "30D_MS": 0.00022,
         "3M": "49",
         "3M_MS": 0.00294
+      },
+      {
+        "project": "KAITO",
+        "30D": "28",
+        "30D_MS": 0.00207,
+        "3M": "36",
+        "3M_MS": 0.00116
       }
     ],
     "@NEWCRYPS": [
@@ -3973,6 +4145,11 @@
         "3M_MS": 0.00322
       },
       {
+        "project": "KAITO",
+        "3M": "61",
+        "3M_MS": 0.00108
+      },
+      {
         "project": "Inner Circle"
       }
     ],
@@ -4022,6 +4199,13 @@
         "project": "INJECTIVE",
         "3M": "74",
         "3M_MS": 0.0016
+      },
+      {
+        "project": "KAITO",
+        "30D": "33",
+        "30D_MS": 0.00175,
+        "3M": "27",
+        "3M_MS": 0.00117
       }
     ],
     "@CryptoKoryo": [
@@ -4062,6 +4246,13 @@
         "3M_MS": 0.00075
       },
       {
+        "project": "KAITO",
+        "30D": "19",
+        "30D_MS": 0.00239,
+        "3M": "15",
+        "3M_MS": 0.00151
+      },
+      {
         "project": "Inner Circle"
       }
     ],
@@ -4086,7 +4277,706 @@
         "3M_MS": 0.00062
       }
     ],
+    "@Punk9277": [
+      {
+        "project": "KAITO",
+        "30D": "1",
+        "30D_MS": 0.00956,
+        "3M": "1",
+        "3M_MS": 0.00588
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@Deebs_DeFi": [
+      {
+        "project": "KAITO",
+        "30D": "2",
+        "30D_MS": 0.00595,
+        "3M": "2",
+        "3M_MS": 0.00296
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@Smokey_titan": [
+      {
+        "project": "KAITO",
+        "30D": "3",
+        "30D_MS": 0.00435,
+        "3M": "3",
+        "3M_MS": 0.00275
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@sandraaleow": [
+      {
+        "project": "KAITO",
+        "30D": "4",
+        "30D_MS": 0.00426,
+        "3M": "4",
+        "3M_MS": 0.00223
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@walsxbt": [
+      {
+        "project": "KAITO",
+        "30D": "5",
+        "30D_MS": 0.00369,
+        "3M": "8",
+        "3M_MS": 0.00172
+      }
+    ],
+    "@0xjunkim": [
+      {
+        "project": "KAITO",
+        "30D": "6",
+        "30D_MS": 0.00306,
+        "3M": "7",
+        "3M_MS": 0.00181
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@Nickp_xxx": [
+      {
+        "project": "KAITO",
+        "30D": "7",
+        "30D_MS": 0.00294,
+        "3M": "12",
+        "3M_MS": 0.00145
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@TimHaldorsson": [
+      {
+        "project": "KAITO",
+        "30D": "8",
+        "30D_MS": 0.00252,
+        "3M": "6",
+        "3M_MS": 0.00183
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@0xAbhiP": [
+      {
+        "project": "KAITO",
+        "30D": "9",
+        "30D_MS": 0.00283,
+        "3M": "24",
+        "3M_MS": 0.00133
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@0xNairolf": [
+      {
+        "project": "KAITO",
+        "30D": "10",
+        "30D_MS": 0.00385,
+        "3M": "31",
+        "3M_MS": 0.00175
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@0xfs7": [
+      {
+        "project": "KAITO",
+        "30D": "11",
+        "30D_MS": 0.00241,
+        "3M": "17",
+        "3M_MS": 0.00129
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@Xeer": [
+      {
+        "project": "KAITO",
+        "30D": "12",
+        "30D_MS": 0.00355,
+        "3M": "42",
+        "3M_MS": 0.00149
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@jiwoo_jun": [
+      {
+        "project": "KAITO",
+        "30D": "13",
+        "30D_MS": 0.00221,
+        "3M": "29",
+        "3M_MS": 0.00112
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@cjhtech": [
+      {
+        "project": "KAITO",
+        "30D": "14",
+        "30D_MS": 0.00346,
+        "3M": "49",
+        "3M_MS": 0.00134
+      }
+    ],
+    "@web3probe": [
+      {
+        "project": "KAITO",
+        "30D": "15",
+        "30D_MS": 0.00217,
+        "3M": "9",
+        "3M_MS": 0.00167
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@MaraCakeHotSale": [
+      {
+        "project": "KAITO",
+        "30D": "16",
+        "30D_MS": 0.00342,
+        "3M": "10",
+        "3M_MS": 0.00239
+      }
+    ],
+    "@gomtu_xyz": [
+      {
+        "project": "KAITO",
+        "30D": "17",
+        "30D_MS": 0.00215,
+        "3M": "16",
+        "3M_MS": 0.00134
+      }
+    ],
+    "@splinter0n": [
+      {
+        "project": "KAITO",
+        "30D": "18",
+        "30D_MS": 0.00241,
+        "3M": "23",
+        "3M_MS": 0.00134
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@73lV_": [
+      {
+        "project": "KAITO",
+        "30D": "20",
+        "30D_MS": 0.0021,
+        "3M": "26",
+        "3M_MS": 0.00117
+      }
+    ],
+    "@0xWenMoon": [
+      {
+        "project": "KAITO",
+        "30D": "21",
+        "30D_MS": 0.0023,
+        "3M": "5",
+        "3M_MS": 0.00216
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@BroLeonAus": [
+      {
+        "project": "KAITO",
+        "30D": "22",
+        "30D_MS": 0.00223,
+        "3M": "28",
+        "3M_MS": 0.00128
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@MOODOO_Diary": [
+      {
+        "project": "KAITO",
+        "30D": "23",
+        "30D_MS": 0.00251,
+        "3M": "47",
+        "3M_MS": 0.0011
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@CryptoPainter_X": [
+      {
+        "project": "KAITO",
+        "30D": "25",
+        "30D_MS": 0.00217,
+        "3M": "13",
+        "3M_MS": 0.00161
+      }
+    ],
+    "@powitkorea": [
+      {
+        "project": "KAITO",
+        "30D": "26",
+        "30D_MS": 0.00214,
+        "3M": "46",
+        "3M_MS": 0.00098
+      }
+    ],
+    "@0xNathanWalk": [
+      {
+        "project": "KAITO",
+        "30D": "29",
+        "30D_MS": 0.00182,
+        "3M": "25",
+        "3M_MS": 0.00118
+      }
+    ],
+    "@yueya_eth": [
+      {
+        "project": "KAITO",
+        "30D": "30",
+        "30D_MS": 0.002,
+        "3M": "22",
+        "3M_MS": 0.00135
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@itskkoma": [
+      {
+        "project": "KAITO",
+        "30D": "31",
+        "30D_MS": 0.00178,
+        "3M": "38",
+        "3M_MS": 0.001
+      },
+      {
+        "project": "TALUS",
+        "30D": "39",
+        "30D_MS": 0.00393,
+        "3M": "54",
+        "3M_MS": 0.00268,
+        "7D": "23",
+        "7D_MS": 0.00705
+      }
+    ],
+    "@sjdedic": [
+      {
+        "project": "KAITO",
+        "30D": "32",
+        "30D_MS": 0.00197,
+        "3M": "11",
+        "3M_MS": 0.00165
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@the_smart_ape": [
+      {
+        "project": "KAITO",
+        "30D": "34",
+        "30D_MS": 0.00276,
+        "3M": "75",
+        "3M_MS": 0.0011
+      }
+    ],
+    "@StarPlatinumSOL": [
+      {
+        "project": "KAITO",
+        "30D": "36",
+        "30D_MS": 0.00268,
+        "3M": "33",
+        "3M_MS": 0.0017
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@Supers6061": [
+      {
+        "project": "KAITO",
+        "30D": "38",
+        "30D_MS": 0.00264,
+        "3M": "44",
+        "3M_MS": 0.00143
+      }
+    ],
+    "@0xVanxyrus": [
+      {
+        "project": "KAITO",
+        "30D": "40",
+        "30D_MS": 0.00192,
+        "3M": "43",
+        "3M_MS": 0.00114
+      }
+    ],
+    "@ripchillpill": [
+      {
+        "project": "KAITO",
+        "30D": "41",
+        "30D_MS": 0.00191,
+        "3M": "35",
+        "3M_MS": 0.0013
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@Alvin0617": [
+      {
+        "project": "KAITO",
+        "30D": "42",
+        "30D_MS": 0.00165,
+        "3M": "50",
+        "3M_MS": 0.00094
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@OKxiaohai": [
+      {
+        "project": "KAITO",
+        "30D": "45",
+        "30D_MS": 0.00177,
+        "3M": "100",
+        "3M_MS": 0.00078
+      }
+    ],
+    "@legendarygainz_": [
+      {
+        "project": "KAITO",
+        "30D": "46",
+        "30D_MS": 0.00156,
+        "3M": "14",
+        "3M_MS": 0.00154
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@waleswoosh": [
+      {
+        "project": "KAITO",
+        "30D": "47",
+        "30D_MS": 0.00155,
+        "3M": "53",
+        "3M_MS": 0.00091
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@Bum_cryptotiger": [
+      {
+        "project": "KAITO",
+        "30D": "49",
+        "30D_MS": 0.00136,
+        "3M": "59",
+        "3M_MS": 0.00078
+      }
+    ],
+    "@Mikesi30": [
+      {
+        "project": "KAITO",
+        "30D": "51",
+        "30D_MS": 0.00205,
+        "3M": "56",
+        "3M_MS": 0.00126
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@rbthreek": [
+      {
+        "project": "KAITO",
+        "30D": "52",
+        "30D_MS": 0.00161
+      }
+    ],
+    "@OxTochi": [
+      {
+        "project": "KAITO",
+        "30D": "53",
+        "30D_MS": 0.002,
+        "3M": "77",
+        "3M_MS": 0.00109
+      }
+    ],
+    "@eth_apple": [
+      {
+        "project": "KAITO",
+        "30D": "55",
+        "30D_MS": 0.00195
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@0xBeyondLee": [
+      {
+        "project": "KAITO",
+        "30D": "56",
+        "30D_MS": 0.00194
+      }
+    ],
+    "@BuTongRen6": [
+      {
+        "project": "KAITO",
+        "30D": "58",
+        "30D_MS": 0.00192,
+        "3M": "79",
+        "3M_MS": 0.00108
+      }
+    ],
+    "@yuyue_chris": [
+      {
+        "project": "KAITO",
+        "30D": "59",
+        "30D_MS": 0.00154
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@xingxingjun8888": [
+      {
+        "project": "KAITO",
+        "30D": "60",
+        "30D_MS": 0.00192,
+        "3M": "45",
+        "3M_MS": 0.00138
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@alexjmingolla": [
+      {
+        "project": "KAITO",
+        "30D": "62",
+        "30D_MS": 0.00192,
+        "3M": "74",
+        "3M_MS": 0.00111
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@tobific": [
+      {
+        "project": "KAITO",
+        "30D": "63",
+        "30D_MS": 0.00188
+      }
+    ],
+    "@heysoahri": [
+      {
+        "project": "KAITO",
+        "30D": "64",
+        "30D_MS": 0.00183
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@beast_ico": [
+      {
+        "project": "KAITO",
+        "30D": "65",
+        "30D_MS": 0.00146,
+        "3M": "19",
+        "3M_MS": 0.00157
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@DidiTrading": [
+      {
+        "project": "KAITO",
+        "30D": "69",
+        "30D_MS": 0.00137
+      }
+    ],
+    "@Wuhuoqiu": [
+      {
+        "project": "KAITO",
+        "30D": "70",
+        "30D_MS": 0.00122
+      }
+    ],
+    "@KhanAbbas201": [
+      {
+        "project": "KAITO",
+        "30D": "71",
+        "30D_MS": 0.00121
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@SanjayWeb3": [
+      {
+        "project": "KAITO",
+        "30D": "72",
+        "30D_MS": 0.00121,
+        "3M": "57",
+        "3M_MS": 0.00089
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@FabiusDefi": [
+      {
+        "project": "KAITO",
+        "30D": "74",
+        "30D_MS": 0.0015,
+        "3M": "85",
+        "3M_MS": 0.00094
+      }
+    ],
+    "@metaio102": [
+      {
+        "project": "KAITO",
+        "30D": "75",
+        "30D_MS": 0.00169,
+        "3M": "86",
+        "3M_MS": 0.00105
+      }
+    ],
+    "@0xsachi": [
+      {
+        "project": "KAITO",
+        "30D": "76",
+        "30D_MS": 0.00166
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@yawaradoteth": [
+      {
+        "project": "KAITO",
+        "30D": "77",
+        "30D_MS": 0.00132
+      }
+    ],
+    "@banditxbt": [
+      {
+        "project": "KAITO",
+        "30D": "78",
+        "30D_MS": 0.00117,
+        "3M": "48",
+        "3M_MS": 0.00097
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@ZKSgu": [
+      {
+        "project": "KAITO",
+        "30D": "79",
+        "30D_MS": 0.00131
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@KierianV": [
+      {
+        "project": "KAITO",
+        "30D": "80",
+        "30D_MS": 0.00164
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@beijingdou": [
+      {
+        "project": "KAITO",
+        "30D": "81",
+        "30D_MS": 0.00163,
+        "3M": "94",
+        "3M_MS": 0.00102
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@Carlitoswa_y": [
+      {
+        "project": "KAITO",
+        "30D": "82",
+        "30D_MS": 0.0013,
+        "3M": "97",
+        "3M_MS": 0.00081
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@momochenming": [
+      {
+        "project": "KAITO",
+        "30D": "83",
+        "30D_MS": 0.00162
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@yuexiaoyu111": [
+      {
+        "project": "KAITO",
+        "30D": "84",
+        "30D_MS": 0.0016
+      }
+    ],
+    "@SteveKBark": [
+      {
+        "project": "KAITO",
+        "30D": "85",
+        "30D_MS": 0.00157
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
     "@Defi0xJeff": [
+      {
+        "project": "KAITO",
+        "30D": "88",
+        "30D_MS": 0.00156
+      },
       {
         "project": "TALUS",
         "30D": "1",
@@ -4096,6 +4986,300 @@
       },
       {
         "project": "Inner Circle"
+      }
+    ],
+    "@Crouserrr": [
+      {
+        "project": "KAITO",
+        "30D": "89",
+        "30D_MS": 0.00155,
+        "3M": "83",
+        "3M_MS": 0.00107
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@kenodnb": [
+      {
+        "project": "KAITO",
+        "30D": "94",
+        "30D_MS": 0.0015
+      }
+    ],
+    "@cherrycoco_6468": [
+      {
+        "project": "KAITO",
+        "30D": "95",
+        "30D_MS": 0.0015
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@Only1temmy": [
+      {
+        "project": "KAITO",
+        "30D": "96",
+        "30D_MS": 0.00106
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@Baisircrypto": [
+      {
+        "project": "KAITO",
+        "30D": "98",
+        "30D_MS": 0.00148
+      }
+    ],
+    "@reka_eth": [
+      {
+        "project": "KAITO",
+        "30D": "99",
+        "30D_MS": 0.00147
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@Pons_ETH": [
+      {
+        "project": "KAITO",
+        "30D": "100",
+        "30D_MS": 0.00146,
+        "3M": "80",
+        "3M_MS": 0.00107
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@spencer": [
+      {
+        "project": "KAITO",
+        "3M": "39",
+        "3M_MS": 0.00156
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@DeRonin_": [
+      {
+        "project": "KAITO",
+        "3M": "40",
+        "3M_MS": 0.00125
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@FourVork": [
+      {
+        "project": "KAITO",
+        "3M": "58",
+        "3M_MS": 0.00124
+      }
+    ],
+    "@phill76815": [
+      {
+        "project": "KAITO",
+        "3M": "60",
+        "3M_MS": 0.00078
+      }
+    ],
+    "@AndrewAsksHow": [
+      {
+        "project": "KAITO",
+        "3M": "62",
+        "3M_MS": 0.00121
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@TheDeFinvestor": [
+      {
+        "project": "KAITO",
+        "3M": "63",
+        "3M_MS": 0.00097
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@emilios_eth": [
+      {
+        "project": "KAITO",
+        "3M": "64",
+        "3M_MS": 0.00117
+      }
+    ],
+    "@serpinxbt": [
+      {
+        "project": "KAITO",
+        "3M": "65",
+        "3M_MS": 0.00117
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@Picolas_Caged": [
+      {
+        "project": "KAITO",
+        "3M": "66",
+        "3M_MS": 0.00117
+      }
+    ],
+    "@Param_eth": [
+      {
+        "project": "KAITO",
+        "3M": "68",
+        "3M_MS": 0.00092
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@kashviETH": [
+      {
+        "project": "KAITO",
+        "3M": "69",
+        "3M_MS": 0.00114
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@0xkaiserkarel": [
+      {
+        "project": "KAITO",
+        "3M": "70",
+        "3M_MS": 0.00113
+      }
+    ],
+    "@DoggfatherCrew": [
+      {
+        "project": "KAITO",
+        "3M": "72",
+        "3M_MS": 0.00112
+      }
+    ],
+    "@dov_wo": [
+      {
+        "project": "KAITO",
+        "3M": "76",
+        "3M_MS": 0.00109
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@xerocooleth": [
+      {
+        "project": "KAITO",
+        "3M": "78",
+        "3M_MS": 0.00109
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@0xAndrewMoh": [
+      {
+        "project": "KAITO",
+        "3M": "81",
+        "3M_MS": 0.00086
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@camolNFT": [
+      {
+        "project": "KAITO",
+        "3M": "82",
+        "3M_MS": 0.00107
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@shivst3r": [
+      {
+        "project": "KAITO",
+        "3M": "84",
+        "3M_MS": 0.00106
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@0xNarb": [
+      {
+        "project": "KAITO",
+        "3M": "87",
+        "3M_MS": 0.00105
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@basedkarbon": [
+      {
+        "project": "KAITO",
+        "3M": "92",
+        "3M_MS": 0.00103
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@zhuanfgghjnb": [
+      {
+        "project": "KAITO",
+        "3M": "93",
+        "3M_MS": 0.00082
+      }
+    ],
+    "@0xlowadka": [
+      {
+        "project": "KAITO",
+        "3M": "95",
+        "3M_MS": 0.00064
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@NDIDI_GRAM": [
+      {
+        "project": "KAITO",
+        "3M": "96",
+        "3M_MS": 0.0009
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@chimpfone2047": [
+      {
+        "project": "KAITO",
+        "3M": "98",
+        "3M_MS": 0.001
+      },
+      {
+        "project": "Inner Circle"
+      }
+    ],
+    "@insomniac_ac": [
+      {
+        "project": "KAITO",
+        "3M": "99",
+        "3M_MS": 0.00079
       }
     ],
     "@Edward__Park": [
@@ -4402,17 +5586,6 @@
         "3M_MS": 0.00269,
         "7D": "55",
         "7D_MS": 0.00398
-      }
-    ],
-    "@itskkoma": [
-      {
-        "project": "TALUS",
-        "30D": "39",
-        "30D_MS": 0.00393,
-        "3M": "54",
-        "3M_MS": 0.00268,
-        "7D": "23",
-        "7D_MS": 0.00705
       }
     ],
     "@dee_nftarmy": [
@@ -5254,16 +6427,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@cherrycoco_6468": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@MOODOO_Diary": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@sodam_eth": [
       {
         "project": "Inner Circle"
@@ -5295,11 +6458,6 @@
       }
     ],
     "@sikiri0": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@jiwoo_jun": [
       {
         "project": "Inner Circle"
       }
@@ -5345,11 +6503,6 @@
       }
     ],
     "@_Joshiker": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@web3probe": [
       {
         "project": "Inner Circle"
       }
@@ -5425,11 +6578,6 @@
       }
     ],
     "@web3_honey": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@eth_apple": [
       {
         "project": "Inner Circle"
       }
@@ -5559,11 +6707,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@KierianV": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@MrEdogtagnft": [
       {
         "project": "Inner Circle"
@@ -5625,11 +6768,6 @@
       }
     ],
     "@gohameye": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@0xjunkim": [
       {
         "project": "Inner Circle"
       }
@@ -5860,11 +6998,6 @@
       }
     ],
     "@ROKMCFIREANT": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@Alvin0617": [
       {
         "project": "Inner Circle"
       }
@@ -6149,11 +7282,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@camolNFT": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@badte_eth": [
       {
         "project": "Inner Circle"
@@ -6224,11 +7352,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@xerocooleth": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@0xSweep": [
       {
         "project": "Inner Circle"
@@ -6240,11 +7363,6 @@
       }
     ],
     "@digitalartchick": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@Pons_ETH": [
       {
         "project": "Inner Circle"
       }
@@ -6784,11 +7902,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@SanjayWeb3": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@DefinitiveFi": [
       {
         "project": "Inner Circle"
@@ -6889,11 +8002,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@splinter0n": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@tonkongz": [
       {
         "project": "Inner Circle"
@@ -6915,11 +8023,6 @@
       }
     ],
     "@alex_dreyfus": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@Smokey_titan": [
       {
         "project": "Inner Circle"
       }
@@ -6979,11 +8082,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@Punk9277": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@jarrodWattsDev": [
       {
         "project": "Inner Circle"
@@ -7019,17 +8117,7 @@
         "project": "Inner Circle"
       }
     ],
-    "@banditxbt": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@wals_eth": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@TimHaldorsson": [
       {
         "project": "Inner Circle"
       }
@@ -7120,11 +8208,6 @@
       }
     ],
     "@DemAzuki": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@Carlitoswa_y": [
       {
         "project": "Inner Circle"
       }
@@ -7589,11 +8672,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@Xeer": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@coolmatteth": [
       {
         "project": "Inner Circle"
@@ -7684,11 +8762,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@0xAndrewMoh": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@IkoWEB3": [
       {
         "project": "Inner Circle"
@@ -7724,11 +8797,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@AndrewAsksHow": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@cryptoartcollec": [
       {
         "project": "Inner Circle"
@@ -7755,11 +8823,6 @@
       }
     ],
     "@pirate_cheetah": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@BroLeonAus": [
       {
         "project": "Inner Circle"
       }
@@ -8064,11 +9127,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@Param_eth": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@LouisCooper_": [
       {
         "project": "Inner Circle"
@@ -8189,11 +9247,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@Crouserrr": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@CryptosBatman": [
       {
         "project": "Inner Circle"
@@ -8225,11 +9278,6 @@
       }
     ],
     "@CryptoBroNYC": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@ripchillpill": [
       {
         "project": "Inner Circle"
       }
@@ -8470,11 +9518,6 @@
       }
     ],
     "@nef7773": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@0xfs7": [
       {
         "project": "Inner Circle"
       }
@@ -8749,11 +9792,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@momochenming": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@nihaovand": [
       {
         "project": "Inner Circle"
@@ -8915,11 +9953,6 @@
       }
     ],
     "@clayop": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@xingxingjun8888": [
       {
         "project": "Inner Circle"
       }
@@ -9090,11 +10123,6 @@
       }
     ],
     "@mdzzi": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@chimpfone2047": [
       {
         "project": "Inner Circle"
       }
@@ -9524,11 +10552,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@waleswoosh": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@benitopagotto": [
       {
         "project": "Inner Circle"
@@ -9734,11 +10757,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@0xlowadka": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@DeBankDeFi": [
       {
         "project": "Inner Circle"
@@ -9794,11 +10812,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@sandraaleow": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@Jon_HQ": [
       {
         "project": "Inner Circle"
@@ -9810,11 +10823,6 @@
       }
     ],
     "@Chilearmy123": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@legendarygainz_": [
       {
         "project": "Inner Circle"
       }
@@ -9834,17 +10842,7 @@
         "project": "Inner Circle"
       }
     ],
-    "@0xWenMoon": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@rippyfied": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@kashviETH": [
       {
         "project": "Inner Circle"
       }
@@ -9949,11 +10947,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@shivst3r": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@sneakerdad_": [
       {
         "project": "Inner Circle"
@@ -10015,11 +11008,6 @@
       }
     ],
     "@RichVagner": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@0xAbhiP": [
       {
         "project": "Inner Circle"
       }
@@ -10324,11 +11312,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@serpinxbt": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@JacobPPhillips": [
       {
         "project": "Inner Circle"
@@ -10619,11 +11602,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@NDIDI_GRAM": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@0xsexybanana": [
       {
         "project": "Inner Circle"
@@ -10655,11 +11633,6 @@
       }
     ],
     "@wasabi_protocol": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@DeRonin_": [
       {
         "project": "Inner Circle"
       }
@@ -10989,11 +11962,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@TheDeFinvestor": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@SexyMichill": [
       {
         "project": "Inner Circle"
@@ -11060,11 +12028,6 @@
       }
     ],
     "@concitbro": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@beijingdou": [
       {
         "project": "Inner Circle"
       }
@@ -11484,11 +12447,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@0xsachi": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@samkazemian": [
       {
         "project": "Inner Circle"
@@ -11525,11 +12483,6 @@
       }
     ],
     "@TakayamaJoe": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@Mikesi30": [
       {
         "project": "Inner Circle"
       }
@@ -11704,22 +12657,7 @@
         "project": "Inner Circle"
       }
     ],
-    "@yueya_eth": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@yuyue_chris": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@ShirleyXBT": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@ZKSgu": [
       {
         "project": "Inner Circle"
       }
@@ -12580,11 +13518,6 @@
       }
     ],
     "@yahtzeefish": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@Deebs_DeFi": [
       {
         "project": "Inner Circle"
       }
@@ -13904,11 +14837,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@SteveKBark": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@tigerisfine": [
       {
         "project": "Inner Circle"
@@ -14794,11 +15722,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@spencer": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@luigidemeo": [
       {
         "project": "Inner Circle"
@@ -14835,11 +15758,6 @@
       }
     ],
     "@ymat616": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@StarPlatinumSOL": [
       {
         "project": "Inner Circle"
       }
@@ -15139,11 +16057,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@beast_ico": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@0xDith": [
       {
         "project": "Inner Circle"
@@ -15400,11 +16313,6 @@
       }
     ],
     "@Pepe_Jenna": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@heysoahri": [
       {
         "project": "Inner Circle"
       }
@@ -16505,11 +17413,6 @@
       }
     ],
     "@well3official": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@Nickp_xxx": [
       {
         "project": "Inner Circle"
       }
@@ -19374,11 +20277,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@sjdedic": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@eden_": [
       {
         "project": "Inner Circle"
@@ -21589,11 +22487,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@dov_wo": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@prabalbanerjee": [
       {
         "project": "Inner Circle"
@@ -21825,11 +22718,6 @@
       }
     ],
     "@timjrobinson": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@KhanAbbas201": [
       {
         "project": "Inner Circle"
       }
@@ -22270,11 +23158,6 @@
       }
     ],
     "@IamNomad": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@basedkarbon": [
       {
         "project": "Inner Circle"
       }
@@ -24399,11 +25282,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@alexjmingolla": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@debsoon": [
       {
         "project": "Inner Circle"
@@ -24645,11 +25523,6 @@
       }
     ],
     "@IHayato": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@Only1temmy": [
       {
         "project": "Inner Circle"
       }
@@ -25310,11 +26183,6 @@
       }
     ],
     "@danielcawrey": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@reka_eth": [
       {
         "project": "Inner Circle"
       }
@@ -28569,11 +29437,6 @@
         "project": "Inner Circle"
       }
     ],
-    "@0xNairolf": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
     "@eshita": [
       {
         "project": "Inner Circle"
@@ -28590,11 +29453,6 @@
       }
     ],
     "@SkotiVi": [
-      {
-        "project": "Inner Circle"
-      }
-    ],
-    "@0xNarb": [
       {
         "project": "Inner Circle"
       }
